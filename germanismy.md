@@ -1,6 +1,6 @@
-|šablona| vzor, předloha|
-|šábovat (se)| dělit se |
-|šabraka|čabraka |
+| šablona | vzor, předloha |
+| šábovat (se) | dělit se |
+| šabraka | čabraka |
 
 šábrování;škrabání
 
