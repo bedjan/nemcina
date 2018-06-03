@@ -1,6 +1,6 @@
-šablona                    ;  vzor, předloha                           
+|šablona                    |  vzor, předloha                           |
 
-šábovat (se)               ;  dělit se                                  
+|šábovat (se)               | dělit se        |                          
 
 šabraka                    ;  čabraka                                   
 
@@ -78,7 +78,7 @@
          
 šejdíř                     ;  podvodník                                 
 
-  -
+
   šelma                 ;  šelma, dravý savec                    
     
   šéma                  ;  schéma                                 
@@ -435,86 +435,87 @@
 
   špendlík              ;  špendlík; sorta slívy                
 
-špendlit špendlíky připevňovat, spojovat
+špendlit špendlíky; připevňovat, spojovat
 
-špendýrovat darovat, věnovat zast.ob.expr.
+špendýrovat; darovat, věnovat zast.ob.expr.
 
-šperhák paklíč ob.
+šperhák; paklíč ob.
 
-šperk klenot, skvost, cenný předmět
+šperk; klenot, skvost, cenný předmět
 
-šperklapka závěr u pušky zast.voj.slang. šperkovat zdobit, vyzdobovat
+šperklapka; závěr u pušky zast.voj.slang. šperkovat zdobit, vyzdobovat
 (šperky) expr., poněk.zast.ob. šperovat uzavřít, uzavírat řidč.zast.ob.
 
-špic plemeno psů
+špic; plemeno psů
 
-špice, špička hrot, špička
+špice, špička; hrot, špička
 
-špicl slídil, donašeč, udavač ob.hanl.
+špicl; slídil, donašeč, udavač ob.hanl.
 
-špiclovat slídit, špehovat ob.hanl. špicovat (uši) ořezávat do špičky;
+špiclovat; slídit, špehovat ob.hanl. špicovat (uši) ořezávat do špičky;
 nastražit (uši) řidč.; ob. špičkovat dobírat si, popichovat, provokovat
 expr.
 
-špičkový mimořádný, vrcholný, vynikající
+špičkový; mimořádný, vrcholný, vynikající
 
-špígl zrcadlo zř.
+špígl; zrcadlo zř.
 
-špikovat protahovat slaninou; prokládat ob.
+špikovat; protahovat slaninou; prokládat ob.
 
-špión vyzvědač, agent
+špión; vyzvědač, agent
 
-špionáž vyzvědačství, špiónství
+špionáž; vyzvědačství, špiónství
 
-špiritus líh, alkohol ob.
+špiritus; líh, alkohol ob.
 
-špitál nemocnice zast. a ob.expr. špíže, špížka, špižírna místnost k
+špitál; nemocnice zast. a ob.expr. špíže, špížka, špižírna místnost k
 uložení potravin
 
-špona tříska, hoblina tech.slang. (na)šponovat napínat, napnout,
+špona; tříska, hoblina tech.slang. (na)šponovat napínat, napnout,
 natahovat ob. šponovky dlouhé přiléhavé kalhoty není v SSJČ šporhert,
-špolhert sporák zast.ob.
 
-šporna ostruha zast.ob.slang.
+špolhert; sporák zast.ob.
 
-šporovat, špórovat šetřit zast.ob.
+šporna; ostruha zast.ob.slang.
 
-(za)šprajcovat,šprajcnout vzepřít; podepřít zast.ob.slang.
+šporovat, špórovat; šetřit zast.ob.
 
-šprechtit mluvit (německy) zast.ob.expr.
+(za)šprajcovat,šprajcnout; vzepřít; podepřít zast.ob.slang.
 
-špric vinný střik zast.ob.
+šprechtit; mluvit (německy) zast.ob.expr.
 
-šproch řeč, hovor, výrok, rčení zast.ob.
+špric; vinný střik zast.ob.
 
-šprot, šprota mořská rybka příbuzná sledi
+šproch; řeč, hovor, výrok, rčení zast.ob.
 
-šprusel, šprušle, šprysel příčel, příčka zast.ob.
+šprot, šprota; mořská rybka příbuzná sledi
 
-šprým žert poněk.kniž.
+šprusel, šprušle, šprysel; příčel, příčka zast.ob.
 
-šprýmař čtverák, šibal, filuta poněk.kniž.
+šprým; žert poněk.kniž.
 
-šprýmovat dělat šprýmy, žertovat poněk.kniž.
+šprýmař; čtverák, šibal, filuta poněk.kniž.
 
-špulit špulit
+šprýmovat; dělat šprýmy, žertovat poněk.kniž.
 
-špulka cívka ob.
+špulit; špulit
 
-špunt zátka; malé dítě ob.
+špulka; cívka ob.
 
-(za)špuntovat (za)zátkovat ob. špuntovka poplašná nebo dětská pistole
+špunt; zátka; malé dítě ob.
+
+(za)špuntovat; (za)zátkovat ob. špuntovka poplašná nebo dětská pistole
 ob.
 
-špura, špůra stopa; kolej není v SSJČ
+špura, špůra; stopa; kolej není v SSJČ
 
-šrafa čára, křivka není v SSJČ
+šrafa; čára, křivka není v SSJČ
 
-šrafování čárkování, šrafování
+šrafování; čárkování, šrafování
 
-  -
+
   šrafovat                ;  vyplňovat šrafami, čárkovat           
-  -  -
+
   šrajbr, šrajbka         ;  písař, písařka (na stroji)             
 
   šrajbmašina             ;  psací stroj                            
@@ -600,89 +601,90 @@ ob.
   štemplovat              ;  razítkovat                             
 
   štendr                  ;  stojka                                 
-  -
+  
 
-štep strojový steh; zalátané místo řem.; obl.
+štep; strojový steh; zalátané místo řem.; obl.
 
-štift nadační ústav (nemocnice) †
+štift; nadační ústav (nemocnice) †
 
-štikování vyšívání zast.ob.
+štikování; vyšívání zast.ob.
 
-štikovat vyšívat zast.ob.
+štikovat; vyšívat zast.ob.
 
-štof vlněná látka, tkanina poněk.zast.ob.
+štof; vlněná látka, tkanina poněk.zast.ob.
 
-štok poschodí, patro poněk.zast.ob.
+štok; poschodí, patro poněk.zast.ob.
 
-štokfiš treska zast.ob. štokrle, štokrlík kuchyňská sedačka bez opěradla
+štokfiš; treska zast.ob. štokrle, štokrlík kuchyňská sedačka bez opěradla
 ob. štola podzemní chodba, štola horn.
 
-štóla vánočka, houska
+štóla; vánočka, houska
 
-štóla pruh látky, který nosí katol. kněz círk.
+štóla; pruh látky, který nosí katol. kněz círk.
 
-štolba podkoní, správce konírny dř.
+štolba; podkoní, správce konírny dř.
 
-štont stav; stanoviště; stánek prodavače zast.ob.
+štont; stav; stanoviště; stánek prodavače zast.ob.
 
-na štorc obráceně, napříč poněk.zast.ob.
+štorc; obráceně, napříč poněk.zast.ob.
 
-štos hromada, halda, stoh, sloupec poněk.zast.ob.
+štos; hromada, halda, stoh, sloupec poněk.zast.ob.
 
-štoudev větší dřevěná nádoba, menší káď
+štoudev; větší dřevěná nádoba, menší káď
 
-štráf pruh poněk.zast.ob.
+štráf; pruh poněk.zast.ob.
 
-štráfovaný pruhovaný ob.
+štráfovaný; pruhovaný ob.
 
-štráfovat křížem krážem chodit poněk.zast.ob.
+štráfovat; křížem krážem chodit poněk.zast.ob.
 
-štráchy okolky, drahoty, cavyky ob.expr.
+štráchy; okolky, drahoty, cavyky ob.expr.
 
-štrajch večerka;soubor smyčcových nástrojů zast.voj.slang;hud.slang.
-štrajchpudlík dítě pomáhající v tiskárně kartounů dř.
+štrajch; večerka;soubor smyčcových nástrojů zast.voj.slang;hud.slang.
 
-štrajk stávka zast.ob.
+štrajchpudlík; dítě pomáhající v tiskárně kartounů dř.
 
-štrajkovat stávkovat zast.ob.
+štrajk; stávka zast.ob.
 
-štramák elegantní muž, švihák poněk.zast.ob.expr. štramanda elegantní,
+štrajkovat; stávkovat zast.ob.
+
+štramák; elegantní muž, švihák poněk.zast.ob.expr. štramanda elegantní,
 pohledná žena poněk.zast.ob.expr. štrapace, štrapáce námaha, obtíž,
 trmácení poněk.zast.ob. štrapicírovat,štraficírovat namáhat, obtěžovat
 (se) poněk.zast.ob. štrébr snaživec, horlivec, šplhoun ob.expr.
 
-štrejchnout škrtnout ob.expr.
+štrejchnout; škrtnout ob.expr.
 
-štrejchovat, štrychovat natírat poněk.zast.ob.
+štrejchovat, štrychovat; natírat poněk.zast.ob.
 
-štreka cesta, dráha, trať poněk.zast.ob.expr.
+štreka; cesta, dráha, trať poněk.zast.ob.expr.
 
-štrekovat se zdvihat se k odchodu zast.ob.
+štrekovat; se zdvihat se k odchodu zast.ob.
 
-štreng přísný není v SSJČ
+štreng; přísný není v SSJČ
 
-štrikování pletení poněk.zast.ob.
+štrikování; pletení poněk.zast.ob.
 
-štrikovat plést poněk.zast.ob.
+štrikovat; plést poněk.zast.ob.
 
-štrof pokuta zast.ob.
+štrof; pokuta zast.ob.
 
-štrozok slamník poněk.zast.ob.
+štrozok; slamník poněk.zast.ob.
 
-štrúdl závin ob.
+štrúdl; závin ob.
 
-štrycle, štrycla podlouhlý chléb, veka, šiška poněk.zast.ob. štrych
+štrycle, štrycla; podlouhlý chléb, veka, šiška poněk.zast.ob. štrych
 pruh, proužek, čára zast.ob.
 
-štrymfle punčochy není v SSJČ
+štrymfle; punčochy není v SSJČ
 
-štucl, štucel rukávník zast.ob.
+štucl, štucel; rukávník zast.ob.
 
-štucovat zkracovat, zastřihovat řidč.zast.ob.
+štucovat; zkracovat, zastřihovat řidč.zast.ob.
 
-  -
+
   študent, študák            ;  student                                  
-  -  
+
   študie                     ;  studium                                 
 
   študovat                   ;  studovat                                 
@@ -768,41 +770,32 @@ pruh, proužek, čára zast.ob.
   švorcák                    ;  člověk bez peněz                         ;  ob.expr.
 
   švunk, švuňk               ;  rychlost, švih, rozmach, vzlet           ;  ob.expr.
-  -
 
 
-1.  Rozdělení germanismů podle úzu mluvčího
+ablesovat; ablösen; střídat, vystřídat nezná
 
-Germanismus Německý
+abtajlunk;Abteilung; oddíl, kupé nezná
 
-výraz
+ajfr; Eifer; úsilí, horlivost nezná
 
- ;  Český odpovídající výraz Úzus mluvčího
+ajnclík; Einzelzimmer; jednolůžkový pokoj nezná
 
-ablesovat ablösen střídat, vystřídat nezná
+ajznboňák; Eisenbahner; železničář zná, nepoužívá
 
-abtajlunk Abteilung oddíl, kupé nezná
+akorát, akurát; akkurat ;přesně zná, používá
 
-ajfr Eifer úsilí, horlivost nezná
-
-ajnclík Einzelzimmer jednolůžkový pokoj nezná
-
-ajznboňák Eisenbahner železničář zná, nepoužívá
-
-akorát, akurát akkurat přesně zná, používá
-
-almužna Almosen almužna, milodar zná, používá alotria Allotria neplechy,
+almužna; Almosen; almužna, milodar zná, používá alotria Allotria neplechy,
 nezbednosti zná, nepoužívá amt Amt úřad zná, nepoužívá
 
-antvort Antwort odpověď zná, nepoužívá
+antvort; Antwort;odpověď zná, nepoužívá
 
-ánunk Ahnung tušení zná, nepoužívá
+ánunk; Ahnung; tušení zná, nepoužívá
 
-apartní apart vkusný, slušivý zná, nepoužívá
+apartní; apart; vkusný, slušivý zná, nepoužívá
 
-apatyka, apotéka Apotheke lékárna zná, nepoužívá
+apatyka, apotéka; Apotheke; lékárna zná, nepoužívá
 
-apel Appell výzva zná, nepoužívá
+apel; Appell; výzva zná, nepoužívá
 
 apetit Appetit chuť k jídlu zná, používá
 
