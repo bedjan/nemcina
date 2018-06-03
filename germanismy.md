@@ -1,439 +1,434 @@
-|šablona| vzor, předloha|
+šablona; vzor, předloha
 
-|šábovat (se)| dělit se |                          
+šábovat (se); dělit se 
 
-šabraka                    ;  čabraka                                   
+šabraka;čabraka 
 
-šábrování                  ;  škrabání                                  
+šábrování;škrabání
 
-šacovat                    ;  odhadnout, ocenit; prohledat kapsy        
+šacovat;odhadnout, ocenit; prohledat kapsy
 
-šacovník                   ;  odhadce                                   
+šacovník ;odhadce 
 
-šacunk, šacuňk             ;  odhad; výkupné                            
+šacunk, šacuňk ;odhad; výkupné
 
-šafář                      ;  (hospodářský) správce                     
+šafář;(hospodářský) správce 
 
-šafářovat                  ;  být šafářem; rozkazovat druhým            
+šafářovat;být šafářem; rozkazovat druhým
 
-šachta                     ;  důl, šachta    
-                          
-šajba                      ;  kotouč, řemenice; terč                    
+šachta ;důl, šachta
 
-šajn                       ;  svit, záře                                
+šajba;kotouč, řemenice; terč
 
-(ne)mít o něčem šajn(a)    ;  (ne)mít o něčem zdání, ponětí             
+šajn ;svit, záře
 
-šál                        ;  jeden z velkých svalů kýty                
+(ne)mít o něčem šajn(a);(ne)mít o něčem zdání, ponětí 
 
-šála                       ;  šála  
-                                   
-šála                       ;  těžní klec                                
+šál;jeden z velkých svalů kýty
 
-šálek                      ;  šálek, miska 
-                            
-šalina                     ;  (brněnská) tramvaj                        
+šála ;šála
+ 
+šála ;těžní klec
 
-šalíř                      ;  topič v sklářské huti; středov. přilba    
+šálek;šálek, miska 
 
-šalmaj                     ;  píšťala, zvl. pastýřská                   
+šalina ;(brněnská) tramvaj
 
-šalování                   ;  bednění, obložení                         
+šalíř;topič v sklářské huti; středov. přilba
 
-šalovat                    ;  bednit, obkládat, pobíjet prkny           
+šalmaj ;píšťala, zvl. pastýřská 
 
-(vy)šaltovat               ;  (vy)řadit                                 
+šalování ;bednění, obložení 
 
-šaltpáka                   ;  řadicí páka                               
+šalovat;bednit, obkládat, pobíjet prkny 
 
-šaltr                      ;  přepážka                                  
+(vy)šaltovat ;(vy)řadit 
 
-šalvěj                     ;  šalvěj                   
-                
-šalvostr                   ;  lučavka                                   
+šaltpáka ;řadicí páka 
 
-šamot                      ;  žáruvzdorný materiál                      
+šaltr;přepážka
 
-šamotka                    ;  hliněná dlaždice, cihla                   
+šalvěj ;šalvěj 
 
-šamrle, šamrdle            ;  nízká stolička, podnožka                  
+šalvostr ;lučavka 
 
-šamstr                     ;  nápadník, milenec                         
+šamot;žáruvzdorný materiál
 
-šance                      ;  hradby, valy, opevnění, násep             
+šamotka;hliněná dlaždice, cihla 
 
-šancovat                   ;  zatahovat svatebnímu průvodu cestu        
+šamrle, šamrdle;nízká stolička, podnožka
 
-šanovat                    ;  chránit, šetřit                           
+šamstr ;nápadník, milenec 
 
-šantročit                  ;  čachrovat; pokoutně ukrývat               
+šance;hradby, valy, opevnění, násep 
 
-šarlach                    ;  jasně červená barva; spála                
+šancovat ;zatahovat svatebnímu průvodu cestu
 
-šarlat                     ;  tkanina jasně červené barvy  
-            
-šarnýr                     ;  kloubový závěs, stěžejka                  
+šanovat;chránit, šetřit 
 
-šarvátka                   ;  potyčka, půtka, bitka, srážka   
-         
-šejdíř                     ;  podvodník                                 
+šantročit;čachrovat; pokoutně ukrývat 
 
+šarlach;jasně červená barva; spála
 
-  šelma                 ;  šelma, dravý savec                    
-    
-  šéma                  ;  schéma                                 
+šarlat ;tkanina jasně červené barvy
 
-  šenk                  ;  hospoda, výčep, nálevna                
+šarnýr ;kloubový závěs, stěžejka
 
-  šenkovat              ;  nalévat, čepovat                       
+šarvátka ;potyčka, půtka, bitka, srážka 
+ 
+šejdíř ;podvodník 
 
-  šenkovna              ;  hospoda, výčep, nálevna                
+šelma ;šelma, dravý savec
 
-  šenkýř                ;  hostinský, výčepní                     
+šéma;schéma 
 
-  šenkýřka              ;  hostinská                              
-                        ;                                        
-  šerm                  ;  zápolení bodnou n. sečnou zbraní      
+šenk;hospoda, výčep, nálevna
 
-  šermovat              ;  zápolit bodnou n. sečnou zbraní       
+šenkovat;nalévat, čepovat 
 
-  šerpa                 ;  šerpa, široká stuha                   
+šenkovna;hospoda, výčep, nálevna
 
-  šibík                 ;  slepá chodba                           
+šenkýř;hostinský, výčepní 
 
-  šibovat, šíbovat      ;  posunovat (vlak), odsunovat            
+šenkýřka;hostinská
+;
+šerm;zápolení bodnou n. sečnou zbraní
 
-  šíbr                  ;  posunovač; logaritmické pravítko       
+šermovat;zápolit bodnou n. sečnou zbraní 
 
-  šíbrovat, šibrovat    ;  přesunovat, posouvat; čachrovat        
+šerpa ;šerpa, široká stuha 
 
-  šíf                   ;  loď                                    
+šibík ;slepá chodba 
 
-  šifař                 ;  loďař                                  
+šibovat, šíbovat;posunovat (vlak), odsunovat
 
-  šiferna               ;  loděnice                               
+šíbr;posunovač; logaritmické pravítko 
 
-  šichta                ;  směna                                  
+šíbrovat, šibrovat;přesunovat, posouvat; čachrovat
 
-  šichtmistr            ;  vedoucí směny                          
-                        ;                                        
-  šik                   ;  vojenský útvar, šik; dvojřad          
+šíf ;loď
 
-  šikovat               ;  řadit do šiku; poslat                  
+šifař ;loďař
 
-  šikovný               ;  dovedný, zručný, obratný; vhodný       
+šiferna ;loděnice 
 
-  šiknout se            ;  hodit se                               
-                        ;                                        
-  šilhat                ;  šilhat, pošilhávat                    
+šichta;směna
 
-  šilink                ;  bývalé platidlo v Rakousku            
+šichtmistr;vedoucí směny
+;
+šik ;vojenský útvar, šik; dvojřad
 
-  šimfovat              ;  hubovat                                
+šikovat ;řadit do šiku; poslat
 
-  šiml                  ;  bělouš, bílý kůň                       
+šikovný ;dovedný, zručný, obratný; vhodný 
 
-  úřední šiml           ;  bezduché, byrokratické úřadování       
+šiknout se;hodit se 
+;
+šilhat;šilhat, pošilhávat
 
-  šína                  ;  kolejnice                             
+šilink;bývalé platidlo v Rakousku
 
-  šinágl                ;  veslová loďka s plochým dnem           
+šimfovat;hubovat
 
-  šindel                ;  šindel, taška                         
+šiml;bělouš, bílý kůň 
 
-  šindelář              ;  výrobce šindelů                        
+úřední šiml ;bezduché, byrokratické úřadování 
 
-  širm                  ;  stínidlo lampy                         
+šína;kolejnice 
 
-  šišarda               ;  střílna                                
+šinágl;veslová loďka s plochým dnem 
 
-  škapulíř              ;  druh amuletu; část mnišského roucha    
+šindel;šindel, taška 
 
-  škatule               ;  krabice                                
-                        ;                                        
-  škeble                ;  sladkovodní mlž; lastura              
+šindelář;výrobce šindelů
 
-  škoda                 ;  škoda, poškození, újma                
+širm;stínidlo lampy 
 
-  škopek                ;  škopek, dřez                          
+šišarda ;střílna
 
-  šláfrok               ;  župan                                  
+škapulíř;druh amuletu; část mnišského roucha
 
-  šláftruňk             ;  uspávací nápoj                         
+škatule ;krabice
 
-  šlágr                 ;  hit                                    
+škeble;sladkovodní mlž; lastura
 
-  šlajer, šlojíř        ;  závoj, rouška                          
+škoda ;škoda, poškození, újma
 
-  šlajf, šlejf          ;  brzda (mechanická)                    
-  
-  šlajfka                   ;  kravata, vázanka                          
-    
-  šlajfky                   ;  brusle na kličku                          
+škopek;škopek, dřez
 
-  šlajfovat                 ;  brzdit                                    
+šláfrok ;župan
 
-  šlajsna                   ;  propust                                   
+šláftruňk ;uspávací nápoj 
 
-  šlak                      ;  mrtvice; ďas, čert                        
+šlágr ;hit
 
-  šlakovat                  ;  jít po stopě, sledovat                   
+šlajer, šlojíř;závoj, rouška
 
-  šlam                      ;  usazenina uhelného prachu                 
+šlajf, šlejf;brzda (mechanická)
 
-  šlamastyka, šlamastika    ;  nesnáze, trampoty                         
+šlajfka ;kravata, vázanka
 
-  šlank                     ;  štíhlý                                    
-                            ;                                           
-  šlaušek, šlauch           ;  hadička                                  
+šlajfky ;brusle na kličku
 
-  šle                       ;  tráky, kšandy                            
+šlajfovat ;brzdit
 
-  šlechta                   ;  šlechta, vládnoucí třída, aristokracie   
+šlajsna ;propust 
 
-  šlechtic                  ;  příslušník šlechty, aristokrat           
+šlak;mrtvice; ďas, čert
 
-  šlejfírna                 ;  brusírna                                 
+šlakovat;jít po stopě, sledovat 
 
-  šlejfíř                   ;  brusič                                    
+šlam;usazenina uhelného prachu 
 
-  šlem                      ;  hlen, slizovitá látka, kal                
+šlamastyka, šlamastika;nesnáze, trampoty 
 
-  šlendrián                 ;  nepořádek; nepořádný člověk              
+šlank ;štíhlý
+; 
+šlaušek, šlauch ;hadička
 
-  šlengr                    ;  darebák                                   
+šle ;tráky, kšandy
 
-  šlep                      ;  vlečka                                    
+šlechta ;šlechta, vládnoucí třída, aristokracie 
 
-  šlepr, šlépr              ;  tahač, vlek, vlečka                       
+šlechtic;příslušník šlechty, aristokrat 
 
-  šlicovat                  ;  dělat zátinku                             
+šlejfírna ;brusírna 
 
-  šlif                      ;  společenská uhlazenost                    
+šlejfíř ;brusič
 
-  šlichta                   ;  břečka, špatné jídlo                      
+šlem;hlen, slizovitá látka, kal
 
-  šlitáž                    ;  jízda na saních, sanice                   
+šlendrián ;nepořádek; nepořádný člověk
 
-  šlofík                    ;  krátký spánek                             
+šlengr;darebák 
 
-  šlohnout                  ;  ukrást                                    
+šlep;vlečka
 
-  šluk                      ;  polknutí kouře při kouření                
+šlepr, šlépr;tahač, vlek, vlečka 
 
-  šlukovat                  ;  polykat kouř při kouření                 
+šlicovat;dělat zátinku 
 
-  šlundra                   ;  nepořádná nebo nemravná žena              
+šlif;společenská uhlazenost
 
-  šlupna                    ;  smyčka stuhy                              
+šlichta ;břečka, špatné jídlo
 
-  šlus                      ;  konec                                     
+šlitáž;jízda na saních, sanice 
 
-  šmajchl                   ;  lichotka, lichocení, mazlení              
+šlofík;krátký spánek 
 
-  šmajchlíř                 ;  lichotník                                 
+šlohnout;ukrást
 
-  šmajchlovat (se)          ;  lichotit (se), lísat se, mazlit se        
+šluk;polknutí kouře při kouření
 
-  šmajznout                 ;  ukrást; uhodit                           
+šlukovat;polykat kouř při kouření 
 
-  šmak                      ;  chuť, příchuť                             
+šlundra ;nepořádná nebo nemravná žena
 
-  šmáknout (si)             ;  přijít vhod; pochutnat si                 
+šlupna;smyčka stuhy
 
-  šmakovat                  ;  chutnat                                   
+šlus;konec 
 
-  šmant, šmont              ;  uhelný prach; druh briket                 
+šmajchl ;lichotka, lichocení, mazlení
 
-  šmejd                     ;  podřadné zboží, brak                      
+šmajchlíř ;lichotník 
 
-  šmejdit                   ;  zvídavě se pohybovat, slídit              
+šmajchlovat (se);lichotit (se), lísat se, mazlit se
 
-  šmelc                     ;  staré železo, šrot; barevné trety         
+šmajznout ;ukrást; uhodit 
 
-  šmelcíř                   ;  tavič                                     
+šmak;chuť, příchuť 
 
-  šmelcovat                 ;  tavit                                     
-  -
+šmáknout (si) ;přijít vhod; pochutnat si 
 
-  -
-  šmelcovna             ;  tavírna                                  
-    -
-  šmelina               ;  černý obchod, lichva                     
+šmakovat;chutnat 
 
-  šmelinář              ;  překupník                                
+šmant, šmont;uhelný prach; druh briket 
 
-  šmigrust, šmerkust    ;  pomlázka                                 
+šmejd ;podřadné zboží, brak
 
-  šminkovat             ;  líčit                                    
+šmejdit ;zvídavě se pohybovat, slídit
 
-  šminky                ;  líčidla                                  
+šmelc ;staré železo, šrot; barevné trety 
 
-  šmír                  ;  mazadlo, kolomaz                         
+šmelcíř ;tavič 
 
-  šmíra                 ;  kočující divadelní spol. nižší úrovně    
+šmelcovat ;tavit 
 
-  šmírák                ;  koncept; nežádoucí pozorovatel           
+šmelcovna ;tavírna
 
-  šmírbuch              ;  pomocná účetní kniha                    
+šmelina ;černý obchod, lichva 
 
-  šmírovat              ;  mazat šmírem; sledovat, slídit           
+šmelinář;překupník
 
-  šmirgl                ;  smirek, brusný papír                     
+šmigrust, šmerkust;pomlázka 
 
-  šmirglovat            ;  smirkovat, brousit, leštit               
+šminkovat ;líčit
 
-  šmirglpapír           ;  smirkový papír                           
+šminky;líčidla
 
-  šmízo                 ;  úplatek, výhoda; brak, šmejd             
+šmír;mazadlo, kolomaz 
 
-  šmok                  ;  prodejný novinář                         
+šmíra ;kočující divadelní spol. nižší úrovně
 
-  šmolc                 ;  přepuštěné máslo                         
-                        ;                                          
-  šmolka                ;  modřidlo                                
+šmírák;koncept; nežádoucí pozorovatel 
 
-  šmolkovat             ;  modřit šmolkou                           
+šmírbuch;pomocná účetní kniha
 
-  šmorn                 ;  trhanec, smaženec                        
+šmírovat;mazat šmírem; sledovat, slídit 
 
-  šmudla                ;  špindíra                                 
+šmirgl;smirek, brusný papír 
 
-  (u)šmudlaný           ;  ušpiněný                                 
+šmirglovat;smirkovat, brousit, leštit 
 
-  šmudlat               ;  dělat neobratně, nepořádně umývat        
+šmirglpapír ;smirkový papír 
 
-  šmuk                  ;  šperk, klenot, ozdoba                    
+šmízo ;úplatek, výhoda; brak, šmejd 
 
-  šnaps, šnába          ;  kořalka, pálenka                         
-                        ;                                          
-  šnek                  ;  hlemýžď, šnek                           
+šmok;prodejný novinář 
 
-  šněrovací             ;  šněrovací, stahovaný tkanicí            
+šmolc ;přepuštěné máslo 
+;
+šmolka;modřidlo
 
-  šněrovačka            ;  korzet                                   
-                        ;                                          
-  šněrovat              ;  spojovat, svazovat, stahovat tkanicí    
+šmolkovat ;modřit šmolkou 
 
-  šnorchl               ;  potápěčská trubice, šnorchl              
+šmorn ;trhanec, smaženec
 
-  šňořit                ;  zdobit, krášlit, fintit                  
-                        ;                                          
-  šňupací               ;  určený, sloužící k šňupání              
+šmudla;špindíra 
 
-  šňupák                ;  kapesník; čenich                         
+(u)šmudlaný ;ušpiněný 
 
-  šňupat                ;  vtahovat nosem                           
+šmudlat ;dělat neobratně, nepořádně umývat
 
-  šnuptychl             ;  kapesník                                 
-                        ;                                          
-  šňůra                 ;  provaz                                  
+šmuk;šperk, klenot, ozdoba
 
-  šnurbart              ;  knír                                     
+šnaps, šnába;kořalka, pálenka 
 
-  šnycar                ;  truhlářský nebo knihařský nůž            
+šnek;hlemýžď, šnek 
 
-  šnycl                 ;  řízek                                    
+šněrovací ;šněrovací, stahovaný tkanicí
 
-  šnyt                  ;  malé pivo; střih (šatů); řez             
+šněrovačka;korzet 
 
-  šnytlich, šnytlík     ;  pažitka                                  
+šněrovat;spojovat, svazovat, stahovat tkanicí
 
-  šnytovat              ;  opracovávat okraje podešve               
+šnorchl ;potápěčská trubice, šnorchl
 
-  šopa                  ;  kůlna, dřevník                           
+šňořit;zdobit, krášlit, fintit
 
-  šorc                  ;  zástěra                                  
-  -
+šňupací ;určený, sloužící k šňupání
 
-  -
-  šorfšic, šarfšic      ;  ostrostřelec                         
-   - 
-  šorna                 ;  škrabka na saze                      
+šňupák;kapesník; čenich 
 
-  šos                   ;  cíp kabátu                           
+šňupat;vtahovat nosem 
 
-  šosácký               ;  příliš konzervativní, zpátečnický    
+šnuptychl ;kapesník 
 
-  šosák                 ;  šosatý kabát; zpátečník, omezenec    
-                        ;                                      
-  šotek                 ;  domácí skřítek, diblík, rarášek     
+šňůra ;provaz
 
-  šotyš                 ;  název pro skotskou; skotský vzor     
+šnurbart;knír 
 
-  šouf                  ;  naběračka s dlouhým držadlem         
-                        ;                                      
-  šoupnout              ;  strčit, posunout                    
+šnycar;truhlářský nebo knihařský nůž
 
-  šourat                ;  šoupavě něčím pohybovat             
+šnycl ;řízek
 
-  špacír                ;  procházka                            
+šnyt;malé pivo; střih (šatů); řez 
 
-  špacírka              ;  vycházková hůl                       
+šnytlich, šnytlík ;pažitka
 
-  špacírovat            ;  procházet se                         
+šnytovat;opracovávat okraje podešve 
 
-  špagát                ;  provaz, motouz                       
-                        ;                                      
-  špachtle              ;  stěrka, roztěrka                    
+šopa;kůlna, dřevník 
 
-  špajz, špajzka        ;  spíže, spižírna                      
+šorc;zástěra
 
-  špalda                ;  druh pšenice, samopše                
+šorfšic, šarfšic;ostrostřelec 
 
-  špaleta               ;  ostění                               
-                        ;                                      
-  špalír                ;  řada                                
+šorna ;škrabka na saze
 
-  špán                  ;  louč                                 
+šos; cíp kabátu 
 
-  špangle               ;  druh pout, želízka, okovy            
+šosácký ;příliš konzervativní, zpátečnický
 
-  špargl                ;  chřest                               
+šosák ;šosatý kabát; zpátečník, omezenec
 
-  špárkasa              ;  spořitelna                           
+šotek ;domácí skřítek, diblík, rarášek 
 
-  špárovat              ;  šetřit                              
+šotyš ;název pro skotskou; skotský vzor 
 
-  špársystém            ;  úsporný systém                       
+šouf;naběračka s dlouhým držadlem 
 
-  špás                  ;  legrace, zábava, žert, šprým         
+šoupnout;strčit, posunout
 
-  špásovat              ;  žertovat, šprýmovat                  
+šourat;šoupavě něčím pohybovat 
 
-  špátka                ;  lopatka                              
+špacír;procházka
 
-  špeceraj              ;  obchod se smíšeným zbožím            
+špacírka;vycházková hůl 
 
-  špeh                  ;  vyzvědač, slídil, zvěd, špion        
+špacírovat;procházet se 
 
-  špehovat              ;  slídit, vyzvídat, sledovat           
+špagát;provaz, motouz 
 
-  špehýrka              ;  kukátko, malé okénko                 
+špachtle;stěrka, roztěrka
 
-  špejchar              ;  sýpka                                
-                        ;                                      
-  špejle                ;  špejle                              
+špajz, špajzka;spíže, spižírna
 
-  špejlovat             ;  uzavírat špejlemi, špejlovat         
-                        ;                                      
-  špek                  ;  slanina, špek                       
+špalda;druh pšenice, samopše
 
-  špekáček              ;  špekáček                             
+špaleta ;ostění 
 
-  špekbuřt, špekvuřt    ;  tlačenka                             
+špalír;řada
 
-  špekoun               ;  tlustý člověk, tlusťoch              
+špán;louč 
 
-  špekové knedlíky      ;  špekové knedlíky                     
+špangle ;druh pout, želízka, okovy
 
-  špekulírovat          ;  spekulovat, uvažovat, přemýšlet      
+špargl;chřest 
 
-  špeluňka              ;  místnost bez oken, komůrka           
-                        ;                                      
-  špenát                ;  špenát                              
+špárkasa;spořitelna 
 
-  špendlík              ;  špendlík; sorta slívy                
+špárovat;šetřit
+
+špársystém;úsporný systém 
+
+špás;legrace, zábava, žert, šprým 
+
+špásovat;žertovat, šprýmovat
+
+špátka;lopatka
+
+špeceraj;obchod se smíšeným zbožím
+
+špeh;vyzvědač, slídil, zvěd, špion
+
+špehovat;slídit, vyzvídat, sledovat 
+
+špehýrka;kukátko, malé okénko 
+
+špejchar;sýpka
+
+špejle;špejle
+
+špejlovat ;uzavírat špejlemi, špejlovat 
+
+špek;slanina, špek 
+
+špekáček;špekáček 
+
+špekbuřt, špekvuřt;tlačenka 
+
+špekoun ;tlustý člověk, tlusťoch
+
+špekové knedlíky;špekové knedlíky 
+
+špekulírovat;spekulovat, uvažovat, přemýšlet
+
+špeluňka;místnost bez oken, komůrka 
+
+špenát;špenát
+
+špendlík;špendlík; sorta slívy
 
 špendlit špendlíky; připevňovat, spojovat
 
@@ -444,7 +439,7 @@
 šperk; klenot, skvost, cenný předmět
 
 šperklapka; závěr u pušky zast.voj.slang. šperkovat zdobit, vyzdobovat
-(šperky) expr., poněk.zast.ob. šperovat uzavřít, uzavírat řidč.zast.ob.
+(šperky) expr.,šperovat uzavřít, uzavírat řidč.zast.ob.
 
 špic; plemeno psů
 
@@ -513,95 +508,93 @@ ob.
 
 šrafování; čárkování, šrafování
 
+šrafovat;vyplňovat šrafami, čárkovat 
 
-  šrafovat                ;  vyplňovat šrafami, čárkovat           
+šrajbr, šrajbka ;písař, písařka (na stroji) 
 
-  šrajbr, šrajbka         ;  písař, písařka (na stroji)             
+šrajbmašina ;psací stroj
 
-  šrajbmašina             ;  psací stroj                            
+šrajtofle ;peněženka 
 
-  šrajtofle               ;  peněženka                             
+šrák;popruh, šle; věšák, stojan, police 
+;
+šrám;jizva, škrábnutí, rána
 
-  šrák                    ;  popruh, šle; věšák, stojan, police     
-                          ;                                        
-  šrám                    ;  jizva, škrábnutí, rána                
+šraml ;lidový soubor o několika hráčích 
 
-  šraml                   ;  lidový soubor o několika hráčích       
+šrank ;skříň
 
-  šrank                   ;  skříň                                  
+šraňky;závory 
 
-  šraňky                  ;  závory                                 
-                          ;                                        
-  šrapnel                 ;  dělostřelecká střela, šrapnel         
+šrapnel ;dělostřelecká střela, šrapnel 
 
-  šrek, šrekou            ;  šikmo, napříč                          
+šrek, šrekou;šikmo, napříč
 
-  šrift                   ;  písmo                                  
-                          ;                                        
-  šrot                    ;  krmivo, drť                           
+šrift ;písmo
 
-  šrot                    ;  odpad, staré železo                   
+šrot;krmivo, drť 
 
-  šrotovat                ;  šrotovat, drtit (obilí)               
+šrot;odpad, staré železo 
 
-  šrotovat                ;  šrotovat, drtit (staré železo)        
+šrotovat;šrotovat, drtit (obilí) 
 
-  šrotovník               ;  zařízení sloužící k výrobě šrotu       
-                          ;                                        
-  šroub                   ;  šroub                                 
+šrotovat;šrotovat, drtit (staré železo)
 
-  šroubovací              ;  zařízený na šroubování                
+šrotovník ;zařízení sloužící k výrobě šrotu 
 
-  šroubovák, šraubncír    ;  šroubovák                             
+šroub ;šroub 
 
-  šroubovat               ;  šroubovat                             
+šroubovací;zařízený na šroubování
 
-  štáb                    ;  štáb, sbor                             
+šroubovák, šraubncír;šroubovák 
 
-  štábní                  ;  týkající se štábu; dř. voj. hodnost    
+šroubovat ;šroubovat 
 
-  štace                   ;  stanice, zastávka; působiště           
+štáb;štáb, sbor 
 
-  štafírovat              ;  upravovat, krášlit, zdobit; obšívat    
+štábní;týkající se štábu; dř. voj. hodnost
 
-  štafle                  ;  dvojitý žebřík; malířský stojan        
+štace ;stanice, zastávka; působiště 
 
-  štajf                   ;  strnulý, nehybný                       
+štafírovat;upravovat, krášlit, zdobit; obšívat
 
-  štajfovat se            ;  naparovat se, kasat se                 
+štafle;dvojitý žebřík; malířský stojan
 
-  štajgr                  ;  důlní dozorce                          
+štajf ;strnulý, nehybný 
 
-  štajgrovat              ;  stupňovat, zvyšovat                    
+štajfovat se;naparovat se, kasat se 
 
-  štajryš                 ;  český lid. tanec třídobého rytmu       
+štajgr;důlní dozorce
 
-  štalmistr               ;  podkoní; jeden z dvorských úředníků    
+štajgrovat;stupňovat, zvyšovat
 
-  štambuch                ;  památník, album                        
+štajryš ;český lid. tanec třídobého rytmu 
 
-  štamgast                ;  stálý host                             
+štalmistr ;podkoní; jeden z dvorských úředníků
 
-  štamprle                ;  kalíšek, stopka                        
+štambuch;památník, album
 
-  štangle                 ;  tyč, tyčka                             
+štamgast;stálý host 
 
-  štekl                   ;  západka, kolík                         
+štamprle;kalíšek, stopka
 
-  štekle                  ;  vysoké podpatky                        
+štangle ;tyč, tyčka 
 
-  štelář, šteláž          ;  police, regál                         
+štekl ;západka, kolík 
 
-  štelovat                ;  seřizovat, upravovat                   
+štekle;vysoké podpatky
 
-  štelunk                 ;  pozice, zákopy, postavení             
+štelář, šteláž;police, regál 
 
-  štempl                  ;  razítko, pečeť                         
+štelovat;seřizovat, upravovat 
 
-  štemplovat              ;  razítkovat                             
+štelunk ;pozice, zákopy, postavení 
 
-  štendr                  ;  stojka                                 
-  
+štempl;razítko, pečeť 
+
+štemplovat;razítkovat 
+
+štendr;stojka 
 
 štep; strojový steh; zalátané místo řem.; obl.
 
@@ -611,9 +604,9 @@ ob.
 
 štikovat; vyšívat zast.ob.
 
-štof; vlněná látka, tkanina poněk.zast.ob.
+štof; vlněná látka, tkanina 
 
-štok; poschodí, patro poněk.zast.ob.
+štok; poschodí, patro 
 
 štokfiš; treska zast.ob. štokrle, štokrlík kuchyňská sedačka bez opěradla
 ob. štola podzemní chodba, štola horn.
@@ -626,17 +619,17 @@ ob. štola podzemní chodba, štola horn.
 
 štont; stav; stanoviště; stánek prodavače zast.ob.
 
-štorc; obráceně, napříč poněk.zast.ob.
+štorc; obráceně, napříč 
 
-štos; hromada, halda, stoh, sloupec poněk.zast.ob.
+štos; hromada, halda, stoh, sloupec 
 
 štoudev; větší dřevěná nádoba, menší káď
 
-štráf; pruh poněk.zast.ob.
+štráf; pruh 
 
 štráfovaný; pruhovaný ob.
 
-štráfovat; křížem krážem chodit poněk.zast.ob.
+štráfovat; křížem krážem chodit 
 
 štráchy; okolky, drahoty, cavyky ob.expr.
 
@@ -648,32 +641,32 @@ ob. štola podzemní chodba, štola horn.
 
 štrajkovat; stávkovat zast.ob.
 
-štramák; elegantní muž, švihák poněk.zast.ob.expr. štramanda elegantní,
-pohledná žena poněk.zast.ob.expr. štrapace, štrapáce námaha, obtíž,
-trmácení poněk.zast.ob. štrapicírovat,štraficírovat namáhat, obtěžovat
-(se) poněk.zast.ob. štrébr snaživec, horlivec, šplhoun ob.expr.
+štramák; elegantní muž, švihák expr. štramanda elegantní,
+pohledná žena expr. štrapace, štrapáce námaha, obtíž,
+trmáceníštrapicírovat,štraficírovat namáhat, obtěžovat
+(se)štrébr snaživec, horlivec, šplhoun ob.expr.
 
 štrejchnout; škrtnout ob.expr.
 
-štrejchovat, štrychovat; natírat poněk.zast.ob.
+štrejchovat, štrychovat; natírat 
 
-štreka; cesta, dráha, trať poněk.zast.ob.expr.
+štreka; cesta, dráha, trať expr.
 
 štrekovat; se zdvihat se k odchodu zast.ob.
 
 štreng; přísný není v SSJČ
 
-štrikování; pletení poněk.zast.ob.
+štrikování; pletení 
 
-štrikovat; plést poněk.zast.ob.
+štrikovat; plést 
 
 štrof; pokuta zast.ob.
 
-štrozok; slamník poněk.zast.ob.
+štrozok; slamník 
 
 štrúdl; závin ob.
 
-štrycle, štrycla; podlouhlý chléb, veka, šiška poněk.zast.ob. štrych
+štrycle, štrycla; podlouhlý chléb, veka, šiškaštrych
 pruh, proužek, čára zast.ob.
 
 štrymfle; punčochy není v SSJČ
@@ -682,334 +675,474 @@ pruh, proužek, čára zast.ob.
 
 štucovat; zkracovat, zastřihovat řidč.zast.ob.
 
+študent, študák;student
 
-  študent, študák            ;  student                                  
+študie ;studium 
 
-  študie                     ;  studium                                 
+študovat ;studovat 
 
-  študovat                   ;  studovat                                 
+štukatér ;odborník v štukových pracích
 
-  štukatér                   ;  odborník v štukových pracích            
+štulpa, štulpna;vysoká bota se zahrnutým okrajem 
 
-  štulpa, štulpna            ;  vysoká bota se zahrnutým okrajem         
+štupovačka ;látací bavlnka 
 
-  štupovačka                 ;  látací bavlnka                           
+štupovat, štepovat ;zašívat, látat 
 
-  štupovat, štepovat         ;  zašívat, látat                           
+šturc;ochranný poklop; slepá kolej 
 
-  šturc                      ;  ochranný poklop; slepá kolej             
+šturm;útok, zteč; nápor; poplach
 
-  šturm                      ;  útok, zteč; nápor; poplach              
+šturmhut ;vojenská přilba ve tvaru klobouku
 
-  šturmhut                   ;  vojenská přilba ve tvaru klobouku        
+šturmovat;brát útokem; naléhat; řítit se, pádit
 
-  šturmovat                  ;  brát útokem; naléhat; řítit se, pádit    
+štyft, šteft ;kolík, nýt, šroub
 
-  štyft, šteft               ;  kolík, nýt, šroub                        
+štych; nechat ve štychu;steh; nechat na holičkách
 
-  štych; nechat ve štychu    ;  steh; nechat na holičkách                
+štychpróba ;namátková zkouška, kontrola
 
-  štychpróba                 ;  namátková zkouška, kontrola              
+štymovat, štemovat ;souhlasit, ladit 
 
-  štymovat, štemovat         ;  souhlasit, ladit                         
+šufánek, žufánek ;naběračka, sběračka
 
-  šufánek, žufánek           ;  naběračka, sběračka                      
+šumař;potulný hudebník; špatný hudebník
 
-  šumař                      ;  potulný hudebník; špatný hudebník        
-                             ;                                          
-  šunka                      ;  šunka                                   
+šunka;šunka 
 
-  šunkofleky, šunkafleky     ;  šunkové flíčky                          
+šunkofleky, šunkafleky ;šunkové flíčky
 
-  šunt                       ;  brak, šmejd, bezcenná věc                
+šunt ;brak, šmejd, bezcenná věc
 
-  šupák                      ;  sešlý, nedbalý, darebný člověk           
-                             ;                                          
-  šupina                     ;  šupina; lupy                            
+šupák;sešlý, nedbalý, darebný člověk 
 
-  šuple, šuplík, šufle       ;  zásuvka                                 
+šupina ;šupina; lupy
 
-  šuplera, šupléra           ;  posuvné měřítko, posuvka                 
+šuple, šuplík, šufle ;zásuvka 
 
-  šurf                       ;  průzkumná šachtice                       
+šuplera, šupléra ;posuvné měřítko, posuvka 
 
-  šus, šús                   ;  prudký přímý sjezd; opal, odstřel       
+šurf ;průzkumná šachtice 
 
-  šús                        ;  zbrklý, potrhlý člověk                   
+šus, šús ;prudký přímý sjezd; opal, odstřel 
 
-  šutr                       ;  kámen; štěrk                             
+šús;zbrklý, potrhlý člověk 
 
-  šutrovat                   ;  štěrkovat                                
-                             ;                                          
-  šváb                       ;  šváb                                    
+šutr ;kámen; štěrk 
 
-  švagr                      ;  švagr                                   
+šutrovat ;štěrkovat
 
-  švagrová                   ;  švagrová                                
+šváb ;šváb
 
-  švajneraj                  ;  špína, nečistota, nepořádek, svinstvo    ;  není v SSJČ
+švagr;švagr 
 
-  švencovat                  ;  ulejvat se                               ;  zast.slang.
+švagrová ;švagrová
 
-  švenkovat                  ;  pohybovat, zabírat (kamerou)             ;  film.slang.
+švajneraj;špína, nečistota, nepořádek, svinstvo;není v SSJČ
 
-  švígra, ségra              ;  sestra                                   ;  není v SSJČ
+švencovat;ulejvat se ;zast.slang.
 
-  švígrfotr                  ;  tchán                                    ;  zast.ob.
+švenkovat;pohybovat, zabírat (kamerou) ;film.slang.
 
-  švígrmutr                  ;  tchýně                                   ;  zast.ob.
+švígra, ségra;sestra ;není v SSJČ
 
-  švindl                     ;  lest, úskok, klam, podvod                ;  ob.
+švígrfotr;tchán;zast.ob.
 
-  švindlíř, švindléř         ;  podvodník, šejdíř                        ;  ob.
+švígrmutr;tchýně ;zast.ob.
 
-  švindlovat                 ;  podvádět                                 ;  ob.
+švindl ;lest, úskok, klam, podvod;ob.
 
-  být švorc                  ;  být bez peněz                            ;  ob.expr.
+švindlíř, švindléř ;podvodník, šejdíř;ob.
 
-  švorcák                    ;  člověk bez peněz                         ;  ob.expr.
+švindlovat ;podvádět ;ob.
 
-  švunk, švuňk               ;  rychlost, švih, rozmach, vzlet           ;  ob.expr.
+být švorc;být bez peněz;ob.expr.
 
+švorcák;člověk bez peněz ;ob.expr.
 
-ablesovat; ablösen; střídat, vystřídat nezná
+švunk, švuňk ;rychlost, švih, rozmach, vzlet ;ob.expr.
 
-abtajlunk;Abteilung; oddíl, kupé nezná
+ablesovat; ablösen; střídat, vystřídat 
 
-ajfr; Eifer; úsilí, horlivost nezná
+abtajlunk;Abteilung; oddíl, kupé 
 
-ajnclík; Einzelzimmer; jednolůžkový pokoj nezná
+ajfr; Eifer; úsilí, horlivost 
 
-ajznboňák; Eisenbahner; železničář zná, nepoužívá
+ajnclík; Einzelzimmer; jednolůžkový pokoj 
 
-akorát, akurát; akkurat ;přesně zná, používá
+ajznboňák; Eisenbahner; železničář 
 
-almužna; Almosen; almužna, milodar zná, používá alotria Allotria neplechy,
-nezbednosti zná, nepoužívá amt Amt úřad zná, nepoužívá
+akorát, akurát; akkurat ;přesně 
 
-antvort; Antwort;odpověď zná, nepoužívá
+almužna; Almosen; almužna, milodar  alotria Allotria neplechy,
+nezbednostiamt Amt úřad 
 
-ánunk; Ahnung; tušení zná, nepoužívá
+antvort; Antwort;odpověď 
 
-apartní; apart; vkusný, slušivý zná, nepoužívá
+ánunk; Ahnung; tušení 
 
-apatyka, apotéka; Apotheke; lékárna zná, nepoužívá
+apartní; apart; vkusný, slušivý 
 
-apel; Appell; výzva zná, nepoužívá
+apatyka, apotéka; Apotheke; lékárna 
 
-apetit Appetit chuť k jídlu zná, používá
+apel; Appell; výzva 
 
-arbajt Arbeit práce zná, nepoužívá
+apetit; Appetit; chuť k jídlu 
 
-arest Arrest vězení zná, nepoužívá
+arbajt; Arbeit; práce 
 
-artikl Artikel druh zboží zná, používá
+arest; Arrest; vězení 
 
-ausgerechnet ausgerechnet právě, zrovna zná, nepoužívá
+artikl; Artikel; druh zboží 
 
-auslák, auslendr Ausländer cizinec zná, nepoužívá
-
-aušus, aušús Ausschuss zmetek zná, nepoužívá
-
-bafat paffen bafat, lekat zná, používá
-
-bagr Bagger bagr, rypadlo zná, používá
-
-bachař Wache vězeňský dozorce zná, používá
-
-bál Ball ples zná, používá
-
-banda Bande parta zná, používá
-
-barva Farbe barva zná, používá
-
-barvíř Färber barvíř zná, používá
-
-barvit färben barvit zná, používá
-
-bastlení Basteln vyrábění svépomocí nezná
-
-bastlíř Bastler kutil nezná bastlit basteln kutit, vyrábět svépomocí
-nezná
-
-bašta Bastion, Bastei hradební věž; obydlí baštýře zná, nepoužívá
-batalion Bataillon prapor vojska zná, nepoužívá
-
-befél Befehl rozkaz zná, nepoužívá
-
-bíbr Biber = bobr bradka nezná
-
-biflovat büffeln učit se nazpaměť zná, používá
-
-bichle Büchel knížka zná, nepoužívá
-
-biskup Bischof biskup zná, používá
-
-  blekotat               ;  blöken             ;  blekotat                           ;  zná, používá
-   -  
-  blinkr, blikač         ;  Blinker            ;  směrovka, blinkr                   ;  zná, používá
-  blikat, bliknout       ;  blinkern           ;  blikat, bliknout                   ;  zná, používá
-  na blint               ;  blind              ;  naslepo                            ;  nezná
-  blok                   ;  Block              ;  blok                               ;  zná, používá
-  blokáda                ;  Blockade           ;  blokáda                            ;  zná, používá
-  blokovat               ;  blocken            ;  blokovat, znemožnit přístup        ;  zná, používá
-  bouda                  ;  Bude, Baude        ;  bouda, chata, salaš                ;  zná, používá
-  boule                  ;  Beule              ;  boule                              ;  zná, používá
-  brak                   ;  Brack              ;  podřadné, kazové zboží, zmetek     ;  zná, používá
-  brakovat               ;  bracken            ;  vybírat                            ;  zná, nepoužívá
-  brýle                  ;  Brille             ;  brýle                              ;  zná, používá
-  buchta                 ;  Buchtel (rak.)     ;  buchta                             ;  zná, používá
-  bunkr                  ;  Bunker             ;  pevnůstka, kryt                    ;  zná, používá
-  buřt                   ;  Wurst              ;  buřt, vuřt                         ;  zná, používá
-  bužírka                ;  původně z fr.      ;  izolace drátu                      ;  nezná
-  byró, byro             ;  Büro               ;  kancelář; vedoucí výkonný orgán    ;  zná, nepoužívá
-  cajghaus               ;  Zeughaus           ;  zbrojnice (zast.)                  ;  nezná
-  cajk                   ;  Zeug               ;  látka (podřadná)                   ;  zná, používá
-  v cajku                ;  Zeug               ;  v pořádku                          ;  zná, nepoužívá
-  (za)cálovat            ;  zahlen             ;  (za)platit                         ;  zná, používá
-  cech                   ;  Zeche              ;  cech                               ;  zná, nepoužívá
-  cejch                  ;  Zeche              ;  značka; účet                       ;  zná, nepoužívá
-  celník                 ;  Zöllner            ;  celník                             ;  zná, používá
-  celta                  ;  Zelt               ;  plachta                            ;  zná, používá
-  cemr                   ;  Ziemer             ;  hřbet, záda                        ;  zná, nepoužívá
-  ciferník               ;  Zifferblatt        ;  číselník                           ;  zná, používá
-  cifra                  ;  Ziffer             ;  číslice                            ;  zná, používá
-  cihla                  ;  Ziegel             ;  cihla                              ;  zná, používá
-  cícha                  ;  Zieche             ;  povlak na peřinu                   ;  zná, používá
-  cíl                    ;  Ziel               ;  cíl                                ;  zná, používá
-  cílit                  ;  zielen             ;  cílit, mířit                       ;  zná, používá
-  cimprlich,cimfrlich    ;  zimperlich         ;  rozmazlený, choulostivý            ;  zná, nepoužívá
-  cimprlína,cimfrlína    ;  Zimperliese        ;  rozmazlená, upejpavá dívka         ;  zná, nepoužívá
-  cimra                  ;  Zimmer             ;  pokoj                              ;  zná, používá
-  ciráty                 ;  Zierat = ozdoba    ;  okolky, cavyky                     ;  zná, používá
-  civil                  ;  Zivil              ;  nevoják, občanský život, oděv      ;  zná, používá
-  (pro)clít              ;  zollen             ;  proclít, zaplatit clo              ;  zná, používá
-  clo                    ;  Zoll               ;  clo                                ;  zná, používá
-  colmistr               ;  Soldmeister        ;  ten, kdo vyplácí žold (zast.)      ;  nezná
-  cop                    ;  Zopf               ;  cop, pletenec vlasů                ;  zná, používá
-  coul                   ;  Zoll               ;  starší jednotka délky, palec       ;  zná, nepoužívá
-  cuknout                ;  zucken             ;  cuknout, trhnout                   ;  zná, používá
-  cukr                   ;  Zucker             ;  cukr                               ;  zná, používá
-
-  cukrblik              ;  Zuckerblick ?      ;  vemlouvavý, koketní úsměv                ;  zná, nepoužívá
-   -  
-  cukrovat, cukřit      ;  zuckern            ;  cukrovat, sladit                         ;  zná, používá
-  cupovat               ;  zupfen             ;  škubat, trhat, třepit                    ;  zná, používá
-  curik                 ;  zurück             ;  zpět                                     ;  zná, nepoužívá
-  cvikat                ;  zwicken            ;  štípat, proštipovat (jízdenku)           ;  zná, používá
-  (na)cvikovat          ;  (an)zwicken        ;  nastřihnout okraj látky při tvarování    ;  zná, používá
-  cvikl                 ;  Zwickel            ;  klín, nástřih                            ;  zná, používá
-  cvikr                 ;  Zwicker            ;  skřipec                                  ;  zná, používá
-  cvišn                 ;  zwischen=mezi      ;  krejčovská vložka                        ;  zná, používá
-  cvok, cvoček          ;  Zwecke             ;  cvok, cvoček                             ;  zná, používá
-  čachr                 ;  Schacher           ;  nepoctivý obchod                         ;  zná, používá
-  čachrovat             ;  schachern          ;  nepoctivě obchodovat                     ;  zná, používá
-  čundr                 ;  Zunder             ;  výlet do přírody                         ;  zná, nepoužívá
-  datle                 ;  Dattel             ;  datle                                    ;  zná, používá
-  deka                  ;  Decke              ;  deka, pokrývka                           ;  zná, používá
-  děkan                 ;  Dekan              ;  děkan                                    ;  zná, používá
-  děkanát               ;  Dekanat            ;  děkanát                                  ;  zná, používá
-  dekl                  ;  Deckel             ;  poklop, víko                             ;  zná, používá
-  (z)dekovat se         ;  decken sich        ;  (z)mizet, klidit se                      ;  zná, používá
-  dort                  ;  Torte              ;  dort                                     ;  zná, používá
-  drak; být na draka    ;  Drache             ;  drak, saň; nestát za nic                 ;  zná, používá
-  drát                  ;  Draht              ;  drát                                     ;  zná, používá
-  drátovat              ;  drahten            ;  drátovat                                 ;  zná, používá
-  drek                  ;  Dreck              ;  špína, bláto; bezcenná věc, nic          ;  zná, používá
-  drezúra               ;  Dressur            ;  výcvik, drezúra                          ;  zná, používá
-  dril                  ;  Drill              ;  mechanický výcvik                        ;  zná, nepoužívá
-  dudat, dudlat         ;  dudeln             ;  hrát na dudy                             ;  zná, používá
-  dudy                  ;  Dudelsack          ;  dudy                                     ;  zná, používá
-  durch                 ;  durch              ;  skrz                                     ;  zná, používá
-  dynstovat             ;  dünsten            ;  dusit (kuch.)                            ;  zná, nepoužívá
-  eklovat (se)          ;  ekeln              ;  ošklivit se, hnusit se                   ;  nezná
-  elán                  ;  Elan               ;  elán, nadšení                            ;  zná, používá
-  endlich               ;  endlich            ;  konečně                                  ;  zná, nepoužívá
-  entlovat, endlovat    ;  endeln             ;  obnitkovávat                             ;  zná, používá
-  erteple               ;  Erdäpfel           ;  brambory                                 ;  zná, používá
-  esesák                ;  SSmann             ;  příslušník jednotek SS                   ;  zná, používá
-  ešus                  ;  E3schuss           ;  jídelní miska, ešus                      ;  zná, používá
-  execírovat            ;  exerzieren         ;  cvičit (vojensky)                        ;  zná, nepoužívá
-  fabrika               ;  Fabrik             ;  továrna, závod                           ;  zná, používá
-  facka                 ;  Watschen ?         ;  pohlavek, políček                        ;  zná, používá
-  fáč                   ;  Fatsch, Fatsche    ;  obvaz                                    ;  zná, používá
-  (za)fačovat           ;  fatschen           ;  obvázat                                  ;  zná, používá
-  fachman               ;  Fachmann           ;  odborník, specialista                    ;  zná, používá
-  fajfka                ;  Pfeife             ;  dýmka                                    ;  zná, používá
-
-  (od)fajfkovat       ;  pfeifen          ;  odškrtnout                             ;  zná, používá
-     
-  fajn                ;  fein             ;  příjemný, pěkný, dobrý, fajnový        ;  zná, používá
-  fajnový             ;  fein             ;  kvalitní, jemný, dobrý, fajn           ;  zná, používá
-  fajnšmekr           ;  Feinschmecker    ;  labužník                               ;  zná, používá
-  fajrovat            ;  feuern           ;  hodně topit; prudce hořet              ;  zná, používá
-  fajrunt, fajront    ;  Feierabend       ;  konec pracovní doby                    ;  zná, používá
-  fakrle              ;  Ferkel           ;  sele, podsvinče                        ;  nezná
-  falc                ;  Falz             ;  záhyb, drážka, ohyb, přehyb            ;  zná, nepoužívá
-  falcovačka          ;  Falzmaschine     ;  stroj na skládání, drážkovací stroj    ;  zná, nepoužívá
-  falcovat            ;  falzen           ;  přehýbat, skládat, drážkovat           ;  zná, nepoužívá
-  fald, falt          ;  Falte            ;  záhyb, náběra, řasa                    ;  zná, používá
-  faleš               ;  Falsch           ;  neupřímnost, nesprávnost               ;  zná, používá
-  falešnost           ;  Falschheit       ;  neupřímnost                            ;  zná, používá
-  falešný             ;  falsch           ;  padělaný, neupřímný                    ;  zná, používá
-  falšování           ;  Fälschung        ;  padělání                               ;  zná, používá
-  falšovat            ;  fälschen         ;  padělat                                ;  zná, používá
-  fangle              ;  Fahne            ;  prapor, vlajka, korouhev               ;  zná, používá
-  fant                ;  Pfand            ;  zástava                                ;  zná, nepoužívá
-  fara                ;  Pfarre           ;  farní úřad                             ;  zná, používá
-  farář               ;  Pfarrer          ;  farář, duchovní                        ;  zná, používá
-  fárat               ;  einfahren        ;  sjíždět do dolu, fárat                 ;  zná, používá
-  farník              ;  Pfarrkind        ;  farník                                 ;  zná, používá
-  farnost             ;  Pfarrei          ;  farnost                                ;  zná, používá
-  fáro                ;  fahren = jet     ;  luxusní auto                           ;  zná, nepoužívá
-  fárplán             ;  Fahrplan         ;  jízdní řád                             ;  zná, nepoužívá
-  fascikl             ;  Faszikel         ;  svazek úředních listin, spisů          ;  zná, používá
-  fasovat             ;  fassen           ;  dostat jako příděl                     ;  zná, používá
-  fasunk, fasuňk      ;  Fassung          ;  příděl                                 ;  zná, nepoužívá
-  fašinky, fašank     ;  Fasching         ;  masopust                               ;  zná, nepoužívá
-  fašírka             ;  Faschierte       ;  sekaná, mleté maso                     ;  zná, nepoužívá
-  fašírovat           ;  faschieren       ;  rozemlít                               ;  zná, nepoužívá
-  fedrovat            ;  fördern          ;  podporovat; těžit, dolovat             ;  nezná
-  ferdpuš, fedrbuš    ;  Federbusch       ;  chochol z dlouhých ptačích per         ;  nezná
-  fechtovat           ;  fechten          ;  bojovat, zápasit (zast.)               ;  nezná
-  fekálie             ;  Fäkalien         ;  fekálie                                ;  zná, používá
-  fekální             ;  fäkal            ;  fekální                                ;  zná, používá
-  felčar              ;  Feldscherer      ;  ranhojič, lékař                        ;  zná, nepoužívá
-  feldkurát           ;  Feldkurat        ;  vojenský kněz (zast.)                  ;  zná, nepoužívá
-  feldmaršál          ;  Feldmarschall    ;  polní maršál (zast.)                   ;  zná, nepoužívá
-  fendrych            ;  Fähnrich         ;  praporčík (zast.)                      ;  nezná
-  ferbl               ;  Färbel ?         ;  druh karetní hry                       ;  nezná
-  fertik              ;  fertig           ;  hotovo                                 ;  zná, používá
-  fěrtuch, fěrtoch    ;  Fürtuch          ;  zástěra                                ;  zná, nepoužívá
-  fest                ;  fest             ;  pevně, velmi                           ;  zná, používá
-
-
-
-  Germanismus      ;  Německý výraz    ;  Český odpovídající výraz
-    
-  arest            ;  Arrest           ;  vězení
-  bachař           ;  Wache            ;  vězeňský dozorce
-  batalion         ;  Bataillon        ;  prapor vojska
-  befél            ;  Befehl           ;  rozkaz
-  bunkr            ;  Bunker           ;  pevnůstka, kryt
-  cajghaus         ;  Zeughaus         ;  zbrojnice (zast.)
-  civil            ;  Zivil            ;  nevoják, občanský život, oděv
-  colmistr         ;  Soldmeister      ;  ten, kdo vyplácí žold (zast.)
-  dril             ;  Drill            ;  mechanický výcvik
-  esesák           ;  SSmann           ;  příslušník jednotek SS
-  execírovat       ;  exerzieren       ;  cvičit (vojensky)
-  fangle           ;  Fahne            ;  prapor, vlajka, korouhev
-  fechtovat        ;  fechten          ;  bojovat, zápasit (zast.)
-  feldkurát        ;  Feldkurat        ;  vojenský kněz (zast.)
-  feldmaršál       ;  Feldmarschall    ;  polní maršál (zast.)
-  fendrych         ;  Fähnrich         ;  praporčík (zast.)
-  festunk          ;  Festung          ;  pevnost, tvrz, pevnostní vězení
-  flinta           ;  Flinte           ;  puška
-  forposty         ;  Vorposten        ;  přední stráže, přední hlídky
-  front, fronta    ;  Front            ;  fronta, čelní strana (voj.)
-  gestapák         ;  Gestapomann      ;  příslušník gestapa
-
- ;  gestapo Gestapo (Geheime Staatspolizei)
+ausgerechnet; ausgerechnet; právě, zrovna 
+
+auslák, auslendr; Ausländer; cizinec 
+
+aušus, aušús; Ausschuss; zmetek 
+
+bafat paffen bafat, lekat 
+
+bagr Bagger bagr, rypadlo 
+
+bachař; Wache; vězeňský dozorce 
+
+bál; Ball; ples 
+
+banda; Bande; parta 
+
+barva; Farbe; barva 
+
+barvíř; Färber; barvíř 
+
+barvit ;färben ;barvit 
+
+bastlení; Basteln; vyrábění svépomocí 
+
+bastlíř; Bastler; kutil  bastlit basteln kutit, vyrábět svépomocí
+
+
+bašta Bastion, Bastei hradební věž; obydlí baštýře 
+batalion; Bataillon; prapor vojska 
+
+befél Befehl rozkaz 
+
+bíbr Biber = bobr bradka 
+
+biflovat büffeln učit se nazpaměť 
+
+bichle Büchel knížka 
+
+biskup Bischof biskup 
+
+blekotat ;blöken ;blekotat 
+
+blinkr, blikač ;Blinker;směrovka, blinkr 
+
+blikat, bliknout ;blinkern ;blikat, bliknout 
+
+na blint ;blind;naslepo
+
+blok ;Block;blok 
+
+blokáda;Blockade ;blokáda
+
+blokovat ;blocken;blokovat, znemožnit přístup
+
+bouda;Bude, Baude;bouda, chata, salaš
+
+boule;Beule;boule
+
+brak ;Brack;podřadné, kazové zboží, zmetek 
+
+brakovat ;bracken;vybírat
+
+brýle;Brille ;brýle
+
+buchta ;Buchtel (rak.) ;buchta 
+
+bunkr;Bunker ;pevnůstka, kryt
+
+buřt ;Wurst;buřt, vuřt 
+
+bužírka;původně z fr.;izolace drátu
+
+byró, byro ;Büro ;kancelář; vedoucí výkonný orgán
+
+cajghaus ;Zeughaus ;zbrojnice 
+
+cajk ;Zeug ;látka (podřadná) 
+
+v cajku;Zeug ;v pořádku
+
+(za)cálovat;zahlen ;(za)platit 
+
+cech ;Zeche;cech 
+
+cejch;Zeche;značka; účet 
+
+celník ;Zöllner;celník 
+
+celta;Zelt ;plachta
+
+cemr ;Ziemer ;hřbet, záda
+
+ciferník ;Zifferblatt;číselník 
+
+cifra;Ziffer ;číslice
+
+cihla;Ziegel ;cihla
+
+cícha;Zieche ;povlak na peřinu 
+
+cíl;Ziel ;cíl
+
+cílit;zielen ;cílit, mířit 
+
+cimprlich,cimfrlich;zimperlich ;rozmazlený, choulostivý
+
+cimprlína,cimfrlína;Zimperliese;rozmazlená, upejpavá dívka 
+
+cimra;Zimmer ;pokoj
+
+ciráty ;Zierat = ozdoba;okolky, cavyky 
+
+civil;Zivil;nevoják, občanský život, oděv
+
+(pro)clít;zollen ;proclít, zaplatit clo
+
+clo;Zoll ;clo
+
+colmistr ;Soldmeister;ten, kdo vyplácí žold 
+
+cop;Zopf ;cop, pletenec vlasů
+
+coul ;Zoll ;starší jednotka délky, palec 
+
+cuknout;zucken ;cuknout, trhnout 
+
+cukr ;Zucker ;cukr 
+
+cukrblik;Zuckerblick ?;vemlouvavý, koketní úsměv
+ -
+cukrovat, cukřit;zuckern;cukrovat, sladit 
+
+cupovat ;zupfen ;škubat, trhat, třepit
+
+curik ;zurück ;zpět 
+
+cvikat;zwicken;štípat, proštipovat (jízdenku) 
+
+(na)cvikovat;(an)zwicken;nastřihnout okraj látky při tvarování
+
+cvikl ;Zwickel;klín, nástřih
+
+cvikr ;Zwicker;skřipec
+
+cvišn ;zwischen=mezi;krejčovská vložka
+
+cvok, cvoček;Zwecke ;cvok, cvoček 
+
+čachr ;Schacher ;nepoctivý obchod 
+
+čachrovat ;schachern;nepoctivě obchodovat 
+
+čundr ;Zunder ;výlet do přírody 
+
+datle ;Dattel ;datle
+
+deka;Decke;deka, pokrývka 
+
+děkan ;Dekan;děkan
+
+děkanát ;Dekanat;děkanát
+
+dekl;Deckel ;poklop, víko 
+
+(z)dekovat se ;decken sich;(z)mizet, klidit se
+
+dort;Torte;dort 
+
+drak; být na draka;Drache ;drak, saň; nestát za nic 
+
+drát;Draht;drát 
+
+drátovat;drahten;drátovat
+
+drek;Dreck;špína, bláto; bezcenná věc, nic
+
+drezúra ;Dressur;výcvik, drezúra
+
+dril;Drill;mechanický výcvik
+
+dudat, dudlat ;dudeln ;hrát na dudy 
+
+dudy;Dudelsack;dudy 
+
+durch ;durch;skrz 
+
+dynstovat ;dünsten;dusit (kuch.)
+
+eklovat (se);ekeln;ošklivit se, hnusit se 
+
+elán;Elan ;elán, nadšení
+
+endlich ;endlich;konečně
+
+entlovat, endlovat;endeln ;obnitkovávat 
+
+erteple ;Erdäpfel ;brambory 
+
+esesák;SSmann ;příslušník jednotek SS 
+
+ešus;E3schuss ;jídelní miska, ešus
+
+execírovat;exerzieren ;cvičit (vojensky)
+
+fabrika ;Fabrik ;továrna, závod 
+
+facka ;Watschen ? ;pohlavek, políček
+
+fáč ;Fatsch, Fatsche;obvaz
+
+(za)fačovat ;fatschen ;obvázat
+
+fachman ;Fachmann ;odborník, specialista
+
+fajfka;Pfeife ;dýmka
+
+(od)fajfkovat ;pfeifen;odškrtnout 
+ 
+fajn;fein ;příjemný, pěkný, dobrý, fajnový
+
+fajnový ;fein ;kvalitní, jemný, dobrý, fajn 
+
+fajnšmekr ;Feinschmecker;labužník 
+
+fajrovat;feuern ;hodně topit; prudce hořet
+
+fajrunt, fajront;Feierabend ;konec pracovní doby
+
+fakrle;Ferkel ;sele, podsvinče
+
+falc;Falz ;záhyb, drážka, ohyb, přehyb
+
+falcovačka;Falzmaschine ;stroj na skládání, drážkovací stroj
+
+falcovat;falzen ;přehýbat, skládat, drážkovat
+
+fald, falt;Falte;záhyb, náběra, řasa
+
+faleš ;Falsch ;neupřímnost, nesprávnost 
+
+falešnost ;Falschheit ;neupřímnost
+
+falešný ;falsch ;padělaný, neupřímný
+
+falšování ;Fälschung;padělání 
+
+falšovat;fälschen ;padělat
+
+fangle;Fahne;prapor, vlajka, korouhev 
+
+fant;Pfand;zástava
+
+fara;Pfarre ;farní úřad 
+
+farář ;Pfarrer;farář, duchovní
+
+fárat ;einfahren;sjíždět do dolu, fárat 
+
+farník;Pfarrkind;farník 
+
+farnost ;Pfarrei;farnost
+
+fáro;fahren = jet ;luxusní auto
+
+fárplán ;Fahrplan ;jízdní řád
+
+fascikl ;Faszikel ;svazek úředních listin, spisů
+
+fasovat ;fassen ;dostat jako příděl 
+
+fasunk, fasuňk;Fassung;příděl
+
+fašinky, fašank ;Fasching ;masopust
+
+fašírka ;Faschierte ;sekaná, mleté maso
+
+fašírovat ;faschieren ;rozemlít
+
+fedrovat;fördern;podporovat; těžit, dolovat 
+
+ferdpuš, fedrbuš;Federbusch ;chochol z dlouhých ptačích per 
+
+fechtovat ;fechten;bojovat, zápasit  
+
+fekálie ;Fäkalien ;fekálie
+
+fekální ;fäkal;fekální
+
+felčar;Feldscherer;ranhojič, lékař
+
+feldkurát ;Feldkurat;vojenský kněz 
+
+feldmaršál;Feldmarschall;polní maršál 
+
+fendrych;Fähnrich ;praporčík 
+
+ferbl ;Färbel ? ;druh karetní hry 
+
+fertik;fertig ;hotovo 
+
+fěrtuch, fěrtoch;Fürtuch;zástěra
+
+fest;fest ;pevně, velmi 
+
+arest;Arrest ;vězení
+
+bachař ;Wache;vězeňský dozorce
+
+batalion ;Bataillon;prapor vojska
+
+befél;Befehl ;rozkaz
+
+bunkr;Bunker ;pevnůstka, kryt
+
+cajghaus ;Zeughaus ;zbrojnice 
+
+civil;Zivil;nevoják, občanský život, oděv
+
+colmistr ;Soldmeister;ten, kdo vyplácí žold 
+
+dril ;Drill;mechanický výcvik
+
+esesák ;SSmann ;příslušník jednotek SS
+
+execírovat ;exerzieren ;cvičit (vojensky)
+
+fangle ;Fahne;prapor, vlajka, korouhev
+
+fechtovat;fechten;bojovat, zápasit 
+
+feldkurát;Feldkurat;vojenský kněz 
+
+feldmaršál ;Feldmarschall;polní maršál 
+
+fendrych ;Fähnrich ;praporčík 
+
+festunk;Festung;pevnost, tvrz, pevnostní vězení
+
+flinta ;Flinte ;puška
+
+forposty ;Vorposten;přední stráže, přední hlídky
+
+front, fronta;Front;fronta, čelní strana
+ (voj.)
+gestapák ;Gestapomann;příslušník gestapa
+
+gestapo Gestapo (Geheime Staatspolizei)
 
 nacistická něm. tajná státní policie
 
@@ -1031,216 +1164,216 @@ hylzna Hülse nábojnice
 
 kanon Kanone dělo
 
-  
-  kanonýr           ;  Kanonier           ;  dělostřelec
-  - - -
-  kaprál (zast.)    ;  Korporal           ;  desátník
 
-  kapsle            ;  Kapsel             ;  rozbuška, roznětka, pouzdro, obal
+kanonýr ;Kanonier ;dělostřelec
+- - -
+kaprál ;Korporal ;desátník
 
-  knecht            ;  Knecht             ;  prostý voják, dráb (zast.)
+kapsle;Kapsel ;rozbuška, roznětka, pouzdro, obal
 
-  komandovat        ;  kommandieren       ;  poroučet, rozkazovat, velet
+knecht;Knecht ;prostý voják, dráb 
 
-  kompanie          ;  Kompanie           ;  rota, setnina
+komandovat;kommandieren ;poroučet, rozkazovat, velet
 
-  kriminál          ;  Kriminal           ;  vězení, věznice
+kompanie;Kompanie ;rota, setnina
 
-  krýgsman          ;  Kriegsman          ;  voják (zast.)
+kriminál;Kriminal ;vězení, věznice
 
-  krypl             ;  Krüppel            ;  chromý člověk, mrzák
+krýgsman;Kriegsman;voják 
 
-  kurát             ;  Kurat              ;  vojenský kněz
+krypl ;Krüppel;chromý člověk, mrzák
 
-  kvér              ;  Gewehr             ;  puška, zbraň
+kurát ;Kurat;vojenský kněz
 
-  lafeta            ;  Lafette            ;  lafeta, součást děla
+kvér;Gewehr ;puška, zbraň
 
-  ládovat           ;  laden              ;  nabíjet (střelnou zbraň)
+lafeta;Lafette;lafeta, součást děla
 
-  lágr              ;  Lager              ;  tábor
+ládovat ;laden;nabíjet (střelnou zbraň)
 
-  lajtnant          ;  Leutnant           ;  poručík
+lágr;Lager;tábor
 
-  óbrlajtnant       ;  Oberleutnant       ;  nadporučík
+lajtnant;Leutnant ;poručík
 
-  lampasy           ;  Lampassen          ;  pruhy na švech kalhot u uniformy
+óbrlajtnant ;Oberleutnant ;nadporučík
 
-  lauf              ;  Lauf               ;  hlaveň
+lampasy ;Lampassen;pruhy na švech kalhot u uniformy
 
-  loch              ;  Loch               ;  vězení
+lauf;Lauf ;hlaveň
 
-  markytán          ;  Marketender        ;  prodavač zboží a jídla vojákům
+loch;Loch ;vězení
 
-  markytánka        ;  Marketenderin      ;  prodavačka zboží a jídla vojákům
+markytán;Marketender;prodavač zboží a jídla vojákům
 
-  marš!             ;  marsch!            ;  v chod!, běž! ven!
+markytánka;Marketenderin;prodavačka zboží a jídla vojákům
 
-  marš              ;  der Marsch         ;  pochod
+marš! ;marsch!;v chod!, běž! ven!
 
-  maršál            ;  Marschall          ;  maršál, nejvyšší vojenská
-                    ;                     ; 
-  maršbatalion      ;  Marschbataillon    ;  hodnost
-                                        ; 
-                                        ;  pochodový prapor
+marš;der Marsch ;pochod
 
-  marškompanie      ;  Marschkompanie     ;  rota odcházející na frontu
+maršál;Marschall;maršál, nejvyšší vojenská
+; ; 
+maršbatalion;Marschbataillon;hodnost
+; 
+;pochodový prapor
 
-  maršrúta          ;  Marschroute        ;  směr pochodu, cesty
+marškompanie;Marschkompanie ;rota odcházející na frontu
 
-  mašinkvér         ;  Maschinengewehr    ;  kulomet
+maršrúta;Marschroute;směr pochodu, cesty
 
-  mašírovat         ;  marschieren        ;  pochodovat
+mašinkvér ;Maschinengewehr;kulomet
 
-  meldovat          ;  melden             ;  hlásit, ohlásit
+mašírovat ;marschieren;pochodovat
 
-  meldunk           ;  Meldung            ;  hlášení, zpráva
+meldovat;melden ;hlásit, ohlásit
 
-  metál             ;  Metall             ;  vyznamenání, medaile
+meldunk ;Meldung;hlášení, zpráva
 
-  mord              ;  Mord               ;  vražda, zabití
+metál ;Metall ;vyznamenání, medaile
 
-  mordéř            ;  Mörder             ;  vrah, zabiják
+mord;Mord ;vražda, zabití
 
-  (za)mordovat      ;  morden             ;  vraždit, zabíjet
+mordéř;Mörder ;vrah, zabiják
 
-  mundúr            ;  Montur             ;  uniforma, stejnokroj
+(za)mordovat;morden ;vraždit, zabíjet
 
-  óbršt             ;  Oberst             ;  plukovník
+mundúr;Montur ;uniforma, stejnokroj
 
-  oficír            ;  Offizier           ;  důstojník
+óbršt ;Oberst ;plukovník
 
-  pancíř            ;  Panzer             ;  krunýř, brnění
+oficír;Offizier ;důstojník
 
-  pucflek           ;  Putzfleck          ;  vojenský sluha
+pancíř;Panzer ;krunýř, brnění
 
-  rajtovat          ;  reiten             ;  jet na koni
-  
+pucflek ;Putzfleck;vojenský sluha
 
- ;  rank Rang služební postavení, platová skupina
+rajtovat;reiten ;jet na koni
 
-  rapír               ;  Rapier                         ;  stará soubojová zbraň
-   - 
-  raport              ;  Rapport                        ;  zpráva, hlášení
-  raportovat          ;  rapportieren                   ;  hlásit, ohlásit, podat zprávu
-  rast                ;  Rast                           ;  odpočinek, pohov, zastávka
-  regiment            ;  Regiment                       ;  pluk
-  rejtar              ;  Reiter                         ;  jízdní voják, jezdec (zast.)
-  rek                 ;  Recke                          ;  hrdina
-  rekrut              ;  Rekrut                         ;  odvedenec
-  rekrutovat          ;  rekrutieren                    ;  odvádět na vojnu
-  reta, réta          ;  Rettung                        ;  záchrana, pomoc
-  retovat             ;  retten                         ;  chránit, zachránit
-  rota                ;  Rotte                          ;  rota, oddíl vojska
-  rotmistr            ;  Rottmeister                    ;  velitel roty
-  rukovat             ;  zum Wehrdienst einberufen ?    ;  nastupovat vojenskou službu
-  rytmistr            ;  Rittmeister                    ;  setník u jízdy
-  šarvátka            ;  Scharmützel                    ;  potyčka, půtka, bitka, srážka
-  šik                 ;  Schick                         ;  vojenský útvar, šik; dvojřad
-  šikovat             ;  schicken                       ;  řadit do šiku
-  šišarda             ;  Schie3scharte                  ;  střílna
-  šorfšic, šarfšic    ;  Scharfschütze                  ;  ostrostřelec
-  špangle             ;  Spange                         ;  druh pout, želízka, okovy
-  špátka              ;  Spaten                         ;  polní lopatka
-  šperklapka          ;  Sperrklappe                    ;  závěr u pušky
-  špuntovka           ;  Spund                          ;  poplašná nebo dětská pistole
-  šrapnel             ;  Schrapnell                     ;  dělostřelecká střela, šrapnel
-  štáb                ;  Stab                           ;  štáb, sbor
-  štábní              ;  Stabs-                         ;  týkající se štábu; dř. voj. hodnost
-  štelunk             ;  Stellung                       ;  pozice, zákopy, postavení
-  šturm               ;  Sturm                          ;  útok, zteč; nápor; poplach
 
- ;  šturmhut Sturmhut vojenská přilba ve tvaru klobouku
+ ;rank Rang služební postavení, platová skupina
+
+rapír ;Rapier ;stará soubojová zbraň
+ - 
+raport;Rapport;zpráva, hlášení
+raportovat;rapportieren ;hlásit, ohlásit, podat zprávu
+rast;Rast ;odpočinek, pohov, zastávka
+regiment;Regiment ;pluk
+rejtar;Reiter ;jízdní voják, jezdec 
+rek ;Recke;hrdina
+rekrut;Rekrut ;odvedenec
+rekrutovat;rekrutieren;odvádět na vojnu
+reta, réta;Rettung;záchrana, pomoc
+retovat ;retten ;chránit, zachránit
+rota;Rotte;rota, oddíl vojska
+rotmistr;Rottmeister;velitel roty
+rukovat ;zum Wehrdienst einberufen ?;nastupovat vojenskou službu
+rytmistr;Rittmeister;setník u jízdy
+šarvátka;Scharmützel;potyčka, půtka, bitka, srážka
+šik ;Schick ;vojenský útvar, šik; dvojřad
+šikovat ;schicken ;řadit do šiku
+šišarda ;Schie3scharte;střílna
+šorfšic, šarfšic;Scharfschütze;ostrostřelec
+špangle ;Spange ;druh pout, želízka, okovy
+špátka;Spaten ;polní lopatka
+šperklapka;Sperrklappe;závěr u pušky
+špuntovka ;Spund;poplašná nebo dětská pistole
+šrapnel ;Schrapnell ;dělostřelecká střela, šrapnel
+štáb;Stab ;štáb, sbor
+štábní;Stabs- ;týkající se štábu; dř. voj. hodnost
+štelunk ;Stellung ;pozice, zákopy, postavení
+šturm ;Sturm;útok, zteč; nápor; poplach
+
+ ;šturmhut Sturmhut vojenská přilba ve tvaru klobouku
 
 šturmovat stürmen brát útokem; naléhat; řítit se,
 
- ;  Řemesla
+ ;Řemesla
  ; 
- ;  Do této skupiny patří výrazy ze všech řemeslnických oborů (jako jsou
- ;  např. truhlář, tesař, klempíř, brusič, bednář, kominík, malíř pokojů
- ;  apod.).
+ ;Do této skupiny patří výrazy ze všech řemeslnických oborů (jako jsou
+ ;např. truhlář, tesař, klempíř, brusič, bednář, kominík, malíř pokojů
+ ;apod.).
 
-  
-  Germanismus         ;  Německý výraz              ;  Český odpovídající výraz
-    
-  bastlení            ;  Basteln                    ;  vyrábění svépomocí
 
-  bastlíř             ;  Bastler                    ;  kutil
+Germanismus ;Německý výraz;Český odpovídající výraz
 
-  bastlit             ;  basteln                    ;  kutit, vyrábět svépomocí
+bastlení;Basteln;vyrábění svépomocí
 
-  bužírka             ;  původně z francouzštiny    ;  izolace drátu
+bastlíř ;Bastler;kutil
 
-  cech                ;  Zeche                      ;  cech
+bastlit ;basteln;kutit, vyrábět svépomocí
 
-  drát                ;  Draht                      ;  drát
+bužírka ;původně z francouzštiny;izolace drátu
 
-  drátovat            ;  drahten                    ;  drátovat
+cech;Zeche;cech
 
-  fabrika             ;  Fabrik                     ;  továrna, závod
+drát;Draht;drát
 
-  fachman             ;  Fachmann                   ;  odborník, specialista
+drátovat;drahten;drátovat
 
-  fajrunt, fajront    ;  Feierabend                 ;  konec pracovní doby
+fabrika ;Fabrik ;továrna, závod
 
-  falc                ;  Falz                       ;  záhyb, drážka, ohyb, přehyb
+fachman ;Fachmann ;odborník, specialista
 
-  falcovačka          ;  Falzmaschine               ;  stroj na skládání, drážkovací stroj
+fajrunt, fajront;Feierabend ;konec pracovní doby
 
-  falcovat            ;  falzen                     ;  přehýbat, skládat, drážkovat
+falc;Falz ;záhyb, drážka, ohyb, přehyb
 
-  fládr               ;  Flader                     ;  žilka, žilkovaná kresba dřeva
+falcovačka;Falzmaschine ;stroj na skládání, drážkovací stroj
 
-  fládrování          ;  Fladerung                  ;  žilkování
+falcovat;falzen ;přehýbat, skládat, drážkovat
 
-  fládrovat           ;  fladern                    ;  provádět fládrování
+fládr ;Flader ;žilka, žilkovaná kresba dřeva
 
-  foch, fach          ;  Fach                       ;  obor, zaměstnání; přihrádka,
-                      ;                             ; 
-  fornýr              ;  Furnier                    ;  police
-                                                  ; 
-                                                  ;  dýha, překližka
+fládrování;Fladerung;žilkování
 
-  fošna               ;  Pfosten                    ;  silné prkno
+fládrovat ;fladern;provádět fládrování
 
-  fušer, fušař        ;  Pfuscher                   ;  neodborný řemeslník, břídil
+foch, fach;Fach ;obor, zaměstnání; přihrádka,
+; ; 
+fornýr;Furnier;police
+; 
+;dýha, překližka
 
-  fušertsví           ;  Pfuscherei                 ;  neodborné provozování řemesla
+fošna ;Pfosten;silné prkno
 
-  fuška               ;  Pfusch                     ;  melouch; těžká práce, dřina
+fušer, fušař;Pfuscher ;neodborný řemeslník, břídil
 
-  fušování            ;  Pfuscherei                 ;  neodborné provozování řemesla
+fušertsví ;Pfuscherei ;neodborné provozování řemesla
 
-  fušovat             ;  pfuschen                   ;  neodborně provozovat řemeslo
+fuška ;Pfusch ;melouch; těžká práce, dřina
 
-  gastarbajtr         ;  Gastarbeiter               ;  zahraniční dělník
+fušování;Pfuscherei ;neodborné provozování řemesla
 
-  glanc               ;  Glanz                      ;  lesk
+fušovat ;pfuschen ;neodborně provozovat řemeslo
 
-  (vy)glancovat       ;  glänzen                    ;  (vy)leštit
+gastarbajtr ;Gastarbeiter ;zahraniční dělník
 
-  gláspapír           ;  Glaspapier                 ;  skelný papír
+glanc ;Glanz;lesk
 
-  hák                 ;  Haken                      ;  hák, skoba
+(vy)glancovat ;glänzen;(vy)leštit
 
-  hamr                ;  Hammer                     ;  kladivo
+gláspapír ;Glaspapier ;skelný papír
 
-  heft                ;  heften                     ;  držadlo, násada
+hák ;Haken;hák, skoba
 
-  heftovat            ;  heften                     ;  připínat, přibíjet
+hamr;Hammer ;kladivo
 
-  hever               ;  Heber                      ;  zvedák, hever
+heft;heften ;držadlo, násada
 
-  hoblík              ;  Hobel                      ;  hoblík
+heftovat;heften ;připínat, přibíjet
 
-  hoblina             ;  Hobelspan                  ;  hoblina
+hever ;Heber;zvedák, hever
 
-  hoblíř              ;  Hobler                     ;  hoblíř
+hoblík;Hobel;hoblík
 
-  hoblovat            ;  hobeln                     ;  hoblovat
+hoblina ;Hobelspan;hoblina
 
-  hoblovna            ;  Hoblerei                   ;  hoblovna
-  
+hoblíř;Hobler ;hoblíř
+
+hoblovat;hobeln ;hoblovat
+
+hoblovna;Hoblerei ;hoblovna
+
 
 kachel, kachlík, kachlička
 
@@ -1248,51 +1381,51 @@ Kachel kachel, kachlík, kachlička
 
 kachlíčkovat kacheln obložit kachlíky
 
-  katr           ;  Gatter                 ;  rámová pila; mřížové dveře
-  -  
-  klempíř        ;  Klempner               ;  klempíř
-  knejp          ;  Kneip                  ;  obuvnický, ševcovský nůž
-  kramle         ;  Klammer, Krampe        ;  tesařská skoba
-  kyt            ;  Kitt                   ;  tmel, kyt
-  lajsna         ;  leiste                 ;  lišta, lať
-  lak            ;  Lack                   ;  nátěr, lak
-  lať, laťka     ;  Latte                  ;  lať, laťka, tyčka
-  machr          ;  Macher                 ;  obratný člověk, odborník
-  majstrštyk     ;  Meisterstück           ;  mistrovské dílo
-  majzlík        ;  Meissel                ;  dláto, sekáč
-  majznout       ;  schmeissen             ;  (u)hodit, třísknout
-  malíř          ;  Maler                  ;  malíř
-  malování       ;  Malen                  ;  malování
-  malovat        ;  malen                  ;  malovat, kreslit
-  moždíř         ;  Mörser                 ;  moždíř, hmoždíř
-  plech          ;  Blech                  ;  plech
-  polírovat      ;  polieren               ;  leštit
-  ponk           ;  Bank                   ;  řemeslnický pracovní stůl
-  rádlo          ;  Rändelrad              ;  vroubkované kolečko na násadě
-  rádlovat       ;  rändeln                ;  rýhovat, vyznačovat rádlem
-  rašple         ;  Raspel                 ;  struhák, pilník
-  rašplovat      ;  raspeln                ;  strouhat, pilovat
-  rolna          ;  Rolle                  ;  kladka, kolečko, váleček
-  roura          ;  Röhre                  ;  trubice, trouba
-  rumpál         ;  rumpeln                ;  ruční dřevěný naviják
-  rumplovat      ;  rumpeln                ;  lomcovat, tlouct, bouchat, bušit
-  šajba          ;  Scheibe                ;  kotouč, řemenice; terč
-  šalování       ;  Schalung               ;  bednění, obložení
-  šalovat        ;  schalen                ;  bednit, obkládat, pobíjet prkny
-  šamot          ;  Schamotte              ;  žáruvzdorný materiál
-  šamotka        ;  Schamotte              ;  hliněná dlaždice, cihla
-  šichta         ;  Schicht                ;  směna
-  šichtmistr     ;  Schichtmeister         ;  vedoucí směny
-  šlejfírna      ;  Schleiferei            ;  brusírna
-  šlejfíř        ;  Schleifer              ;  brusič
-  šmír           ;  Schmiere               ;  mazadlo, kolomaz
-  šmírovat       ;  schmieren              ;  mazat šmírem
-  šmirgl         ;  Schmirgel              ;  smirek, brusný papír
-  šmirglovat     ;  schmirgeln             ;  smirkovat, brousit, leštit
-  šmirglpapír    ;  Schmirgelpapier        ;  smirkový papír
-  šorna          ;  Schornstein = komín    ;  škrabka na saze
-  špachtle       ;  Spachtel               ;  stěrka, roztěrka
-  špátka         ;  Spaten                 ;  lopatka
+katr ;Gatter ;rámová pila; mřížové dveře
+-
+klempíř;Klempner ;klempíř
+knejp;Kneip;obuvnický, ševcovský nůž
+kramle ;Klammer, Krampe;tesařská skoba
+kyt;Kitt ;tmel, kyt
+lajsna ;leiste ;lišta, lať
+lak;Lack ;nátěr, lak
+lať, laťka ;Latte;lať, laťka, tyčka
+machr;Macher ;obratný člověk, odborník
+majstrštyk ;Meisterstück ;mistrovské dílo
+majzlík;Meissel;dláto, sekáč
+majznout ;schmeissen ;(u)hodit, třísknout
+malíř;Maler;malíř
+malování ;Malen;malování
+malovat;malen;malovat, kreslit
+moždíř ;Mörser ;moždíř, hmoždíř
+plech;Blech;plech
+polírovat;polieren ;leštit
+ponk ;Bank ;řemeslnický pracovní stůl
+rádlo;Rändelrad;vroubkované kolečko na násadě
+rádlovat ;rändeln;rýhovat, vyznačovat rádlem
+rašple ;Raspel ;struhák, pilník
+rašplovat;raspeln;strouhat, pilovat
+rolna;Rolle;kladka, kolečko, váleček
+roura;Röhre;trubice, trouba
+rumpál ;rumpeln;ruční dřevěný naviják
+rumplovat;rumpeln;lomcovat, tlouct, bouchat, bušit
+šajba;Scheibe;kotouč, řemenice; terč
+šalování ;Schalung ;bednění, obložení
+šalovat;schalen;bednit, obkládat, pobíjet prkny
+šamot;Schamotte;žáruvzdorný materiál
+šamotka;Schamotte;hliněná dlaždice, cihla
+šichta ;Schicht;směna
+šichtmistr ;Schichtmeister ;vedoucí směny
+šlejfírna;Schleiferei;brusírna
+šlejfíř;Schleifer;brusič
+šmír ;Schmiere ;mazadlo, kolomaz
+šmírovat ;schmieren;mazat šmírem
+šmirgl ;Schmirgel;smirek, brusný papír
+šmirglovat ;schmirgeln ;smirkovat, brousit, leštit
+šmirglpapír;Schmirgelpapier;smirkový papír
+šorna;Schornstein = komín;škrabka na saze
+špachtle ;Spachtel ;stěrka, roztěrka
+špátka ;Spaten ;lopatka
 
 šperhák Sperrhaken paklíč
 
@@ -1317,12 +1450,12 @@ vercajk Werkzeug nářadí
 
 verpánek Werkbank pracovní stolička
 
-verkpaňky Werkbank stolička pro ševce (zast.)
+verkpaňky Werkbank stolička pro ševce 
 
- ;  Obchod a peněžnictví
+ ;Obchod a peněžnictví
  ; 
- ;  Do této skupiny jsem zařadila všechny výrazy, které souvisí s
- ;  obchodem, zbožím a penězi.
+ ;Do této skupiny jsem zařadila všechny výrazy, které souvisí s
+ ;obchodem, zbožím a penězi.
 
 Germanismus Německý výraz Český odpovídající výraz
 
@@ -1368,567 +1501,567 @@ grešle Gröschel grešle
 
 groš Groschen groš, drobná mince
 
-  -
-  haléř, halíř            ;  Heller          ;  haléř, setina české koruny
-  - - 
-  handl                   ;  Handel          ;  obchod
+-
+haléř, halíř;Heller;haléř, setina české koruny
+- - 
+handl ;Handel;obchod
 
-  handlíř                 ;  Handler         ;  obchodník, kupec, překupník
+handlíř ;Handler ;obchodník, kupec, překupník
 
-  handlovat               ;  handeln         ;  obchodovat
+handlovat ;handeln ;obchodovat
 
-  hanza                   ;  Hansa, Hanse    ;  hanza, obchodní spolek
+hanza ;Hansa, Hanse;hanza, obchodní spolek
 
-  inzerát                 ;  Inserat         ;  inzerát
+inzerát ;Inserat ;inzerát
 
-  inzerce                 ;  Insertion       ;  inzerce
+inzerce ;Insertion ;inzerce
 
-  inzerent                ;  Inserent        ;  inzerent
+inzerent;Inserent;inzerent
 
-  inzerovat               ;  inserieren      ;  inzerovat
+inzerovat ;inserieren;inzerovat
 
-  jarmark                 ;  Jahrmarkt       ;  jarmark, výroční trh
+jarmark ;Jahrmarkt ;jarmark, výroční trh
 
-  kasa                    ;  Kasse           ;  pokladna
+kasa;Kasse ;pokladna
 
-  kasírovat               ;  kassieren       ;  inkasovat, přijímat peníze
+kasírovat ;kassieren ;inkasovat, přijímat peníze
 
-  kauf                    ;  Kauf            ;  nákup, koupě
+kauf;Kauf;nákup, koupě
 
-  klasa                   ;  Klasse          ;  třída; jakost
+klasa ;Klasse;třída; jakost
 
-  koštovat                ;  kosten          ;  mít cenu, stát
+koštovat;kosten;mít cenu, stát
 
-  krachovat, krachnout    ;  krachen         ;  (z)krachovat, udělat úpadek
+krachovat, krachnout;krachen ;(z)krachovat, udělat úpadek
 
-  krám                    ;  Kram            ;  obchod, stánek
+krám;Kram;obchod, stánek
 
-  kramář                  ;  Krämer          ;  drobný obchodník
+kramář;Krämer;drobný obchodník
 
-  kramářka                ;  Krämerin        ;  drobná obchodnice
+kramářka;Krämerin;drobná obchodnice
 
-  krejcar, grejcar        ;  Kreuzer         ;  krejcar, malý peníz
+krejcar, grejcar;Kreuzer ;krejcar, malý peníz
 
-  kšeft                   ;  Geschäft        ;  obchod
+kšeft ;Geschäft;obchod
 
-  kšeftovat               ;  Geschäft        ;  obchodovat
+kšeftovat ;Geschäft;obchodovat
 
-  kumpán                  ;  Kumpan          ;  společník, druh
+kumpán;Kumpan;společník, druh
 
-  kunšaft, kunčaft        ;  Kundschaft      ;  zákazník
+kunšaft, kunčaft;Kundschaft;zákazník
 
-  kundšoft                ;  Kundschaft      ;  zákazník (zast.)
+kundšoft;Kundschaft;zákazník 
 
-  kuplíř                  ;  Kuppler         ;  kuplíř
+kuplíř;Kuppler ;kuplíř
 
-  kuplířka                ;  Kupplerin       ;  kuplířka
+kuplířka;Kupplerin ;kuplířka
 
-  kuplířství              ;  Kuppelei        ;  kuplířství
+kuplířství;Kuppelei;kuplířství
 
-  kvelb                   ;  Gewölbe         ;  obchod, krám
+kvelb ;Gewölbe ;obchod, krám
 
-  (od)lifrovat            ;  (ab)liefern     ;  dodávat; poslat, odeslat
+(od)lifrovat;(ab)liefern ;dodávat; poslat, odeslat
 
-  litkup                  ;  Leitkauf        ;  zapíjení uzavření koupě;
-                          ;                  ; 
-  mandel                  ;  Mandel          ;  odstupné
-                                           ; 
-                                           ;  stará míra (15 kusů)
-
-  mince                   ;  Münze           ;  mince
-
-  probíř, probéř          ;  Probierer       ;  zkoušeč jakosti a hmotnosti
-                          ;                  ; 
-  punc                    ;  Punze           ;  mincí
-                                           ; 
-                                           ;  razidlo, úřední značka, punc
-
-  puntovat                ;  Bund machen     ;  spolčovat se
-
-  rest                    ;  Rest            ;  nedoplatek, nedodělek
-
-  rudl                    ;  ?               ;  dvoukolý vozík na přepravu
-                          ;                  ; 
-  sorta                   ;  Sorte           ;  zboží
-                                           ; 
-                                           ;  druh, odrůda
-
-  spedice                 ;  Spedition       ;  doprava, zasílatelství
-
-  speditér, špeditér      ;  Spediteur       ;  zasílatel, dopravce, stěhovák
-
-  speditérství            ;  Spedition       ;  zasílatelství
-  -
-
-  šacovat               ;  schätzen                ;  odhadnout, ocenit
-    
-  šacovník              ;  Schätzer                ;  odhadce
-  šacunk, šacuňk        ;  Schätzung               ;  odhad; výkupné
-  šejdíř                ;  Schindler               ;  podvodník
-  šilink                ;  Schilling               ;  bývalé platidlo v Rakousku
-  šlohnout              ;  ?                       ;  ukrást
-  šmejd                 ;  Schund                  ;  podřadné zboží, brak
-  šmelina               ;  Schiebung               ;  černý obchod, lichva
-  šmelinář              ;  Schieber                ;  překupník
-  šmízo                 ;  Schmiere                ;  úplatek, výhoda; brak, šmejd
-  špárkasa              ;  Sparkasse               ;  spořitelna
-  špárovat              ;  sparen                  ;  šetřit
-  špársystém            ;  Sparsystem              ;  úsporný systém
-  špeceraj              ;  Spezerei                ;  obchod se smíšeným zbožím
-  šporovat, špórovat    ;  sparen                  ;  šetřit
-  šrajtofle             ;  ?                       ;  peněženka
-  štont                 ;  Stand                   ;  stánek prodavače; stanoviště
-  šunt                  ;  Schund                  ;  brak, šmejd, bezcenná věc
-  švindl                ;  Schwindel               ;  lest, úskok, klam, podvod
-  švindlíř, švindléř    ;  Schwindler              ;  podvodník, šejdíř
-  švindlovat            ;  schwindeln              ;  podvádět
-  být švorc             ;  schwarz ?               ;  být bez peněz
-  švorcák               ;  schwarz ?               ;  člověk bez peněz
-  vekslák               ;  Wechsler = směnárník    ;  nelegální obchodník s valutami
-  vekslovat             ;  wechseln = (s)měnit     ;  nelegálně obchodovat s valutami
-  vindra                ;  Wiener Heller           ;  nepatrný peníz, halíř, groš
-
- ;  Kuchařství
+litkup;Leitkauf;zapíjení uzavření koupě;
+;; 
+mandel;Mandel;odstupné
  ; 
- ;  Do této skupiny patří výrazy přejaté z němčiny z oblasti kuchařství a
- ;  vše, co je k němu potřebné.
+ ;stará míra (15 kusů)
 
-  Germanismus            ;  Německý výraz     ;  Český odpovídající výraz
-    -
-  apetyt                 ;  Appetit           ;  chuť k jídlu
-  biskupský chlebíček    ;  Bischofsbrot      ;  biskupský chlebíček (kuch.)
-  buchta                 ;  Buchtel (rak.)    ;  buchta
-  buřt                   ;  Wurst             ;  buřt, vuřt
-  cukr                   ;  Zucker            ;  cukr
-  cukrovat, cukřit       ;  zuckern           ;  cukrovat, sladit
-  dort                   ;  Torte             ;  dort
-  dynstovat              ;  dünsten           ;  dusit (kuch.)
+mince ;Münze ;mince
 
-  
-  erteple               ;  Erdäpfel                ;  brambory
-    
-  ešus                  ;  E3schuss                ;  jídelní miska, ešus
-
-  fajnšmekr             ;  Feinschmecker           ;  labužník
-
-  fašírka               ;  Faschierte              ;  sekaná, mleté maso
-
-  fašírovat             ;  faschieren              ;  rozemlít
-
-  flaška                ;  Flasche                 ;  láhev
-
-  frištik               ;  Frühstück               ;  snídaně
-
-  futrovat (se)         ;  füttern                 ;  krmit (se)
-
-  gábl, gáblík          ;  Gabelfrühstück          ;  dopolední svačina, přesnídávka
-
-  kafe                  ;  Kaffee                  ;  káva
-
-  kalich                ;  Kelch                   ;  kalich, pohár, číše
-
-  kastrol               ;  Kasserolle              ;  kastrol, rendlík
-
-  knedlík               ;  Knödel                  ;  knedlík
-
-  koštér                ;  Koster                  ;  koštér, ochutnávač
-
-  (o)koštovat           ;  kosten                  ;  (o)chutnat
-
-  kuchtík               ;  Küchenjunge             ;  kuchtík
-
-  kuchtit               ;  kochen                  ;  vařit
-
-  kuchyně               ;  Küche                   ;  kuchyně
-
-  ládovat se            ;  laden                   ;  cpát se, hltavě pojídat
-
-  lák                   ;  Lake                    ;  nálev, lák
-
-  lógr                  ;  Lager                   ;  kávová sedlina
-
-  mošt                  ;  Most                    ;  nevykvašená šťáva z ovoce, mošt
-
-  moštárna              ;  Mosterei                ;  moštárna
-
-  nášup                 ;  Naschub (zast.)         ;  přídavek
-
-  pajšl                 ;  Beuschel (rak.kuch.)    ;  hovězí nebo vepřové plíce a
-                        ;                          ; 
-  putra                 ;  Butter                  ;  žaludek
-                                                 ; 
-                                                 ;  máslo
-
-  putrovat              ;  buttern                 ;  tlouci máslo
-
-  rajs                  ;  Reis                    ;  rýže
-
-  rendlík               ;  Reind                   ;  (menší) kastrol
-
-  restovat              ;  rösten                  ;  opékat, dusit na tuku
-
-  rošt                  ;  Rost                    ;  mřížka k opékání masa
-
-  roštování             ;  Rost                    ;  způsob konzervace
-
-  rozinka               ;  Rosine                  ;  rozinka, hrozinka
-
-  sekt                  ;  Sekt                    ;  šumivé víno
-
-  semlbába, zemlbába    ;  Semmelauflauf           ;  žemlovka
-
-  servírka              ;  Serviererin             ;  zaměstnankyně v restauraci
-
-  servírovat            ;  servieren               ;  podávat (jídlo)
-
-  servít(ek)            ;  Serviette               ;  ubrousek
-
-  sos, sós              ;  Sosse                   ;  omáčka
-
-  sporák, šporák        ;  Sparherd                ;  sporák, plotna
-
-  sulc                  ;  Sulze, Sülze            ;  aspik, rosol, huspenina
-
-  šál                   ;  ?                       ;  jeden z velkých svalů kýty
-
-  šálek                 ;  Schale (rak.)           ;  šálek, miska
-  
-
-  šlichta                   ;  Schlichte                ;  břečka, špatné jídlo
-   - -
-  šmak                      ;  Geschmack                ;  chuť, příchuť
-  šmáknout (si)             ;  schmecken                ;  pochutnat si; přijít vhod
-  šmakovat                  ;  schmecken                ;  chutnat
-  šmolc                     ;  schmelzen, Schmolz       ;  přepuštěné máslo
-  šnycl                     ;  Schnitzel                ;  řízek
-  šnytlich, šnytlík         ;  Schnittlauch             ;  pažitka
-  šouf                      ;  Schufen                  ;  naběračka s dlouhým držadlem
-  špejle                    ;  Speiler                  ;  špejle
-  špejlovat                 ;  speilen                  ;  uzavírat špejlemi, špejlovat
-  špek                      ;  Speck                    ;  slanina, špek
-  špekáček                  ;  Speckwurst               ;  špekáček
-  špekbuřt, špekvuřt        ;  Speckwurst (zast.)       ;  tlačenka
-  špekové knedlíky          ;  Speckknödel              ;  špekové knedlíky
-  špenát                    ;  Spinat                   ;  špenát
-  špikovat                  ;  spicken                  ;  protahovat slaninou; prokládat
-  šporhert, špolhert        ;  Sparherd                 ;  sporák
-  špunt                     ;  Spund                    ;  zátka
-  (za)špuntovat             ;  spunden                  ;  (za)zátkovat
-  štola                     ;  Stolle, Stollen          ;  vánočka, houska
-  štrúdl                    ;  Strudel                  ;  závin
-  štrycle, štrycla          ;  Striezel                 ;  podlouhlý chléb, veka, šiška
-  šufánek, žufánek          ;  Schufen, Schöpfpfanne    ;  naběračka, sběračka
-  šunka                     ;  Schinken                 ;  šunka
-  šunkofleky, šunkafleky    ;  Schinkenfleckerl         ;  šunkové flíčky
-  talíř                     ;  Teller                   ;  talíř
-  vurst                     ;  Wurst                    ;  salám
-  vuřt                      ;  Wurst                    ;  vuřt, buřt
-
- ;  Textilní výroba
+probíř, probéř;Probierer ;zkoušeč jakosti a hmotnosti
+;; 
+punc;Punze ;mincí
  ; 
- ;  Do této skupiny patří výrazy, které mají něco společného s textilním
- ;  průmyslem a obuvnictvím.
+ ;razidlo, úřední značka, punc
 
-  Germanismus    ;  Německý výraz    ;  Český odpovídající výraz
-  -  -
-  cajk           ;  Zeug             ;  látka (podřadná)
-  celta          ;  Zelt             ;  plachta
-  cícha          ;  Zieche           ;  povlak na peřinu
+puntovat;Bund machen ;spolčovat se
+
+rest;Rest;nedoplatek, nedodělek
+
+rudl;? ;dvoukolý vozík na přepravu
+;; 
+sorta ;Sorte ;zboží
+ ; 
+ ;druh, odrůda
+
+spedice ;Spedition ;doprava, zasílatelství
+
+speditér, špeditér;Spediteur ;zasílatel, dopravce, stěhovák
+
+speditérství;Spedition ;zasílatelství
+-
+
+šacovat ;schätzen;odhadnout, ocenit
+
+šacovník;Schätzer;odhadce
+šacunk, šacuňk;Schätzung ;odhad; výkupné
+šejdíř;Schindler ;podvodník
+šilink;Schilling ;bývalé platidlo v Rakousku
+šlohnout;? ;ukrást
+šmejd ;Schund;podřadné zboží, brak
+šmelina ;Schiebung ;černý obchod, lichva
+šmelinář;Schieber;překupník
+šmízo ;Schmiere;úplatek, výhoda; brak, šmejd
+špárkasa;Sparkasse ;spořitelna
+špárovat;sparen;šetřit
+špársystém;Sparsystem;úsporný systém
+špeceraj;Spezerei;obchod se smíšeným zbožím
+šporovat, špórovat;sparen;šetřit
+šrajtofle ;? ;peněženka
+štont ;Stand ;stánek prodavače; stanoviště
+šunt;Schund;brak, šmejd, bezcenná věc
+švindl;Schwindel ;lest, úskok, klam, podvod
+švindlíř, švindléř;Schwindler;podvodník, šejdíř
+švindlovat;schwindeln;podvádět
+být švorc ;schwarz ? ;být bez peněz
+švorcák ;schwarz ? ;člověk bez peněz
+vekslák ;Wechsler = směnárník;nelegální obchodník s valutami
+vekslovat ;wechseln = (s)měnit ;nelegálně obchodovat s valutami
+vindra;Wiener Heller ;nepatrný peníz, halíř, groš
+
+ ;Kuchařství
+ ; 
+ ;Do této skupiny patří výrazy přejaté z němčiny z oblasti kuchařství a
+ ;vše, co je k němu potřebné.
+
+Germanismus;Německý výraz ;Český odpovídající výraz
+-
+apetyt ;Appetit ;chuť k jídlu
+biskupský chlebíček;Bischofsbrot;biskupský chlebíček (kuch.)
+buchta ;Buchtel (rak.);buchta
+buřt ;Wurst ;buřt, vuřt
+cukr ;Zucker;cukr
+cukrovat, cukřit ;zuckern ;cukrovat, sladit
+dort ;Torte ;dort
+dynstovat;dünsten ;dusit (kuch.)
+
+
+erteple ;Erdäpfel;brambory
+
+ešus;E3schuss;jídelní miska, ešus
+
+fajnšmekr ;Feinschmecker ;labužník
+
+fašírka ;Faschierte;sekaná, mleté maso
+
+fašírovat ;faschieren;rozemlít
+
+flaška;Flasche ;láhev
+
+frištik ;Frühstück ;snídaně
+
+futrovat (se) ;füttern ;krmit (se)
+
+gábl, gáblík;Gabelfrühstück;dopolední svačina, přesnídávka
+
+kafe;Kaffee;káva
+
+kalich;Kelch ;kalich, pohár, číše
+
+kastrol ;Kasserolle;kastrol, rendlík
+
+knedlík ;Knödel;knedlík
+
+koštér;Koster;koštér, ochutnávač
+
+(o)koštovat ;kosten;(o)chutnat
+
+kuchtík ;Küchenjunge ;kuchtík
+
+kuchtit ;kochen;vařit
+
+kuchyně ;Küche ;kuchyně
+
+ládovat se;laden ;cpát se, hltavě pojídat
+
+lák ;Lake;nálev, lák
+
+lógr;Lager ;kávová sedlina
+
+mošt;Most;nevykvašená šťáva z ovoce, mošt
+
+moštárna;Mosterei;moštárna
+
+nášup ;Naschub  ;přídavek
+
+pajšl ;Beuschel (rak.kuch.);hovězí nebo vepřové plíce a
+;; 
+putra ;Butter;žaludek
+ ; 
+ ;máslo
+
+putrovat;buttern ;tlouci máslo
+
+rajs;Reis;rýže
+
+rendlík ;Reind ;(menší) kastrol
+
+restovat;rösten;opékat, dusit na tuku
+
+rošt;Rost;mřížka k opékání masa
+
+roštování ;Rost;způsob konzervace
+
+rozinka ;Rosine;rozinka, hrozinka
+
+sekt;Sekt;šumivé víno
+
+semlbába, zemlbába;Semmelauflauf ;žemlovka
+
+servírka;Serviererin ;zaměstnankyně v restauraci
+
+servírovat;servieren ;podávat (jídlo)
+
+servít(ek);Serviette ;ubrousek
+
+sos, sós;Sosse ;omáčka
+
+sporák, šporák;Sparherd;sporák, plotna
+
+sulc;Sulze, Sülze;aspik, rosol, huspenina
+
+šál ;? ;jeden z velkých svalů kýty
+
+šálek ;Schale (rak.) ;šálek, miska
+
+
+šlichta ;Schlichte;břečka, špatné jídlo
+ - -
+šmak;Geschmack;chuť, příchuť
+šmáknout (si) ;schmecken;pochutnat si; přijít vhod
+šmakovat;schmecken;chutnat
+šmolc ;schmelzen, Schmolz ;přepuštěné máslo
+šnycl ;Schnitzel;řízek
+šnytlich, šnytlík ;Schnittlauch ;pažitka
+šouf;Schufen;naběračka s dlouhým držadlem
+špejle;Speiler;špejle
+špejlovat ;speilen;uzavírat špejlemi, špejlovat
+špek;Speck;slanina, špek
+špekáček;Speckwurst ;špekáček
+špekbuřt, špekvuřt;Speckwurst  ;tlačenka
+špekové knedlíky;Speckknödel;špekové knedlíky
+špenát;Spinat ;špenát
+špikovat;spicken;protahovat slaninou; prokládat
+šporhert, špolhert;Sparherd ;sporák
+špunt ;Spund;zátka
+(za)špuntovat ;spunden;(za)zátkovat
+štola ;Stolle, Stollen;vánočka, houska
+štrúdl;Strudel;závin
+štrycle, štrycla;Striezel ;podlouhlý chléb, veka, šiška
+šufánek, žufánek;Schufen, Schöpfpfanne;naběračka, sběračka
+šunka ;Schinken ;šunka
+šunkofleky, šunkafleky;Schinkenfleckerl ;šunkové flíčky
+talíř ;Teller ;talíř
+vurst ;Wurst;salám
+vuřt;Wurst;vuřt, buřt
+
+ ;Textilní výroba
+ ; 
+ ;Do této skupiny patří výrazy, které mají něco společného s textilním
+ ;průmyslem a obuvnictvím.
+
+Germanismus;Německý výraz;Český odpovídající výraz
+--
+cajk ;Zeug ;látka (podřadná)
+celta;Zelt ;plachta
+cícha;Zieche ;povlak na peřinu
 
 (na)cvikovat (an)zwicken nastřihnout okraj látky při
 
- ;  tvarování
+ ;tvarování
 
 cvikl Zwickel klín, nástřih
 
-  cvišn                       ;  zwischen = mezi        ;  krejčovská vložka
-    -
-  cvok, cvoček                ;  Zwecke                 ;  cvok, cvoček
-  deka                        ;  Decke                  ;  deka, pokrývka
-  entlovat, endlovat          ;  endeln                 ;  obnitkovávat
-  fald, falt                  ;  Falte                  ;  záhyb, náběra, řasa
-  fěrtuch, fěrtoch            ;  Fürtuch                ;  zástěra
-  filc                        ;  Filz                   ;  plsť, filc
-  firhaněk                    ;  Vorhang                ;  záclona
-  fišpán, fišbajn             ;  Fischbein              ;  kostice
-  flauš                       ;  Flausch, Flaus         ;  flauš
-  flek                        ;  Fleck                  ;  záplata; skvrna
-  flikovat                    ;  flicken                ;  přištipkovat, záplatovat, látat
-  flitr                       ;  Flitter                ;  flitr, cetka
-  frak                        ;  Frack                  ;  frak
-  fusakle, fusekle            ;  Fu3socke, Fu3söckel    ;  ponožka
-  futro                       ;  Futter                 ;  podšívka
-  futrovat                    ;  füttern                ;  podšívat
-  galoše                      ;  Galosche               ;  galoše, přezůvka
-  grádl                       ;  Gradel                 ;  hustá lněná nebo bavlněná látka
-  hadr, hadra; hadry          ;  Hader                  ;  hadr; šaty
-  hantuch                     ;  Handtuch               ;  ručník
-  hašple                      ;  Haspel                 ;  vana s vijákem pro barvení tkanin
-  (na)heftovat                ;  (an)heften             ;  nastehovat
-  hózny                       ;  Hose                   ;  kalhoty
-  jupka                       ;  Joppe                  ;  ženský kabátek, kazajka
-  kamaše                      ;  Gamasche               ;  kamaše
-  kapuce                      ;  Kaputze                ;  kapuce
-  krajzl, krejzl, krejzlík    ;  Kragen                 ;  široký límec, límeček
-  kšilt                       ;  Schild                 ;  štítek čepice
-  kytle, kytlice              ;  Kittel                 ;  spodní sukně
-  lacl                        ;  Lätzchen               ;  náprsní část oděvu, náprsenka
-  lajntuch                    ;  Leintuch               ;  prostěradlo
-  léga                        ;  Lege                   ;  obruba
-  mandl                       ;  Mangel                 ;  mandl
-  mantl                       ;  Mantel                 ;  kabát
-  mašle                       ;  Masche                 ;  mašle, stuha
-  mustr                       ;  Muster                 ;  vzor, vzorek
-  pantofel                    ;  Pantoffel              ;  pantofel, trepka
-  piglovat                    ;  bügeln                 ;  žehlit
-  rantl                       ;  Rand, Randel           ;  okraj, obruba, lem
+cvišn ;zwischen = mezi;krejčovská vložka
+-
+cvok, cvoček;Zwecke ;cvok, cvoček
+deka;Decke;deka, pokrývka
+entlovat, endlovat;endeln ;obnitkovávat
+fald, falt;Falte;záhyb, náběra, řasa
+fěrtuch, fěrtoch;Fürtuch;zástěra
+filc;Filz ;plsť, filc
+firhaněk;Vorhang;záclona
+fišpán, fišbajn ;Fischbein;kostice
+flauš ;Flausch, Flaus ;flauš
+flek;Fleck;záplata; skvrna
+flikovat;flicken;přištipkovat, záplatovat, látat
+flitr ;Flitter;flitr, cetka
+frak;Frack;frak
+fusakle, fusekle;Fu3socke, Fu3söckel;ponožka
+futro ;Futter ;podšívka
+futrovat;füttern;podšívat
+galoše;Galosche ;galoše, přezůvka
+grádl ;Gradel ;hustá lněná nebo bavlněná látka
+hadr, hadra; hadry;Hader;hadr; šaty
+hantuch ;Handtuch ;ručník
+hašple;Haspel ;vana s vijákem pro barvení tkanin
+(na)heftovat;(an)heften ;nastehovat
+hózny ;Hose ;kalhoty
+jupka ;Joppe;ženský kabátek, kazajka
+kamaše;Gamasche ;kamaše
+kapuce;Kaputze;kapuce
+krajzl, krejzl, krejzlík;Kragen ;široký límec, límeček
+kšilt ;Schild ;štítek čepice
+kytle, kytlice;Kittel ;spodní sukně
+lacl;Lätzchen ;náprsní část oděvu, náprsenka
+lajntuch;Leintuch ;prostěradlo
+léga;Lege ;obruba
+mandl ;Mangel ;mandl
+mantl ;Mantel ;kabát
+mašle ;Masche ;mašle, stuha
+mustr ;Muster ;vzor, vzorek
+pantofel;Pantoffel;pantofel, trepka
+piglovat;bügeln ;žehlit
+rantl ;Rand, Randel ;okraj, obruba, lem
 
- ;  rašl ? stroj na výrobu vzorované pleteniny
+ ;rašl ? stroj na výrobu vzorované pleteniny
  ; 
- ;  rolák Rollkragenpullover svetr n. tričko s ohrnovacím límcem
+ ;rolák Rollkragenpullover svetr n. tričko s ohrnovacím límcem
 
-  ryps                        ;  Rips                    ;  tkanina s vroubky
-    
-  samet                       ;  Samt                    ;  matně lesklá tkanina, samet
-  sichrhajska, sichrhajcka    ;  Sicherheitsnadel        ;  zavírací špendlík
-  šablona                     ;  Schablone               ;  vzor, předloha
-  šarlat                      ;  Scharlach               ;  tkanina jasně červené barvy
-  šláfrok                     ;  Schlafrock              ;  župan
-  šlajer, šlojíř              ;  Schleier                ;  závoj, rouška
-  šlajfka                     ;  Schleife                ;  kravata, vázanka
-  šle                         ;  ?                       ;  tráky, kšandy
-  šněrovačka                  ;  schnüren                ;  korzet
-  šnuptychl                   ;  Schnupftuch             ;  kapesník
-  šnyt                        ;  Schnitt                 ;  střih (šatů); řez
-  šnytovat                    ;  schneiden, schnitten    ;  opracovávat okraje podešve
-  šorc                        ;  Schurz                  ;  zástěra
-  šos                         ;  Schoss                  ;  cíp kabátu
-  šotyš                       ;  Schottische             ;  skotský vzor
-  špendlík                    ;  Stecknadel              ;  špendlík
-  špendlit                    ;  zustecken               ;  špendlíky připevňovat, spojovat
-  šponovky                    ;  spannen                 ;  dlouhé přiléhavé kalhoty
-  štafírovat                  ;  ?                       ;  obšívat; upravovat, krášlit, zdobit
-  štekle                      ;  Stöckelabsätze          ;  vysoké podpatky
-  štep                        ;  stopfen                 ;  strojový steh; zalátané místo
-  štikování                   ;  Stickerei               ;  vyšívání
-  štikovat                    ;  sticken                 ;  vyšívat
-  štof                        ;  Stoff                   ;  vlněná látka, tkanina
-  štrikování                  ;  Stricken                ;  pletení
-  štrikovat                   ;  stricken                ;  plést
-  štrymfle                    ;  Strümpfe                ;  punčochy
-  štucl, štucel               ;  stutzen                 ;  rukávník
-  štucovat                    ;  stutzen                 ;  zkracovat, zastřihovat
-  štulpa, štulpna             ;  stulpen                 ;  vysoká bota se zahrnutým okrajem
-  štupovačka                  ;  Stopfgarn               ;  látací bavlnka
-  štupovat, štepovat          ;  stopfen                 ;  zašívat, látat
-  štych                       ;  Stich                   ;  steh
-  štychpróba                  ;  Stichprobe              ;  předběžná zkouška
-  tráky                       ;  Hosenträger             ;  šle, kšandy
-  trepky                      ;  ?                       ;  domácí obuv
+ryps;Rips;tkanina s vroubky
 
- ;  Vybavení domu a statku
+samet ;Samt;matně lesklá tkanina, samet
+sichrhajska, sichrhajcka;Sicherheitsnadel;zavírací špendlík
+šablona ;Schablone ;vzor, předloha
+šarlat;Scharlach ;tkanina jasně červené barvy
+šláfrok ;Schlafrock;župan
+šlajer, šlojíř;Schleier;závoj, rouška
+šlajfka ;Schleife;kravata, vázanka
+šle ;? ;tráky, kšandy
+šněrovačka;schnüren;korzet
+šnuptychl ;Schnupftuch ;kapesník
+šnyt;Schnitt ;střih (šatů); řez
+šnytovat;schneiden, schnitten;opracovávat okraje podešve
+šorc;Schurz;zástěra
+šos ;Schoss;cíp kabátu
+šotyš ;Schottische ;skotský vzor
+špendlík;Stecknadel;špendlík
+špendlit;zustecken ;špendlíky připevňovat, spojovat
+šponovky;spannen ;dlouhé přiléhavé kalhoty
+štafírovat;? ;obšívat; upravovat, krášlit, zdobit
+štekle;Stöckelabsätze;vysoké podpatky
+štep;stopfen ;strojový steh; zalátané místo
+štikování ;Stickerei ;vyšívání
+štikovat;sticken ;vyšívat
+štof;Stoff ;vlněná látka, tkanina
+štrikování;Stricken;pletení
+štrikovat ;stricken;plést
+štrymfle;Strümpfe;punčochy
+štucl, štucel ;stutzen ;rukávník
+štucovat;stutzen ;zkracovat, zastřihovat
+štulpa, štulpna ;stulpen ;vysoká bota se zahrnutým okrajem
+štupovačka;Stopfgarn ;látací bavlnka
+štupovat, štepovat;stopfen ;zašívat, látat
+štych ;Stich ;steh
+štychpróba;Stichprobe;předběžná zkouška
+tráky ;Hosenträger ;šle, kšandy
+trepky;? ;domácí obuv
+
+ ;Vybavení domu a statku
  ; 
- ;  Do této skupiny jsem zařadila výrazy, které označují vybavení a
- ;  zařízení domu nebo statku a vše, co se toho týká.
+ ;Do této skupiny jsem zařadila výrazy, které označují vybavení a
+ ;zařízení domu nebo statku a vše, co se toho týká.
 
-  Germanismus              ;  Německý výraz        ;  Český odpovídající výraz
-    
-  ajnclík                  ;  Einzelzimmer         ;  jednolůžkový pokoj
-  cimra                    ;  Zimmer               ;  pokoj
-  fajrovat                 ;  feuern               ;  hodně topit; prudce hořet
-  fůra, fůrka              ;  Fuhre                ;  povoz, fůra
-  futra                    ;  Futter               ;  zárubeň (u dveří)
-  grunt                    ;  Grund                ;  selský statek
-  gruntovat                ;  grundieren           ;  důkladně, od základu uklízet
-  hajcovat                 ;  heizen               ;  topit, hřát
-  hauzknecht               ;  Hausknecht           ;  pacholek, čeledín
-  hicovat                  ;  hitzen               ;  topit, silně hřát
-  hunškop (zast.)          ;  Kopf = hlava         ;  koňský náhlavek, ohlávka
-  kamrlík                  ;  Kämmerlein           ;  komůrka, malá místnost
-  kanape                   ;  Kanapee              ;  pohovka
-  kára                     ;  Karre, Karren        ;  vozík, trakař, kolečko, kárka
-  klandr                   ;  Geländer             ;  zábradlí
-  komora                   ;  Kammer               ;  komora
-  kredenc                  ;  Kredenz              ;  příborník, kredenc
-  kšír, kšíry              ;  schirren             ;  postroj, popruhy
-  (o)kšírovat              ;  schirren             ;  dát postroj, zapřahat
-  kuchyně                  ;  Küche                ;  kuchyně
-  kumbál                   ;  ?                    ;  malá temná místnost
-  kutloch                  ;  Kuttelhof (zast.)    ;  malá nevzhledná místnost, brloh
-  kvartýr                  ;  Quartier             ;  byt, příbytek
-  kýbl                     ;  Kübel                ;  kbelík, vědro
-  lampa                    ;  Lampe                ;  lampa, svítilna
-  legát                    ;  Legat                ;  židle s vyřezávaným opěradlem
-  lustr                    ;  Luster               ;  lustr, stropní svítidlo
-  maštal                   ;  Marstall             ;  chlév, stáj, konírna
-  matrace, madrace         ;  Matratze             ;  matrace
-  rýgl, rygl               ;  Riegel               ;  zástrčka, závora
-  (za)ryglovat             ;  Riegel               ;  zavřít na závoru, zástrčku
-  rýna                     ;  Rinne                ;  okapní žlab
-  sesle, sesla             ;  Sessel               ;  židle
-  skříň                    ;  Schrein, Schrank     ;  skříň, skříňka
-  spíž, spíže, spižírna    ;  Speise(kammer)       ;  místnost k uložení potravin
-  šafář                    ;  Schaffer             ;  (hospodářský) správce
-  šafářovat                ;  schaffen             ;  být šafářem; rozkazovat druhým
-  šamrle, šamrdle          ;  Schemel              ;  nízká stolička, podnožka
-  širm                     ;  Schirm               ;  stínidlo lampy
-  škopek                   ;  Schaff               ;  škopek, dřez
-  šopa                     ;  Schuppen             ;  kůlna, dřevník
-  špajz, špajzka           ;  Speisekammer         ;  spíže, spižírna
+Germanismus;Německý výraz;Český odpovídající výraz
 
-  špalda                     ;  Spalte            ;  druh pšenice, samopše
-  -  
-  špejchar                   ;  Speicher          ;  sýpka
-  špeluňka                   ;  Spelunke          ;  malá tmavá místnost
-  špígl                      ;  Spiegel           ;  zrcadlo, zrcátko
-  špíže, špížka, špižírna    ;  Speise(kammer)    ;  místnost k uložení potravin
-  šrank                      ;  Schrank           ;  skříň
-  šrot                       ;  Schrot            ;  krmivo, drť
-  šrotovat                   ;  schroten          ;  šrotovat, drtit (obilí)
-  šrotovník                  ;  Schrotmühle       ;  zařízení sloužící k výrobě šrotu
-  štok                       ;  Stock             ;  poschodí, patro
-  štokrle, štokrlík          ;  Stockerl          ;  kuchyňská sedačka bez opěradla
-  štoudev                    ;  ?                 ;  větší dřevěná nádoba, menší káď
-  štrozok                    ;  Strohsack         ;  slamník
-  šuple, šuplík, šufle       ;  Schublade         ;  zásuvka
-  tapeta                     ;  Tapete            ;  tapeta
-  tepich                     ;  Teppich           ;  koberec
-  vana                       ;  Wanne             ;  vana
+ajnclík;Einzelzimmer ;jednolůžkový pokoj
+cimra;Zimmer ;pokoj
+fajrovat ;feuern ;hodně topit; prudce hořet
+fůra, fůrka;Fuhre;povoz, fůra
+futra;Futter ;zárubeň (u dveří)
+grunt;Grund;selský statek
+gruntovat;grundieren ;důkladně, od základu uklízet
+hajcovat ;heizen ;topit, hřát
+hauzknecht ;Hausknecht ;pacholek, čeledín
+hicovat;hitzen ;topit, silně hřát
+hunškop ;Kopf = hlava ;koňský náhlavek, ohlávka
+kamrlík;Kämmerlein ;komůrka, malá místnost
+kanape ;Kanapee;pohovka
+kára ;Karre, Karren;vozík, trakař, kolečko, kárka
+klandr ;Geländer ;zábradlí
+komora ;Kammer ;komora
+kredenc;Kredenz;příborník, kredenc
+kšír, kšíry;schirren ;postroj, popruhy
+(o)kšírovat;schirren ;dát postroj, zapřahat
+kuchyně;Küche;kuchyně
+kumbál ;?;malá temná místnost
+kutloch;Kuttelhof ;malá nevzhledná místnost, brloh
+kvartýr;Quartier ;byt, příbytek
+kýbl ;Kübel;kbelík, vědro
+lampa;Lampe;lampa, svítilna
+legát;Legat;židle s vyřezávaným opěradlem
+lustr;Luster ;lustr, stropní svítidlo
+maštal ;Marstall ;chlév, stáj, konírna
+matrace, madrace ;Matratze ;matrace
+rýgl, rygl ;Riegel ;zástrčka, závora
+(za)ryglovat ;Riegel ;zavřít na závoru, zástrčku
+rýna ;Rinne;okapní žlab
+sesle, sesla ;Sessel ;židle
+skříň;Schrein, Schrank ;skříň, skříňka
+spíž, spíže, spižírna;Speise(kammer) ;místnost k uložení potravin
+šafář;Schaffer ;(hospodářský) správce
+šafářovat;schaffen ;být šafářem; rozkazovat druhým
+šamrle, šamrdle;Schemel;nízká stolička, podnožka
+širm ;Schirm ;stínidlo lampy
+škopek ;Schaff ;škopek, dřez
+šopa ;Schuppen ;kůlna, dřevník
+špajz, špajzka ;Speisekammer ;spíže, spižírna
 
- ;  Zoologie a botanika
+špalda ;Spalte;druh pšenice, samopše
+-
+špejchar ;Speicher;sýpka
+špeluňka ;Spelunke;malá tmavá místnost
+špígl;Spiegel ;zrcadlo, zrcátko
+špíže, špížka, špižírna;Speise(kammer);místnost k uložení potravin
+šrank;Schrank ;skříň
+šrot ;Schrot;krmivo, drť
+šrotovat ;schroten;šrotovat, drtit (obilí)
+šrotovník;Schrotmühle ;zařízení sloužící k výrobě šrotu
+štok ;Stock ;poschodí, patro
+štokrle, štokrlík;Stockerl;kuchyňská sedačka bez opěradla
+štoudev;? ;větší dřevěná nádoba, menší káď
+štrozok;Strohsack ;slamník
+šuple, šuplík, šufle ;Schublade ;zásuvka
+tapeta ;Tapete;tapeta
+tepich ;Teppich ;koberec
+vana ;Wanne ;vana
+
+ ;Zoologie a botanika
  ; 
- ;  Do této skupiny patří výrazy přejaté z němčiny z oblasti zoologie a
- ;  botaniky.
+ ;Do této skupiny patří výrazy přejaté z němčiny z oblasti zoologie a
+ ;botaniky.
 
-  Germanismus        ;  Německý výraz    ;  Český odpovídající výraz
-    -
-  blekotat           ;  blöken           ;  blekotat; bečet, bučet
-  datle              ;  Dattel           ;  datle
-  erteple            ;  Erdäpfel         ;  brambory
-  fakrle             ;  Ferkel           ;  sele, podsvinče
-  filcka             ;  Filzlaus         ;  druh vši, muňka
-  flígr              ;  Flügel           ;  křídlo
-  hajtra             ;  Heupferd         ;  špatný, sešlý kůň
-  herinek, herink    ;  Hering           ;  sleď
-  humr               ;  Hummer           ;  humr, mořský rak
-  kamilky            ;  Kamille          ;  heřmánek
-  karfiol            ;  Karfiol          ;  květák
-  kél                ;  Kohl             ;  kapusta
-  kupírovat          ;  kupieren         ;  kupírovat
-  mandle             ;  Mandel           ;  mandle
-  mečet, mekat       ;  meckern          ;  mečet
-  mekot              ;  Meckern          ;  mečení, mekot
-  mlok               ;  Molch            ;  mlok, salamandr
-  mušle              ;  Muschel          ;  lastura, ulita
+Germanismus;Německý výraz;Český odpovídající výraz
+-
+blekotat ;blöken ;blekotat; bečet, bučet
+datle;Dattel ;datle
+erteple;Erdäpfel ;brambory
+fakrle ;Ferkel ;sele, podsvinče
+filcka ;Filzlaus ;druh vši, muňka
+flígr;Flügel ;křídlo
+hajtra ;Heupferd ;špatný, sešlý kůň
+herinek, herink;Hering ;sleď
+humr ;Hummer ;humr, mořský rak
+kamilky;Kamille;heřmánek
+karfiol;Karfiol;květák
+kél;Kohl ;kapusta
+kupírovat;kupieren ;kupírovat
+mandle ;Mandel ;mandle
+mečet, mekat ;meckern;mečet
+mekot;Meckern;mečení, mekot
+mlok ;Molch;mlok, salamandr
+mušle;Muschel;lastura, ulita
 
-  rajs                 ;  Reis              ;  rýže
-  -  -
-  ramlice              ;  Rammler           ;  samice králíka nebo zajíce
-  ramlík               ;  Rammler           ;  samec králíka nebo zajíce
-  ramlování            ;  Rammelzeit        ;  páření se (o králících)
-  rap                  ;  Rappe             ;  černý kůň, vraník
-  ratlík               ;  Rattler           ;  malý hladkosrstý pinč
-  rebarbora            ;  Rhabarber         ;  reveň
-  rozinka              ;  Rosine            ;  rozinka, hrozinka
-  rybíz                ;  Ribisel (rak.)    ;  rybíz
-  salamandr            ;  Salamander        ;  mlok
-  šalvěj               ;  Salbei            ;  šalvěj
-  šelma                ;  Schelm            ;  šelma, dravý savec
-  šiml                 ;  Schimmel          ;  bělouš, bílý kůň
-  škeble               ;  ?                 ;  sladkovodní mlž; lastura
-  šnek                 ;  Schnecke          ;  hlemýžď, šnek
-  šnytlich, šnytlík    ;  Schnittlauch      ;  pažitka
-  špargl               ;  Spargel           ;  chřest
-  špenát               ;  Spinat            ;  špenát
-  špendlík             ;  Stecknadel        ;  sorta slívy
-  špic                 ;  Spitz(hund)       ;  plemeno psů
-  šprot, šprota        ;  Sprotte           ;  mořská rybka příbuzná sledi
-  štokfiš              ;  Stockfisch        ;  treska
-  šváb                 ;  Schabe            ;  šváb
+rajs ;Reis;rýže
+--
+ramlice;Rammler ;samice králíka nebo zajíce
+ramlík ;Rammler ;samec králíka nebo zajíce
+ramlování;Rammelzeit;páření se (o králících)
+rap;Rappe ;černý kůň, vraník
+ratlík ;Rattler ;malý hladkosrstý pinč
+rebarbora;Rhabarber ;reveň
+rozinka;Rosine;rozinka, hrozinka
+rybíz;Ribisel (rak.);rybíz
+salamandr;Salamander;mlok
+šalvěj ;Salbei;šalvěj
+šelma;Schelm;šelma, dravý savec
+šiml ;Schimmel;bělouš, bílý kůň
+škeble ;? ;sladkovodní mlž; lastura
+šnek ;Schnecke;hlemýžď, šnek
+šnytlich, šnytlík;Schnittlauch;pažitka
+špargl ;Spargel ;chřest
+špenát ;Spinat;špenát
+špendlík ;Stecknadel;sorta slívy
+špic ;Spitz(hund) ;plemeno psů
+šprot, šprota;Sprotte ;mořská rybka příbuzná sledi
+štokfiš;Stockfisch;treska
+šváb ;Schabe;šváb
 
- ;  Pohostinství
+ ;Pohostinství
  ; 
- ;  Do této skupiny jsem zařadila výrazy, které mají něco společného s
- ;  pohostinstvím a jeho označením.
+ ;Do této skupiny jsem zařadila výrazy, které mají něco společného s
+ ;pohostinstvím a jeho označením.
 
-  Germanismus    ;  Německý výraz    ;  Český odpovídající výraz
-  -  -
-  knajpa         ;  Kneipe           ;  hospoda
-  krčma          ;  Kretschmer       ;  hospodský
-  krčmář         ;  Kretschmer       ;  hospodský
-  lokál          ;  Lokal            ;  hostinec, hostinský podnik
-  pajzl          ;  Beisel           ;  putyka, krčma
-  pingl          ;  Bündel           ;  číšník
-  putyka         ;  Butike           ;  hospoda nejnižšího řádu
-  rauš           ;  Rausch           ;  (alkoholické) opojení, špička
-  runda          ;  Runde            ;  kolo, okruh, stolní společnost
-  sekt           ;  Sekt             ;  šumivé víno
-  servírka       ;  Serviererin      ;  zaměstnankyně v restauraci
+Germanismus;Německý výraz;Český odpovídající výraz
+--
+knajpa ;Kneipe ;hospoda
+krčma;Kretschmer ;hospodský
+krčmář ;Kretschmer ;hospodský
+lokál;Lokal;hostinec, hostinský podnik
+pajzl;Beisel ;putyka, krčma
+pingl;Bündel ;číšník
+putyka ;Butike ;hospoda nejnižšího řádu
+rauš ;Rausch ;(alkoholické) opojení, špička
+runda;Runde;kolo, okruh, stolní společnost
+sekt ;Sekt ;šumivé víno
+servírka ;Serviererin;zaměstnankyně v restauraci
 
-  servírovat      ;  servieren               ;  podávat (jídlo)
-    
-  servít(ek)      ;  Serviette               ;  ubrousek
-  šenk            ;  Schenke, Schank         ;  hospoda, výčep, nálevna
-  šenkovat        ;  schenken                ;  nalévat, čepovat
-  šenkovna        ;  Schenke, Schank         ;  hospoda, výčep, nálevna
-  šenkýř          ;  Schenkwirt              ;  hostinský, výčepní
-  šenkýřka        ;  Schenkwirtin            ;  hostinská
-  šláftruňk       ;  Schlaftrunk             ;  uspávací nápoj
-  šnaps, šnába    ;  Schnaps                 ;  kořalka, pálenka
-  špeluňka        ;  Spelunke                ;  malá hospoda nejhoršího řádu
-  špiritus        ;  Spirit                  ;  líh, alkohol
-  špric           ;  Gespritzte, Spritzer    ;  vinný střik
-  štamgast        ;  Stammgast               ;  stálý host
-  štamprle        ;  Schnapsglas             ;  kalíšek, stopka
-  tringelt        ;  Trinkgeld               ;  spropitné
-  truněk          ;  Trunk, Trank            ;  alkoholický nápoj
-  tuplák          ;  Doppelmass              ;  dvoulitrová nádoba
+servírovat;servieren ;podávat (jídlo)
 
- ;  Feudalismus
+servít(ek);Serviette ;ubrousek
+šenk;Schenke, Schank ;hospoda, výčep, nálevna
+šenkovat;schenken;nalévat, čepovat
+šenkovna;Schenke, Schank ;hospoda, výčep, nálevna
+šenkýř;Schenkwirt;hostinský, výčepní
+šenkýřka;Schenkwirtin;hostinská
+šláftruňk ;Schlaftrunk ;uspávací nápoj
+šnaps, šnába;Schnaps ;kořalka, pálenka
+špeluňka;Spelunke;malá hospoda nejhoršího řádu
+špiritus;Spirit;líh, alkohol
+špric ;Gespritzte, Spritzer;vinný střik
+štamgast;Stammgast ;stálý host
+štamprle;Schnapsglas ;kalíšek, stopka
+tringelt;Trinkgeld ;spropitné
+truněk;Trunk, Trank;alkoholický nápoj
+tuplák;Doppelmass;dvoulitrová nádoba
+
+ ;Feudalismus
  ; 
- ;  Do této skupiny jsem zařadila výrazy z období feudalismu, především
- ;  různé tituly šlechty a označení služebnictva.
+ ;Do této skupiny jsem zařadila výrazy z období feudalismu, především
+ ;různé tituly šlechty a označení služebnictva.
 
-  Germanismus                  ;  Německý výraz     ;  Český odpovídající výraz
-    
-  forman, furman               ;  Fuhrmann          ;  vozka, kočí
-  gráf, gróf                   ;  Graf              ;  hrabě
-  hauzknecht                   ;  Hausknecht        ;  pacholek, čeledín
-  heršaft, heršoft             ;  Herrschaft        ;  panstvo, vrchnost
-  hofmistr                     ;  Hofmeister        ;  hofmistr; vychovatel
-  hrabě                        ;  Graf              ;  hrabě, příslušník vyšší šlechty
-  kamerdíner                   ;  Kammerdiener      ;  komorník (zast.)
-  kurfiřt                      ;  Kurfürst          ;  držitel říšského arciúřadu
-  lantkrabě, lankrabě          ;  Landgraf          ;  knížecí titul, lankrabě
-  lantkrabství, lankrabství    ;  Landgrafschaft    ;  území spravované lankrabětem
-  leník                        ;  Lehenmann         ;  leník, vazal, man
-  léno                         ;  Lehn, Lehen       ;  léno, feudum
-  lokaj                        ;  Lakai             ;  lokaj, sluha
-  markrabě, markrabí           ;  Markgraf          ;  markrabě, knížecí titul
-  markrabství                  ;  Markgrafschaft    ;  země spravované markrabětem
-  purkmistr                    ;  Bürgermeister     ;  purkmistr, starosta
-  rychta                       ;  Richte            ;  obydlí, sídlo rychtáře
+Germanismus;Německý výraz ;Český odpovídající výraz
 
-  
-  rychtář     ;  Richter       ;  rychtář, starosta
-  -  -
-  rytíř       ;  Ritter        ;  rytíř
+forman, furman ;Fuhrmann;vozka, kočí
+gráf, gróf ;Graf;hrabě
+hauzknecht ;Hausknecht;pacholek, čeledín
+heršaft, heršoft ;Herrschaft;panstvo, vrchnost
+hofmistr ;Hofmeister;hofmistr; vychovatel
+hrabě;Graf;hrabě, příslušník vyšší šlechty
+kamerdíner ;Kammerdiener;komorník 
+kurfiřt;Kurfürst;držitel říšského arciúřadu
+lantkrabě, lankrabě;Landgraf;knížecí titul, lankrabě
+lantkrabství, lankrabství;Landgrafschaft;území spravované lankrabětem
+leník;Lehenmann ;leník, vazal, man
+léno ;Lehn, Lehen ;léno, feudum
+lokaj;Lakai ;lokaj, sluha
+markrabě, markrabí ;Markgraf;markrabě, knížecí titul
+markrabství;Markgrafschaft;země spravované markrabětem
+purkmistr;Bürgermeister ;purkmistr, starosta
+rychta ;Richte;obydlí, sídlo rychtáře
 
-  šlechta     ;  Geschlecht    ;  šlechta, vládnoucí třída,
-              ;                ; 
-  šlechtic    ;  Geschlecht    ;  aristokracie
-                             ; 
-                             ;  příslušník šlechty, aristokrat
-  
 
- ;  štalmistr Stallmeister podkoní; jeden z dvorských úředníků
+rychtář ;Richter ;rychtář, starosta
+--
+rytíř ;Ritter;rytíř
+
+šlechta ;Geschlecht;šlechta, vládnoucí třída,
+;; 
+šlechtic;Geschlecht;aristokracie
+ ; 
+ ;příslušník šlechty, aristokrat
+
+
+ ;štalmistr Stallmeister podkoní; jeden z dvorských úředníků
 
 štolba Stallmeister podkoní, správce konírny
 
- ;  Stavebnictví
+ ;Stavebnictví
  ; 
- ;  Do této skupiny patří výrazy z oblasti stavebnictví a stavitelství
- ;  včetně označení staveb.
+ ;Do této skupiny patří výrazy z oblasti stavebnictví a stavitelství
+ ;včetně označení staveb.
 
 Germanismus Německý výraz Český odpovídající výraz
 
@@ -1950,7 +2083,7 @@ lusthaus Lusthaus letohrádek
 
 polír Polier dílovedoucí, stavbyvedoucí
 
- ;  rajblík Reibebrett zednické nebo betonářské hladítko
+ ;rajblík Reibebrett zednické nebo betonářské hladítko
 
 římsa Sims římsa
 
@@ -1960,9 +2093,9 @@ sokl Sockel podstavec, podnož, patka
 
 šindel Schindel šindel, taška
 
-šindelář Schindelmacher (zast.) výrobce šindelů
+šindelář Schindelmacher  výrobce šindelů
 
- ;  špaleta Spalt, Spalte= trhlina, spára
+ ;špaleta Spalt, Spalte= trhlina, spára
 
 ostění
 
@@ -1970,154 +2103,154 @@ ostění
 
 štukatér Stukkateur, Stuckkünstler odborník v štukových pracích
 
- ;  Hornictví a hutnictví
+ ;Hornictví a hutnictví
  ; 
- ;  Do této skupiny patří výrazy přejaté z němčiny z oblasti hornictví a
- ;  hutnictví.
+ ;Do této skupiny patří výrazy přejaté z němčiny z oblasti hornictví a
+ ;hutnictví.
 
-  Germanismus     ;  Německý výraz    ;  Český odpovídající výraz
-    -
-  fárat           ;  einfahren        ;  sjíždět do dolu, fárat
-  fedrovat        ;  fördern          ;  těžit, dolovat
-  havíř           ;  Hauer            ;  havíř, horník
-  huť             ;  Hütte            ;  huť
-  pergmistr       ;  Bergmeister      ;  důlní dozorce, důlní mistr
-  šachta          ;  Schacht          ;  důl, šachta
-  šála            ;  Schal            ;  těžní klec
-  šalíř           ;  ?                ;  topič v sklářské huti
-  šibík           ;  Stapel           ;  slepá chodba (horn.)
-  šlam            ;  Schlamm          ;  usazenina uhelného prachu
-  šlicovat        ;  schlitzen        ;  dělat zátinku
-  šmant, šmont    ;  ?                ;  uhelný prach; druh briket
-  šmelc           ;  Schmelz          ;  staré železo, šrot
-  šmelcíř         ;  Schmelzer        ;  tavič
-  šmelcovat       ;  schmelzen        ;  tavit
-  šmelcovna       ;  Schmelzerei      ;  tavírna
-  šrot            ;  Schrott          ;  odpad, staré železo
-  šrotovat        ;  schrotten        ;  šrotovat, drtit (staré železo)
-  štajgr          ;  Steiger          ;  důlní dozorce
-  štendr          ;  Ständer          ;  stojka (horn.)
-  štola           ;  Stollen          ;  podzemní chodba, štola
-  šurf            ;  Schurf           ;  průzkumná šachta
-  šus, šús        ;  Schuss           ;  odpal, odstřel
-  šutr            ;  Schotter         ;  kámen; štěrk
+Germanismus ;Německý výraz;Český odpovídající výraz
+-
+fárat ;einfahren;sjíždět do dolu, fárat
+fedrovat;fördern;těžit, dolovat
+havíř ;Hauer;havíř, horník
+huť ;Hütte;huť
+pergmistr ;Bergmeister;důlní dozorce, důlní mistr
+šachta;Schacht;důl, šachta
+šála;Schal;těžní klec
+šalíř ;?;topič v sklářské huti
+šibík ;Stapel ;slepá chodba (horn.)
+šlam;Schlamm;usazenina uhelného prachu
+šlicovat;schlitzen;dělat zátinku
+šmant, šmont;?;uhelný prach; druh briket
+šmelc ;Schmelz;staré železo, šrot
+šmelcíř ;Schmelzer;tavič
+šmelcovat ;schmelzen;tavit
+šmelcovna ;Schmelzerei;tavírna
+šrot;Schrott;odpad, staré železo
+šrotovat;schrotten;šrotovat, drtit (staré železo)
+štajgr;Steiger;důlní dozorce
+štendr;Ständer;stojka (horn.)
+štola ;Stollen;podzemní chodba, štola
+šurf;Schurf ;průzkumná šachta
+šus, šús;Schuss ;odpal, odstřel
+šutr;Schotter ;kámen; štěrk
 
- ;  Administrativa a poštovnictví
+ ;Administrativa a poštovnictví
  ; 
- ;  Do této skupiny jsem zařadila výrazy úřední, administrativní a z
- ;  oblasti poštovnictví a soudnictví.
+ ;Do této skupiny jsem zařadila výrazy úřední, administrativní a z
+ ;oblasti poštovnictví a soudnictví.
 
-  -
-  Germanismus    ;  Německý výraz    ;  Český odpovídající výraz
-  -  
-  amt            ;  Amt              ;  úřad
+-
+Germanismus;Německý výraz;Český odpovídající výraz
+-
+amt;Amt;úřad
 
-  bichle         ;  Büchel           ;  kniha, knížka
+bichle ;Büchel ;kniha, knížka
 
-  byró, byro     ;  Büro             ;  kancelář; vedoucí výkonný
-                 ;                   ; 
-  kancelář       ;  Kanzlei          ;  orgán
-                                   ; 
-                                   ;  kancelář
+byró, byro ;Büro ;kancelář; vedoucí výkonný
+ ; ; 
+kancelář ;Kanzlei;orgán
+ ; 
+ ;kancelář
 
-  kartotéka      ;  Kartothek        ;  kartotéka
-  -
+kartotéka;Kartothek;kartotéka
+-
 
- ;  kastl, kastlík Kasten skříň, skříňka, schránka, bednička
+ ;kastl, kastlík Kasten skříň, skříňka, schránka, bednička
 
 krajsamt Kreisamt okresní, krajský úřad
 
-  
-  landkrycht         ;  Landgericht               ;  krajský soud (zast.)
-    
-  (od)lifrovat       ;  (ab)liefern               ;  dodávat; poslat, odeslat
 
-  ortel              ;  Urteil                    ;  rozsudek, verdikt
+landkrycht ;Landgericht ;krajský soud 
 
-  paket              ;  Paket                     ;  balík
+(od)lifrovat ;(ab)liefern ;dodávat; poslat, odeslat
 
-  pakl               ;  Packen                    ;  balík
+ortel;Urteil;rozsudek, verdikt
 
-  post               ;  Posten                    ;  postavení, funkce; místo
+paket;Paket ;balík
 
-  punc               ;  Punze                     ;  razidlo, úřední značka, punc
+pakl ;Packen;balík
 
-  radýrka            ;  Radiergummi               ;  guma (na vymazávání)
+post ;Posten;postavení, funkce; místo
 
-  radýrovat          ;  radieren                  ;  gumovat, vymazávat gumou
+punc ;Punze ;razidlo, úřední značka, punc
 
-  rustika            ;  rustikal                  ;  písmo protáhlé do výšky
+radýrka;Radiergummi ;guma (na vymazávání)
 
-  úřední šiml        ;  Schimmel                  ;  bezduché, byrokratické
-                     ;                            ; 
-  šmírák             ;  Schmiere                  ;  úřadování
-                                                ; 
-                                                ;  koncept
+radýrovat;radieren;gumovat, vymazávat gumou
 
-  šmírbuch           ;  Schmierbuch               ;  pomocná účetní kniha
+rustika;rustikal;písmo protáhlé do výšky
 
-  šrajbr, šrajbka    ;  Schreiber, Schreiberin    ;  písař, písařka (na stroji)
+úřední šiml;Schimmel;bezduché, byrokratické
+ ;; 
+šmírák ;Schmiere;úřadování
+; 
+;koncept
 
-  šrajbmašina        ;  Schreibmaschine           ;  psací stroj
+šmírbuch ;Schmierbuch ;pomocná účetní kniha
 
-  štempl             ;  Stempel                   ;  razítko, pečeť
+šrajbr, šrajbka;Schreiber, Schreiberin;písař, písařka (na stroji)
 
-  štemplovat         ;  stempeln                  ;  razítkovat
-  
+šrajbmašina;Schreibmaschine ;psací stroj
 
- ;  Školství
+štempl ;Stempel ;razítko, pečeť
+
+štemplovat ;stempeln;razítkovat
+
+
+ ;Školství
  ; 
- ;  Do této skupiny patří výrazy z oblasti školství a studentské slangové
- ;  výrazy.
+ ;Do této skupiny patří výrazy z oblasti školství a studentské slangové
+ ;výrazy.
 
-  Germanismus         ;  Německý výraz              ;  Český odpovídající výraz
-    -
-  biflovat            ;  büffeln                    ;  učit se nazpaměť
-  bichle              ;  Büchel                     ;  kniha, knížka
-  děkan               ;  Dekan                      ;  děkan
-  děkanát             ;  Dekanat                    ;  děkanát
-  jár                 ;  (Studien)jahr              ;  rok, ročník
-  karcer              ;  Karzer                     ;  školní vězení (zast.)
-  radýrka             ;  Radiergummi                ;  guma (na vymazávání)
-  radýrovat           ;  radieren                   ;  gumovat, vymazávat gumou
-  šíbr                ;  Schieber                   ;  logaritmické pravítko
-  šprechtit           ;  sprechen                   ;  mluvit (německy)
-  šrafa               ;  Schraffe                   ;  čára, křivka
-  šrafování           ;  Schraffierung              ;  čárkování, šrafování
-  šrafovat            ;  schraffen, schraffieren    ;  vyplňovat šrafami, čárkovat
-  študent, študák     ;  Student                    ;  student
-  študie              ;  Studium                    ;  studium
-  študovat            ;  studieren                  ;  studovat
-  šuplera, šupléra    ;  Schublehre                 ;  posuvné měřítko, posuvka
+Germanismus ;Německý výraz;Český odpovídající výraz
+-
+biflovat;büffeln;učit se nazpaměť
+bichle;Büchel ;kniha, knížka
+děkan ;Dekan;děkan
+děkanát ;Dekanat;děkanát
+jár ;(Studien)jahr;rok, ročník
+karcer;Karzer ;školní vězení 
+radýrka ;Radiergummi;guma (na vymazávání)
+radýrovat ;radieren ;gumovat, vymazávat gumou
+šíbr;Schieber ;logaritmické pravítko
+šprechtit ;sprechen ;mluvit (německy)
+šrafa ;Schraffe ;čára, křivka
+šrafování ;Schraffierung;čárkování, šrafování
+šrafovat;schraffen, schraffieren;vyplňovat šrafami, čárkovat
+študent, študák ;Student;student
+študie;Studium;studium
+študovat;studieren;studovat
+šuplera, šupléra;Schublehre ;posuvné měřítko, posuvka
 
- ;  Církev
+ ;Církev
  ; 
- ;  Do této skupiny patří církevní výrazy.
+ ;Do této skupiny patří církevní výrazy.
 
-  Germanismus        ;  Německý výraz        ;  Český odpovídající výraz
-    -
-  biskup             ;  Bischof              ;  biskup
-  fara               ;  Pfarre               ;  farní úřad
-  farář              ;  Pfarrer              ;  farář, duchovní
-  farník             ;  Pfarrkind            ;  farník
-  farnost            ;  Pfarrei              ;  farnost
-  fortna             ;  Pforte               ;  brána u kláštera
-  kacíř              ;  Ketzer               ;  kacíř, heretik
-  kacířství          ;  Ketzerei             ;  kacířství, hereze
-  kaplan             ;  Kaplan               ;  kaplan
-  kaple, kaplička    ;  Kapelle              ;  kaple
-  klášter            ;  Kloster              ;  klášter
-  kutna              ;  Kutte                ;  svrchní mnišský oděv
-  mnich              ;  Mönch                ;  mnich, řeholník
-  mše                ;  Messe                ;  mše, bohoslužba
-  škapulíř           ;  Skapulier (zast.)    ;  část mnišského roucha
+Germanismus;Německý výraz;Český odpovídající výraz
+-
+biskup ;Bischof;biskup
+fara ;Pfarre ;farní úřad
+farář;Pfarrer;farář, duchovní
+farník ;Pfarrkind;farník
+farnost;Pfarrei;farnost
+fortna ;Pforte ;brána u kláštera
+kacíř;Ketzer ;kacíř, heretik
+kacířství;Ketzerei ;kacířství, hereze
+kaplan ;Kaplan ;kaplan
+kaple, kaplička;Kapelle;kaple
+klášter;Kloster;klášter
+kutna;Kutte;svrchní mnišský oděv
+mnich;Mönch;mnich, řeholník
+mše;Messe;mše, bohoslužba
+škapulíř ;Skapulier ;část mnišského roucha
 
- ;  štóla Stola pruh látky, kt. nosí katolický kněz
+ ;štóla Stola pruh látky, kt. nosí katolický kněz
  ; 
- ;  Železniční obor
+ ;Železniční obor
  ; 
- ;  Do této skupiny jsem zařadila převážně slangové výrazy, které
- ;  používají zejména železničáři.
+ ;Do této skupiny jsem zařadila převážně slangové výrazy, které
+ ;používají zejména železničáři.
 
 Germanismus Německý výraz Český odpovídající výraz
 
@@ -2127,63 +2260,63 @@ ajznboňák Eisenbahner železničář
 
 hytlák Hüttelwagen krytý nákladní vagón; služební
 
-  štreka    ;  Strecke    ;  cesta, dráha, trať
-    -
-  šturc     ;  Sturz      ;  slepá kolej
-  veksl     ;  Wechsel    ;  výhybka na dráze
+štreka;Strecke;cesta, dráha, trať
+-
+šturc ;Sturz;slepá kolej
+veksl ;Wechsel;výhybka na dráze
 
- ;  Motorismus
+ ;Motorismus
  ; 
- ;  Do této skupiny patří motoristické výrazy.
+ ;Do této skupiny patří motoristické výrazy.
 
-  
-  Germanismus         ;  Německý výraz    ;  Český odpovídající výraz
-    
-  blinkr, blikač      ;  Blinker          ;  směrovka, blinkr
 
-  blikat, bliknout    ;  blinkern         ;  blikat, bliknout
+Germanismus ;Německý výraz;Český odpovídající výraz
 
-  kvalt               ;  Gewalt ?         ;  rychlostní stupeň, rychlost
+blinkr, blikač;Blinker;směrovka, blinkr
 
-  ráfek               ;  Reifen           ;  obvodová část kola pro
-                      ;                   ; 
-  rejd                ;  Reiten ?         ;  pneumatiku
-                                        ; 
-                                        ;  úhel vychýlení řízení
+blikat, bliknout;blinkern ;blikat, bliknout
 
-  rejdovat            ;  reiten ?         ;  řídit směr vozidla, zatáčet, řídit
+kvalt ;Gewalt ? ;rychlostní stupeň, rychlost
 
-  (vy)šaltovat        ;  schalten         ;  (vy)řadit
+ráfek ;Reifen ;obvodová část kola pro
+; ; 
+rejd;Reiten ? ;pneumatiku
+; 
+;úhel vychýlení řízení
 
-  šaltpáka            ;  Schalthebel      ;  řadicí páka
+rejdovat;reiten ? ;řídit směr vozidla, zatáčet, řídit
 
-  šlajf, šlejf        ;  Schleif          ;  brzda (mechanická)
+(vy)šaltovat;schalten ;(vy)řadit
 
-  šlajfovat           ;  schleifen        ;  brzdit
+šaltpáka;Schalthebel;řadicí páka
 
-  špígl               ;  Spiegel          ;  zrcadlo, zrcátko
-  
+šlajf, šlejf;Schleif;brzda (mechanická)
 
- ;  Nadávky a zaklení
+šlajfovat ;schleifen;brzdit
+
+špígl ;Spiegel;zrcadlo, zrcátko
+
+
+ ;Nadávky a zaklení
  ; 
- ;  Do této malé skupiny jsem zařadila výrazy přejaté z němčiny, které
- ;  vyjadřují citoslovce, zaklení a zvolání.
+ ;Do této malé skupiny jsem zařadila výrazy přejaté z němčiny, které
+ ;vyjadřují citoslovce, zaklení a zvolání.
 
-  Germanismus             ;  Německý výraz    ;  Český odpovídající výraz
-  -  -
-  fuj!                    ;  pfui!            ;  fuj! (citoslovce)
-  fujtajbl!, fujtajfl!    ;  pfui Teufel!     ;  fujtajbl!, fujtajfl! (citoslovce)
-  hergot!                 ;  Herrgott!        ;  hergot!, pane Bože! (zaklení)
-  heršoft!                ;  Herrschaft!      ;  heršoft! (zaklení)
+Germanismus ;Německý výraz;Český odpovídající výraz
+--
+fuj!;pfui!;fuj! (citoslovce)
+fujtajbl!, fujtajfl!;pfui Teufel! ;fujtajbl!, fujtajfl! (citoslovce)
+hergot! ;Herrgott!;hergot!, pane Bože! (zaklení)
+heršoft!;Herrschaft!;heršoft! (zaklení)
 
 himlhergot! Himmelherrgott! Bože na nebesích! (zaklení,
 
- ;  zvolání)
+ ;zvolání)
  ; 
- ;  Ustálená slovní spojení
+ ;Ustálená slovní spojení
  ; 
- ;  Zvláštní skupinu tvoří ustálená slovní spojení přejatá z němčiny nebo
- ;  utvořená ze slov přejatých z němčiny.
+ ;Zvláštní skupinu tvoří ustálená slovní spojení přejatá z němčiny nebo
+ ;utvořená ze slov přejatých z němčiny.
 
 Germanismus Německý výraz Český odpovídající výraz
 
@@ -2245,209 +2378,347 @@ být švorc schwarz ? být bez peněz
 
 nemít ani vindru Wiener Heller nemít ani halíř, být bez peněz
 
-ZÁVĚR
-=====
 
- ;  V této diplomové práci jsem se snažila poukázat na to, že germanismy
- ;  patří k běžné mluvě téměř každého českého občana. Ačkoliv jsou
- ;  považovány za něco méněcenného, používají je všechny generace, nejen
- ;  ta starší. Germanismy nalezneme skoro ve všech oblastech (od řemesel,
- ;  přes obchod, kuchařství, až po vojenství a kriminalistiku). Vzhledem
- ;  ke slovní zásobě jich však český jazyk příliš moc nemá.
- ; 
- ;  Některé germanismy se v průběhu let přizpůsobily českému jazyku,
- ;  zdomácněly a dostaly se dokonce do spisovného lexika. Jiné naopak
- ;  zastarávají a jsou z češtiny postupně vytlačovány. Vedle toho se ale
- ;  neustále objevují germanismy nové.
- ; 
- ;  I když je germanismus vlastně historická kategorie, nemusíme jej
- ;  odmítat. Fakt, že pochází z německého jazyka, není důvod pro zákaz
- ;  jeho používání. O to se pokoušeli lingvisté již od národního obrození,
- ;  ale bez většího úspěchu. Navíc nám germanismy v běžné komunikaci nijak
- ;  nepřekáží.
- ; 
- ;  Ať chceme nebo ne, germanismy v českém jazyce jsou a budou s největší
- ;  pravděpodobností i nadále. Nemá smysl se jim proto bránit.
 
-IV. SEZNAM GERMANISMŮ
+Celkový přehled:
 
-  Germanismus         ;  Německý výraz      ;  Český odpovídající výraz
-   - 
-  ablesovat           ;  ablösen            ;  střídat, vystřídat
-  abtajlunk           ;  Abteilung          ;  oddíl, kupé
-  ajfr                ;  Eifer              ;  úsilí, horlivost, zanícení
-  ajnclík             ;  Einzelzimmer       ;  jednolůžkový pokoj
-  ajznboňák           ;  Eisenbahner        ;  železničář
-  akorát, akurát      ;  akkurat            ;  přesně
-  almužna             ;  Almosen            ;  almužna, milodar
-  alotria             ;  Allotria           ;  neplechy, nezbednosti
-  amt                 ;  Amt                ;  úřad
-  antvort             ;  Antwort            ;  odpověď
-  ánunk               ;  Ahnung             ;  tušení
-  apartní             ;  apart              ;  vkusný, slušivý
-  apatyka, apotéka    ;  Apotheke           ;  lékárna
-  apel                ;  Appell             ;  výzva
-  apetit              ;  Appetit            ;  chuť k jídlu
-  arbajt              ;  Arbeit             ;  práce
-  arest               ;  Arrest             ;  vězení
-  artikl              ;  Artikel            ;  druh zboží
-  ausgerechnet        ;  ausgerechnet       ;  právě, zrovna
-  auslák, auslendr    ;  Ausländer          ;  cizinec
-  aušus, aušús        ;  Ausschuss          ;  zmetek
-  bafat               ;  paffen             ;  bafat, lekat
-  bagr                ;  Bagger             ;  bagr, rypadlo
-  bachař              ;  Wache              ;  vězeňský dozorce
-  bál                 ;  Ball               ;  ples
-  banda               ;  Bande              ;  parta
-  barva               ;  Farbe              ;  barva
-  barvíř              ;  Färber             ;  barvíř
-  barvit              ;  färben             ;  barvit
-  bastlení            ;  Basteln            ;  vyrábění svépomocí
-  bastlíř             ;  Bastler            ;  kutil
-  bastlit             ;  basteln            ;  kutit, vyrábět svépomocí
-  bašta               ;  Bastion, Bastei    ;  hradební věž; obydlí baštýře
-  batalion            ;  Bataillon          ;  prapor vojska
-  befél               ;  Befehl             ;  rozkaz
-  bíbr                ;  Biber = bobr       ;  bradka
-  biflovat            ;  büffeln            ;  učit se nazpaměť
+ablesovat ;ablösen;střídat, vystřídat
 
-  bichle                  ;  Büchel                     ;  kniha, knížka
-  -  
-  biskup                  ;  Bischof                    ;  biskup
-  biskupský chlebíček     ;  Bischofsbrot               ;  biskupský chlebíček (kuch.)
-  blekotat                ;  blöken                     ;  blekotat
-  blinkr, blikač          ;  Blinker                    ;  směrovka, blinkr
-  blikat, bliknout        ;  blinkern                   ;  blikat, bliknout
-  na blint                ;  blind                      ;  naslepo
-  blok                    ;  Block                      ;  blok
-  blokáda                 ;  Blockade                   ;  blokáda
-  blokovat                ;  blocken                    ;  blokovat, znemožnit přístup
-  bouda                   ;  Bude, Baude                ;  bouda, chata, salaš
-  boule                   ;  Beule                      ;  boule
-  brak                    ;  Brack                      ;  podřadné, kazové zboží, zmetek
-  brakovat                ;  bracken                    ;  vybírat
-  brýle                   ;  Brille                     ;  brýle
-  buchta                  ;  Buchtel (rak.)             ;  buchta
-  bunkr                   ;  Bunker                     ;  pevnůstka, kryt
-  buřt                    ;  Wurst                      ;  buřt, vuřt
-  bužírka                 ;  původně z francouzštiny    ;  izolace drátu
-  byró, byro              ;  Büro                       ;  kancelář; vedoucí výkonný orgán
-  cajghaus                ;  Zeughaus                   ;  zbrojnice (zast.)
-  cajk                    ;  Zeug                       ;  látka (podřadná)
-  v cajku                 ;  Zeug                       ;  v pořádku
-  (za)cálovat             ;  zahlen                     ;  (za)platit
-  cech                    ;  Zeche                      ;  cech
-  cejch                   ;  Zeche                      ;  značka; účet
-  celník                  ;  Zöllner                    ;  celník
-  celta                   ;  Zelt                       ;  plachta
-  cemr                    ;  Ziemer                     ;  hřbet, záda
-  ciferník                ;  Zifferblatt                ;  číselník
-  cifra                   ;  Ziffer                     ;  číslice
-  cihla                   ;  Ziegel                     ;  cihla
-  cícha                   ;  Zieche                     ;  povlak na peřinu
-  cíl                     ;  Ziel                       ;  cíl
-  cílit                   ;  zielen                     ;  cílit, mířit
-  cimprlich, cimfrlich    ;  zimperlich                 ;  rozmazlený, choulostivý
-  cimprlína, cimfrlína    ;  Zimperliese                ;  rozmazlená, upejpavá dívka
-  cimra                   ;  Zimmer                     ;  pokoj
-  ciráty                  ;  Zierat = ozdoba, okrasa    ;  okolky, cavyky
-  civil                   ;  Zivil                      ;  nevoják, občanský život, oděv
-  (pro)clít               ;  zollen                     ;  proclít, zaplatit clo
-  clo                     ;  Zoll                       ;  clo
-  colmistr                ;  Soldmeister                ;  ten, kdo vyplácí žold (zast.)
-  cop                     ;  Zopf                       ;  cop, pletenec vlasů
+abtajlunk ;Abteilung;oddíl, kupé
 
-  coul                  ;  Zoll               ;  starší jednotka délky, palec
-   - 
-  cuknout               ;  zucken             ;  cuknout, trhnout
-  cukr                  ;  Zucker             ;  cukr
-  cukrblik              ;  Zuckerblick ?      ;  vemlouvavý, koketní úsměv
-  cukrovat, cukřit      ;  zuckern            ;  cukrovat, sladit
-  cupovat               ;  zupfen             ;  škubat, trhat, třepit
-  curik                 ;  zurück             ;  zpět
-  cvikat                ;  zwicken            ;  štípat, proštipovat (jízdenku)
-  (na)cvikovat          ;  (an)zwicken        ;  nastřihnout okraj látky při tvarování
-  cvikl                 ;  Zwickel            ;  klín, nástřih
-  cvikr                 ;  Zwicker            ;  skřipec
-  cvišn                 ;  zwischen = mezi    ;  krejčovská vložka
-  cvok, cvoček          ;  Zwecke             ;  cvok, cvoček
-  čachr                 ;  Schacher           ;  nepoctivý obchod
-  čachrovat             ;  schachern          ;  nepoctivě obchodovat
-  čundr                 ;  Zunder             ;  výlet do přírody
-  datle                 ;  Dattel             ;  datle
-  deka                  ;  Decke              ;  deka, pokrývka
-  děkan                 ;  Dekan              ;  děkan
-  děkanát               ;  Dekanat            ;  děkanát
-  dekl                  ;  Deckel             ;  poklop, víko
-  (z)dekovat se         ;  decken sich        ;  (z)mizet, klidit se
-  dort                  ;  Torte              ;  dort
-  drak; být na draka    ;  Drache             ;  drak, saň; nestát za nic
-  drát                  ;  Draht              ;  drát
-  drátovat              ;  drahten            ;  drátovat
-  drek                  ;  Dreck              ;  špína, bláto; bezcenná věc, nic
-  drezúra               ;  Dressur            ;  výcvik, drezúra
-  dril                  ;  Drill              ;  mechanický výcvik
-  dudat, dudlat         ;  dudeln             ;  hrát na dudy
-  dudy                  ;  Dudelsack          ;  dudy
-  durch                 ;  durch              ;  skrz
-  dynstovat             ;  dünsten            ;  dusit (kuch.)
-  eklovat (se)          ;  ekeln              ;  ošklivit se, hnusit se
-  elán                  ;  Elan               ;  elán, nadšení
-  endlich               ;  endlich            ;  konečně
-  entlovat, endlovat    ;  endeln             ;  obnitkovávat
-  erteple               ;  Erdäpfel           ;  brambory
-  esesák                ;  SSmann             ;  příslušník jednotek SS
-  ešus                  ;  E3schuss           ;  jídelní miska, ešus
-  execírovat            ;  exerzieren         ;  cvičit (vojensky)
-  fabrika               ;  Fabrik             ;  továrna, závod
-  facka                 ;  Watschen ?         ;  pohlavek, políček
-  fáč                   ;  Fatsch, Fatsche    ;  obvaz
+ajfr;Eifer;úsilí, horlivost, zanícení
 
-  (za)fačovat         ;  fatschen         ;  obvázat
-    
-  fachman             ;  Fachmann         ;  odborník, specialista
-  fajfka              ;  Pfeife           ;  dýmka
-  (od)fajfkovat       ;  pfeifen          ;  odškrtnout
-  fajn                ;  fein             ;  příjemný, pěkný, dobrý, fajnový
-  fajnový             ;  fein             ;  kvalitní, jemný, dobrý, fajn
-  fajnšmekr           ;  Feinschmecker    ;  labužník
-  fajrovat            ;  feuern           ;  hodně topit; prudce hořet
-  fajrunt, fajront    ;  Feierabend       ;  konec pracovní doby
-  fakrle              ;  Ferkel           ;  sele, podsvinče
-  falc                ;  Falz             ;  záhyb, drážka, ohyb, přehyb
-  falcovačka          ;  Falzmaschine     ;  stroj na skládání, drážkovací stroj
-  falcovat            ;  falzen           ;  přehýbat, skládat, drážkovat
-  fald, falt          ;  Falte            ;  záhyb, náběra, řasa
-  faleš               ;  Falsch           ;  neupřímnost, nesprávnost
-  falešnost           ;  Falschheit       ;  neupřímnost
-  falešný             ;  falsch           ;  padělaný, neupřímný
-  falšování           ;  Fälschung        ;  padělání
-  falšovat            ;  fälschen         ;  padělat
-  fangle              ;  Fahne            ;  prapor, vlajka, korouhev
-  fant                ;  Pfand            ;  zástava
-  fara                ;  Pfarre           ;  farní úřad
-  farář               ;  Pfarrer          ;  farář, duchovní
-  fárat               ;  einfahren        ;  sjíždět do dolu, fárat
-  farník              ;  Pfarrkind        ;  farník
-  farnost             ;  Pfarrei          ;  farnost
-  fáro                ;  fahren = jet     ;  luxusní auto
-  fárplán             ;  Fahrplan         ;  jízdní řád
-  fascikl             ;  Faszikel         ;  svazek úředních listin, spisů
-  fasovat             ;  fassen           ;  dostat jako příděl
-  fasunk, fasuňk      ;  Fassung          ;  příděl
-  fašinky, fašank     ;  Fasching         ;  masopust
-  fašírka             ;  Faschierte       ;  sekaná, mleté maso
-  fašírovat           ;  faschieren       ;  rozemlít
-  fedrovat            ;  fördern          ;  podporovat; těžit, dolovat
-  ferdpuš, fedrbuš    ;  Federbusch       ;  chochol z dlouhých ptačích per
-  fechtovat           ;  fechten          ;  bojovat, zápasit (zast.)
-  fekálie             ;  Fäkalien         ;  fekálie
-  fekální             ;  fäkal            ;  fekální
-  felčar              ;  Feldscherer      ;  ranhojič, lékař
-  feldkurát           ;  Feldkurat        ;  vojenský kněz (zast.)
-  feldmaršál          ;  Feldmarschall    ;  polní maršál (zast.)
-  fendrych            ;  Fähnrich         ;  praporčík (zast.)
-  ferbl               ;  Färbel ?         ;  druh karetní hry
+ajnclík ;Einzelzimmer ;jednolůžkový pokoj
+
+ajznboňák ;Eisenbahner;železničář
+
+akorát, akurát;akkurat;přesně
+
+almužna ;Almosen;almužna, milodar
+
+alotria ;Allotria ;neplechy, nezbednosti
+
+amt ;Amt;úřad
+
+antvort ;Antwort;odpověď
+
+ánunk ;Ahnung ;tušení
+
+apartní ;apart;vkusný, slušivý
+
+apatyka, apotéka;Apotheke ;lékárna
+
+apel;Appell ;výzva
+
+apetit;Appetit;chuť k jídlu
+
+arbajt;Arbeit ;práce
+
+arest ;Arrest ;vězení
+
+artikl;Artikel;druh zboží
+
+ausgerechnet;ausgerechnet ;právě, zrovna
+
+auslák, auslendr;Ausländer;cizinec
+
+aušus, aušús;Ausschuss;zmetek
+
+bafat ;paffen ;bafat, lekat
+
+bagr;Bagger ;bagr, rypadlo
+
+bachař;Wache;vězeňský dozorce
+
+bál ;Ball ;ples
+
+banda ;Bande;parta
+
+barva ;Farbe;barva
+
+barvíř;Färber ;barvíř
+
+barvit;färben ;barvit
+
+bastlení;Basteln;vyrábění svépomocí
+
+bastlíř ;Bastler;kutil
+
+bastlit ;basteln;kutit, vyrábět svépomocí
+
+bašta ;Bastion, Bastei;hradební věž; obydlí baštýře
+
+batalion;Bataillon;prapor vojska
+
+befél ;Befehl ;rozkaz
+
+bíbr;Biber = bobr ;bradka
+
+biflovat;büffeln;učit se nazpaměť
+
+bichle;Büchel ;kniha, knížka
+
+biskup;Bischof;biskup
+
+biskupský chlebíček ;Bischofsbrot ;biskupský chlebíček (kuch.)
+
+blekotat;blöken ;blekotat
+
+blinkr, blikač;Blinker;směrovka, blinkr
+
+blikat, bliknout;blinkern ;blikat, bliknout
+
+na blint;blind;naslepo
+
+blok;Block;blok
+
+blokáda ;Blockade ;blokáda
+
+blokovat;blocken;blokovat, znemožnit přístup
+
+bouda ;Bude, Baude;bouda, chata, salaš
+
+boule ;Beule;boule
+
+brak;Brack;podřadné, kazové zboží, zmetek
+
+brakovat;bracken;vybírat
+
+brýle ;Brille ;brýle
+
+buchta;Buchtel (rak.) ;buchta
+
+bunkr ;Bunker ;pevnůstka, kryt
+
+buřt;Wurst;buřt, vuřt
+
+bužírka ;původně z francouzštiny;izolace drátu
+
+byró, byro;Büro ;kancelář; vedoucí výkonný orgán
+
+cajghaus;Zeughaus ;zbrojnice 
+
+cajk;Zeug ;látka (podřadná)
+
+v cajku ;Zeug ;v pořádku
+
+(za)cálovat ;zahlen ;(za)platit
+
+cech;Zeche;cech
+
+cejch ;Zeche;značka; účet
+
+celník;Zöllner;celník
+
+celta ;Zelt ;plachta
+
+cemr;Ziemer ;hřbet, záda
+
+ciferník;Zifferblatt;číselník
+
+cifra ;Ziffer ;číslice
+
+cihla ;Ziegel ;cihla
+
+cícha ;Zieche ;povlak na peřinu
+
+cíl ;Ziel ;cíl
+
+cílit ;zielen ;cílit, mířit
+
+cimprlich, cimfrlich;zimperlich ;rozmazlený, choulostivý
+
+cimprlína, cimfrlína;Zimperliese;rozmazlená, upejpavá dívka
+
+cimra ;Zimmer ;pokoj
+
+ciráty;Zierat = ozdoba, okrasa;okolky, cavyky
+
+civil ;Zivil;nevoják, občanský život, oděv
+
+(pro)clít ;zollen ;proclít, zaplatit clo
+
+clo ;Zoll ;clo
+
+colmistr;Soldmeister;ten, kdo vyplácí žold 
+
+cop ;Zopf ;cop, pletenec vlasů
+
+coul;Zoll ;starší jednotka délky, palec
+ - 
+cuknout ;zucken ;cuknout, trhnout
+
+cukr;Zucker ;cukr
+
+cukrblik;Zuckerblick ?;vemlouvavý, koketní úsměv
+
+cukrovat, cukřit;zuckern;cukrovat, sladit
+
+cupovat ;zupfen ;škubat, trhat, třepit
+
+curik ;zurück ;zpět
+
+cvikat;zwicken;štípat, proštipovat (jízdenku)
+
+(na)cvikovat;(an)zwicken;nastřihnout okraj látky při tvarování
+
+cvikl ;Zwickel;klín, nástřih
+
+cvikr ;Zwicker;skřipec
+
+cvišn ;zwischen = mezi;krejčovská vložka
+
+cvok, cvoček;Zwecke ;cvok, cvoček
+
+čachr ;Schacher ;nepoctivý obchod
+
+čachrovat ;schachern;nepoctivě obchodovat
+
+čundr ;Zunder ;výlet do přírody
+
+datle ;Dattel ;datle
+
+deka;Decke;deka, pokrývka
+
+děkan ;Dekan;děkan
+
+děkanát ;Dekanat;děkanát
+
+dekl;Deckel ;poklop, víko
+
+(z)dekovat se ;decken sich;(z)mizet, klidit se
+
+dort;Torte;dort
+
+drak; být na draka;Drache ;drak, saň; nestát za nic
+
+drát;Draht;drát
+
+drátovat;drahten;drátovat
+
+drek;Dreck;špína, bláto; bezcenná věc, nic
+
+drezúra ;Dressur;výcvik, drezúra
+
+dril;Drill;mechanický výcvik
+
+dudat, dudlat ;dudeln ;hrát na dudy
+
+dudy;Dudelsack;dudy
+
+durch ;durch;skrz
+
+dynstovat ;dünsten;dusit (kuch.)
+
+eklovat (se);ekeln;ošklivit se, hnusit se
+
+elán;Elan ;elán, nadšení
+
+endlich ;endlich;konečně
+
+entlovat, endlovat;endeln ;obnitkovávat
+
+erteple ;Erdäpfel ;brambory
+
+esesák;SSmann ;příslušník jednotek SS
+
+ešus;E3schuss ;jídelní miska, ešus
+
+execírovat;exerzieren ;cvičit (vojensky)
+
+fabrika ;Fabrik ;továrna, závod
+
+facka ;Watschen ? ;pohlavek, políček
+
+fáč ;Fatsch, Fatsche;obvaz
+
+fačovat ;fatschen ;obvázat
+
+fachman ;Fachmann ;odborník, specialista
+
+fajfka;Pfeife ;dýmka
+
+(od)fajfkovat ;pfeifen;odškrtnout
+
+fajn;fein ;příjemný, pěkný, dobrý, fajnový
+
+fajnový ;fein ;kvalitní, jemný, dobrý, fajn
+
+fajnšmekr ;Feinschmecker;labužník
+
+fajrovat;feuern ;hodně topit; prudce hořet
+
+fajrunt, fajront;Feierabend ;konec pracovní doby
+
+fakrle;Ferkel ;sele, podsvinče
+
+falc;Falz ;záhyb, drážka, ohyb, přehyb
+
+falcovačka;Falzmaschine ;stroj na skládání, drážkovací stroj
+
+falcovat;falzen ;přehýbat, skládat, drážkovat
+
+fald, falt;Falte;záhyb, náběra, řasa
+
+faleš ;Falsch ;neupřímnost, nesprávnost
+
+falešnost ;Falschheit ;neupřímnost
+
+falešný ;falsch ;padělaný, neupřímný
+
+falšování ;Fälschung;padělání
+
+falšovat;fälschen ;padělat
+
+fangle;Fahne;prapor, vlajka, korouhev
+
+fant;Pfand;zástava
+
+fara;Pfarre ;farní úřad
+
+farář ;Pfarrer;farář, duchovní
+
+fárat ;einfahren;sjíždět do dolu, fárat
+
+farník;Pfarrkind;farník
+
+farnost ;Pfarrei;farnost
+
+fáro;fahren = jet ;luxusní auto
+
+fárplán ;Fahrplan ;jízdní řád
+
+fascikl ;Faszikel ;svazek úředních listin, spisů
+
+fasovat ;fassen ;dostat jako příděl
+
+fasunk, fasuňk;Fassung;příděl
+
+fašinky, fašank ;Fasching ;masopust
+
+fašírka ;Faschierte ;sekaná, mleté maso
+
+fašírovat ;faschieren ;rozemlít
+
+fedrovat;fördern;podporovat; těžit, dolovat
+
+ferdpuš, fedrbuš;Federbusch ;chochol z dlouhých ptačích per
+
+fechtovat ;fechten;bojovat, zápasit 
+
+fekálie ;Fäkalien ;fekálie
+
+fekální ;fäkal;fekální
+
+felčar;Feldscherer;ranhojič, lékař
+
+feldkurát ;Feldkurat;vojenský kněz 
+
+feldmaršál;Feldmarschall;polní maršál 
+
+fendrych;Fähnrich ;praporčík 
+
+ferbl ;Färbel ? ;druh karetní hry
 
 fertik fertig hotovo
 
@@ -2535,51 +2806,93 @@ plivanec
 
 flusnout, flusat Speichelfluss, Fluss plivnout, plivat
 
-  fofr                    ;  Vocher (zast.)         ;  spěch, shon
-  -  -
-  foch, fach              ;  Fach                   ;  obor, zaměstnání; přihrádka, police
-  na foch, pod fochem     ;  Fach                   ;  klamně, pod záminkou
-  fór                     ;  Vorteil, Vorzug        ;  vtip, žert; přednost, výhoda
-  forcúg                  ;  Vorzug                 ;  přednost
-  forman, furman          ;  Fuhrmann               ;  vozka, kočí
-  fornýr                  ;  Furnier                ;  dýha, překližka
-  forota                  ;  Vorrat                 ;  zásoba
-  forposty                ;  Vorposten              ;  přední stráže, přední hlídky
-  foršús                  ;  Vorschuss              ;  záloha (peněžitá)
-  fortel                  ;  Vorteil                ;  dovednost, obratnost, zručnost
-  fortna                  ;  Pforte                 ;  brána u kláštera
-  fořt                    ;  Förster                ;  myslivec, lesník
-  fošna                   ;  Pfosten                ;  silné prkno
-  fotr                    ;  Vater                  ;  otec
-  fracek                  ;  Fratz                  ;  uličník
-  frajer, frejíř          ;  Freier                 ;  naparáděný mladík; nápadník
-  frajle                  ;  Fräulein               ;  slečna (hanlivě)
-  frak                    ;  Frack                  ;  frak
-  fraucimor               ;  Frauzimmer             ;  ženské služebnictvo
-  frištik                 ;  Frühstück              ;  snídaně
-  front, fronta           ;  Front                  ;  fronta, čelní strana (voj); zástup lidí
-  fuj!                    ;  pfui!                  ;  fuj! (citoslovce)
-  fujtajbl!, fujtajfl!    ;  pfui Teufel!           ;  fujtajbl!, fujtajfl! (citoslovce)
-  fungl                   ;  ?                      ;  zcela, úplně
-  fůra, fůrka             ;  Fuhre                  ;  povoz, fůra
-  furt                    ;  fort(während)          ;  pořád, stále, neustále
-  fusakle, fusekle        ;  Fu3socke, Fu3söckel    ;  ponožka
-  fušer, fušař            ;  Pfuscher               ;  neodborný řemeslník, břídil
-  fušertsví               ;  Pfuscherei             ;  neodborné provozování řemesla
-  fuška                   ;  Pfusch                 ;  melouch; těžká práce, dřina
-  fušování                ;  Pfuscherei             ;  neodborné provozování řemesla
-  fušovat                 ;  pfuschen               ;  neodborně provozovat řemeslo
-  futrál                  ;  Futteral               ;  pouzdro
-  futra                   ;  Futter                 ;  zárubeň (u dveří)
-  futro                   ;  Futter                 ;  podšívka
-  futrovat                ;  füttern                ;  podšívat
-  futrovat (se)           ;  füttern                ;  krmit (se)
-  gábl, gáblík            ;  Gabelfrühstück         ;  dopolední svačina, přesnídávka
-  galán                   ;  Galan                  ;  milenec, záletník
-  galanterie              ;  Galanterie             ;  zdvořilost; textilní galanterie
-  galoše                  ;  Galosche               ;  galoše, přezůvka
-  gastarbajtr             ;  Gastarbeiter           ;  zahraniční dělník
-  gauner                  ;  Gauner                 ;  darebák, podvodník, zločinec
+fofr;Vocher  ;spěch, shon
+
+foch, fach;Fach ;obor, zaměstnání; přihrádka, police
+
+na foch, pod fochem ;Fach ;klamně, pod záminkou
+
+fór ;Vorteil, Vorzug;vtip, žert; přednost, výhoda
+
+forcúg;Vorzug ;přednost
+
+forman, furman;Fuhrmann ;vozka, kočí
+
+fornýr;Furnier;dýha, překližka
+
+forota;Vorrat ;zásoba
+
+forposty;Vorposten;přední stráže, přední hlídky
+
+foršús;Vorschuss;záloha (peněžitá)
+
+fortel;Vorteil;dovednost, obratnost, zručnost
+
+fortna;Pforte ;brána u kláštera
+
+fořt;Förster;myslivec, lesník
+
+fošna ;Pfosten;silné prkno
+
+fotr;Vater;otec
+
+fracek;Fratz;uličník
+
+frajer, frejíř;Freier ;naparáděný mladík; nápadník
+
+frajle;Fräulein ;slečna (hanlivě)
+
+frak;Frack;frak
+
+fraucimor ;Frauzimmer ;ženské služebnictvo
+
+frištik ;Frühstück;snídaně
+
+front, fronta ;Front;fronta, čelní strana (voj); zástup lidí
+
+fuj!;pfui!;fuj! 
+
+fujtajbl!, fujtajfl!;pfui Teufel! ;fujtajbl!, fujtajfl! 
+
+fungl ;?;zcela, úplně
+
+fůra, fůrka ;Fuhre;povoz, fůra
+
+furt;fort(während);pořád, stále, neustále
+
+fusakle, fusekle;Fu3socke, Fu3söckel;ponožka
+
+fušer, fušař;Pfuscher ;neodborný řemeslník, břídil
+
+fušertsví ;Pfuscherei ;neodborné provozování řemesla
+
+fuška ;Pfusch ;melouch; těžká práce, dřina
+
+fušování;Pfuscherei ;neodborné provozování řemesla
+
+fušovat ;pfuschen ;neodborně provozovat řemeslo
+
+futrál;Futteral ;pouzdro
+
+futra ;Futter ;zárubeň (u dveří)
+
+futro ;Futter ;podšívka
+
+futrovat;füttern;podšívat
+
+futrovat (se) ;füttern;krmit (se)
+
+gábl, gáblík;Gabelfrühstück ;dopolední svačina, přesnídávka
+
+galán ;Galan;milenec, záletník
+
+galanterie;Galanterie ;zdvořilost; textilní galanterie
+
+galoše;Galosche ;galoše, přezůvka
+
+gastarbajtr ;Gastarbeiter ;zahraniční dělník
+
+gauner;Gauner ;darebák, podvodník, zločinec
 
 gaunerství Gaunerei podvod, darebáctví
 
@@ -2587,7 +2900,7 @@ gebír ? nárok
 
 gestapák Gestapomann příslušník gestapa
 
- ;  gestapo Gestapo (Geheime Staatspolizei)
+gestapo Gestapo (Geheime Staatspolizei)
 
 nacistická něm. tajná státní policie
 
@@ -2641,7 +2954,7 @@ hajtlovat häuteln odblaňovat
 
 hajtra Heupferd špatný, sešlý kůň
 
-hajzl Häusel (zast.) záchod; mizera, darebák, lump
+hajzl Häusel  záchod; mizera, darebák, lump
 
 hák Haken hák, skoba
 
@@ -2708,7 +3021,7 @@ hašple Haspel zařízení pro barvení tkanin; vrátek
 
 hausher Hausherr domácí pán
 
- ;  hausknecht Haus = dům, Knecht = pacholek
+hausknecht Haus = dům, Knecht = pacholek
 
 pacholek, čeledín, podomek
 
@@ -2718,7 +3031,7 @@ hausnumero Hausnummer libovolné, vymyšlené číslo
 
 hauzír Hausierer podomní obchodník; tulák
 
- ;  hauzírovat hausieren provozovat podomní obchod;toulat se
+hauzírovat hausieren provozovat podomní obchod;toulat se
 
 havíř Hauer havíř, horník
 
@@ -2732,7 +3045,7 @@ heftlink Häftling politický vězeň (za nacismu)
 
 heftovat heften připínat, přibíjet; podněcovat,dráždit
 
-(na)heftovat (an)heften (na)stehovat
+heftovat (an)heften (na)stehovat
 
 hejtman Hauptmann náčelník, kapitán, hejtman
 
@@ -2740,7 +3053,7 @@ helfnout helfen pomoct
 
 helma, helmice Helm přilba, helma
 
- ;  herberk Herberge cechovní hospoda; špatná noclehárna
+herberk Herberge cechovní hospoda; špatná noclehárna
 
 herc Herz srdce, červená (kart.)
 
@@ -2754,109 +3067,115 @@ heršaft, heršoft Herrschaft panstvo, vrchnost
 
 heršoft! Herrschaft! heršoft! (zaklení)
 
-  
-  herynek, herynk            ;  Hering                       ;  nasolený sleď, slaneček
-  -  -
-  hever                      ;  Heber                        ;  zvedák, hever
+herynek, herynk;Hering ;nasolený sleď, slaneček
 
-  hic                        ;  Hitze                        ;  horko, teplo, žár
+hever;Heber;zvedák, hever
 
-  hicovat                    ;  heizen                       ;  topit; silně hřát, pálit, sálat
+hic;Hitze;horko, teplo, žár
 
-  himlhergot!                ;  Himmelherrgott!              ;  Bože na nebesích! (zaklení, zvolání)
+hicovat;heizen ;topit; silně hřát, pálit, sálat
 
-  hin, hín                   ;  hin                          ;  zničený, vyčerpaný; pryč
+himlhergot!;Himmelherrgott!;Bože na nebesích! (zaklení, zvolání)
 
-  dát hobla, dostat hobla    ;  Hobel                        ;  smýkat někým jako hoblíkem
+hin, hín ;hin;zničený, vyčerpaný; pryč
 
-  hoblík                     ;  Hobel                        ;  hoblík
+dát hobla, dostat hobla;Hobel;smýkat někým jako hoblíkem
 
-  hoblina                    ;  Hobelspan                    ;  hoblina
+hoblík ;Hobel;hoblík
 
-  hoblíř                     ;  Hobler                       ;  hoblíř
+hoblina;Hobelspan;hoblina
 
-  hoblovat                   ;  hobeln                       ;  hoblovat, opracovávat hoblíkem
+hoblíř ;Hobler ;hoblíř
 
-  hoblovna                   ;  Hoblerei                     ;  hoblovna
+hoblovat ;hobeln ;hoblovat, opracovávat hoblíkem
 
-  hofírovat                  ;  hofieren                     ;  dvořit se, pochlebovat
+hoblovna ;Hoblerei ;hoblovna
 
-  hofmistr                   ;  Hofmeister                   ;  vychovatel; správce dvora, hofmistr
+hofírovat;hofieren ;dvořit se, pochlebovat
 
-  hófrát                     ;  Hofrat                       ;  dvorní rada, vyskoký úředník
+hofmistr ;Hofmeister ;vychovatel; správce dvora, hofmistr
 
-  hochštapler                ;  Hochstapler                  ;  podvodník, dobrodruh
+hófrát ;Hofrat ;dvorní rada, vyskoký úředník
 
-  hokynář                    ;  Höker                        ;  obchodník provozující hokynářství
+hochštapler;Hochstapler;podvodník, dobrodruh
 
-  hokynářství                ;  Hökerei                      ;  obchod s potravinami a jiným
-                             ;                               ; 
-  hold                       ;  Huldigung                    ;  zbožím
-                                                           ; 
-                                                           ;  okázalý projev úcty nebo pocty
+hokynář;Höker;obchodník provozující hokynářství
 
-  holdovat                   ;  huldigen                     ;  vzdát hold; věnovat se, oddávat se
+hokynářství;Hökerei;obchod s potravinami a jiným
 
-  holfald                    ;  hohle Falte                  ;  dutý záhyb (na šatech)
+hold ;Huldigung;okázalý projev úcty nebo pocty
 
-  (na) holport               ;  ?                            ;  společné držení něčeho; společně
+holdovat ;huldigen ;vzdát hold; věnovat se, oddávat se
 
-  holt, halt                 ;  halt                         ;  zkrátka a dobře, inu, tedy, ovšem
+holfald;hohle Falte;dutý záhyb (na šatech)
 
-  hopsat                     ;  hopsen                       ;  hopsat, hopkat
+(na) holport ;?;společné držení něčeho; společně
 
-  horna, valdhorna           ;  Waldhorn                     ;  lesní roh
+holt, halt ;halt ;zkrátka a dobře, inu, tedy, ovšem
 
-  hotař, hutař               ;  Hüter                        ;  polní hlídač
+hopsat ;hopsen ;hopsat, hopkat
 
-  hózny                      ;  Hose                         ;  kalhoty
+horna, valdhorna ;Waldhorn ;lesní roh
 
-  houf                       ;  Haufen                       ;  houf, hejno
+hotař, hutař ;Hüter;polní hlídač
 
-  houfnice                   ;  Haubitze                     ;  houfnice, dělo s krátkou hlavní
+hózny;Hose ;kalhoty
 
-  houfovat (se)              ;  häufen (sich)                ;  hromadit (se)
+houf ;Haufen ;houf, hejno
 
-  hrabě                      ;  Graf (z něm. základu)        ;  hrabě, příslušník vyšší šlechty
+houfnice ;Haubitze ;houfnice, dělo s krátkou hlavní
 
-  hrozinka                   ;  Rosine                       ;  sušená bobule vinné révy, rozinka
+houfovat (se);häufen (sich);hromadit (se)
 
-  hřbitov                    ;  Friedhof (z něm. základu)    ;  hřbitov
+hrabě;Graf (z něm. základu);hrabě, příslušník vyšší šlechty
 
-  hudlař                     ;  Hudler                       ;  břídil
+hrozinka ;Rosine ;sušená bobule vinné révy, rozinka
 
-  humbuk                     ;  Humbug                       ;  podvod, šalba, nesmysl
+hřbitov;Friedhof (z něm. základu);hřbitov
 
-  humr                       ;  Hummer                       ;  humr, mořský rak
+hudlař ;Hudler ;břídil
 
-  hunškop (zast.)            ;  Kopf = hlava                 ;  koňský náhlavek, ohlávka
+humbuk ;Humbug ;podvod, šalba, nesmysl
 
-  hunt                       ;  Hund                         ;  důlní vozík
+humr ;Hummer ;humr, mořský rak
 
-  huntovat                   ;  auf der Hund bringen         ;  kazit, ničit
+hunškop ;Kopf = hlava ;koňský náhlavek, ohlávka
 
-  huť                        ;  Hütte                        ;  huť
+hunt ;Hund ;důlní vozík
 
-  hylzna                     ;  Hülse                        ;  nábojnice
+huntovat ;auf der Hund bringen ;kazit, ničit
 
-  hytlák                     ;  Hüttelwagen                  ;  krytý nákladní vagón; služební vůz
+huť;Hütte;huť
 
-  inzerát                    ;  Inserat                      ;  inzerát
-  
+hylzna ;Hülse;nábojnice
 
-  inzerce          ;  Insertion        ;  inzerce
-    -
-  inzerent         ;  Inserent         ;  inzerent
-  inzerovat        ;  inserieren       ;  inzerovat
-  ja               ;  ja               ;  ano, jo
-  jár              ;  (Studien)jahr    ;  rok, ročník
-  jarmark          ;  Jahrmarkt        ;  jarmark, výroční trh
-  juchat           ;  juchzen          ;  jásat, plesat
-  jupka            ;  Joppe            ;  ženský kabátek, kazajka
-  just, na just    ;  just             ;  právě, zrovna; schválně, naschvál
-  kacíř            ;  Ketzer           ;  kacíř, heretik
-  kacířství        ;  Ketzerei         ;  kacířství, hereze
-  kafe             ;  Kaffee           ;  káva
+hytlák ;Hüttelwagen;krytý nákladní vagón; služební vůz
+
+inzerát;Inserat;inzerát
+
+inzerce;Insertion;inzerce
+
+inzerent ;Inserent ;inzerent
+
+inzerovat;inserieren ;inzerovat
+
+ja ;ja ;ano, jo
+
+jár;(Studien)jahr;rok, ročník
+
+jarmark;Jahrmarkt;jarmark, výroční trh
+
+juchat ;juchzen;jásat, plesat
+
+jupka;Joppe;ženský kabátek, kazajka
+
+just, na just;just ;právě, zrovna; schválně, naschvál
+
+kacíř;Ketzer ;kacíř, heretik
+
+kacířství;Ketzerei ;kacířství, hereze
+
+kafe ;Kaffee ;káva
 
 kachel, kachlík, kachlička
 
@@ -2874,7 +3193,7 @@ kamarád Kamerad kamarád, přítel
 
 kamaše Gamasche kamaše
 
-kamerdíner Kammerdiener komorník (zast.)
+kamerdíner Kammerdiener komorník 
 
 kamilky Kamille heřmánek
 
@@ -2898,7 +3217,7 @@ kaplan Kaplan kaplan
 
 kaple, kaplička Kapelle kaple
 
-kaprál (zast.) Korporal desátník
+kaprál  Korporal desátník
 
 kapsle Kapsel rozbuška, roznětka, pouzdro, obal
 
@@ -2906,7 +3225,7 @@ kapuce Kaputze kapuce
 
 kára Karre, Karren vozík, trakař, kolečko, kárka
 
-karcer Karzer školní vězení (zast.)
+karcer Karzer školní vězení 
 
 karfiol Karfiol květák
 
@@ -2922,827 +3241,1241 @@ kastrol Kasserolle kastrol, rendlík
 
 kašpar, kašpárek Kasperl, Kasperle kašpar, kašpárek
 
-  katr                        ;  Gatter                 ;  mřížové dveře; rámová pila
-    
-  kauf                        ;  Kauf                   ;  nákup, koupě
-  kél                         ;  Kohl                   ;  kapusta
-  kérovat                     ;  kehren                 ;  navážet se do někoho; tetovat
-  kibic                       ;  Kiebitz                ;  divák a kritik při hraní karet
-  kibicovat                   ;  kiebitzen              ;  přihlížet a kritizovat při hraní karet
-  klandr                      ;  Geländer               ;  zábradlí
-  klapat, klapnout            ;  klappen                ;  klapat, klapnout; podařit se
-  klapka                      ;  Klappe                 ;  klapka
-  klasa                       ;  Klasse                 ;  třída; jakost
-  klášter                     ;  Kloster                ;  klášter
-  klempíř                     ;  Klempner               ;  klempíř
-  klenot                      ;  Kleinod                ;  klenot, šperk, skvost
-  klepat                      ;  klopfen                ;  klepat
-  kletr                       ;  klettern = lézt        ;  horolezecký batoh
-  klika                       ;  Glück                  ;  štěstí
-  knajpa                      ;  Kneipe                 ;  hospoda
-  knedlík                     ;  Knödel                 ;  knedlík
-  knecht                      ;  Knecht                 ;  prostý voják, dráb (zast.)
-  knejp                       ;  Kneip                  ;  obuvnický, ševcovský nůž
-  knop, knap                  ;  knapp                  ;  sotva, těsně
-  komandovat                  ;  kommandieren           ;  poroučet, rozkazovat, velet
-  komora                      ;  Kammer                 ;  komora
-  kompanie                    ;  Kompanie               ;  rota, setnina
-  koncentrák                  ;  Konzentrationslager    ;  koncentrační tábor
-  konzum                      ;  Konsum                 ;  konzum, spotřeba
-  kór                         ;  gar                    ;  dokonce, docela, teprv, zvlášť
-  koštér                      ;  Koster                 ;  koštér, ochutnávač
-  (o)koštovat                 ;  kosten                 ;  (o)chutnat
-  koštovat                    ;  kosten                 ;  mít cenu, stát
-  koukat se                   ;  kucken                 ;  dívat se
-  krachovat, krachnout        ;  krachen                ;  (z)krachovat, udělat úpadek
-  krajsamt                    ;  Kreisamt               ;  okresní, krajský úřad
-  krajzl, krejzl, krejzlík    ;  Kragen                 ;  široký límec, límeček
-  krám                        ;  Kram                   ;  obchod, stánek; harampádí
-  kramář                      ;  Krämer                 ;  drobný obchodník
-  kramářka                    ;  Krämerin               ;  drobná obchodnice
-  kramflek; být silný v k.    ;  ?                      ;  podpatek; být si jistý
-  kramle; vzít kramle         ;  Klammer, Krampe        ;  tesařská skoba; utéct
-  krámovat                    ;  kramen                 ;  hrabat se, přehrabovat se
-  kravál                      ;  Krawall                ;  hluk, rámus, lomoz, povyk
-  krčma                       ;  Kretschmer             ;  hospoda
-  krčmář                      ;  Kretschmer             ;  hospodský
-  kredenc                     ;  Kredenz                ;  příborník, kredenc
-
-  krejcar, grejcar    ;  Kreuzer              ;  krejcar, malý peníz
-    
-  krchov              ;  Kirchhof             ;  hřbitov
-  kriminál            ;  Kriminal             ;  vězení, věznice
-  krusta              ;  Kruste               ;  kůra, povlak, strup, krusta
-  krýgsman            ;  Kriegsman            ;  voják (zast.)
-  krypl               ;  Krüppel              ;  chromý člověk, mrzák
-  křtalt              ;  Gestalt              ;  forma, tvar, ozdoba (zast.)
-  křtaltovaný         ;  gestaltet            ;  tvarovaný, utvářený
-  křtaltovat          ;  gestalten            ;  tvarovat, utvářet
-  ksicht              ;  Gesicht              ;  obličej
-  ksichtit se         ;  Gesicht              ;  tvářit se
-  ksindl              ;  Gesindel             ;  sebranka, lůza, chátra, banda
-  kšaft               ;  Geschäft ?           ;  poslední vůle, závěť, testament
-  kšeft               ;  Geschäft             ;  obchod; výnosná práce
-  kšeftovat           ;  Geschäft             ;  obchodovat
-  kšilt               ;  Schild               ;  štítek čepice
-  kšír, kšíry         ;  schirren             ;  postroj, popruhy
-  (o)kšírovat         ;  schirren             ;  dát postroj, zapřahat
-  kufr                ;  Koffer               ;  kufr
-  kuchtík             ;  Küchenjunge          ;  kuchtík
-  kuchtit             ;  kochen               ;  vařit
-  kuchyně             ;  Küche                ;  kuchyně
-  kumbál              ;  ?                    ;  malá temná místnost
-  kumpán              ;  Kumpan               ;  druh, společník
-  kumšt               ;  Kunst                ;  umění, dovednost, zručnost
-  kumštýř             ;  Künstler             ;  umělec, obratný člověk
-  kunsthistorik       ;  Kunsthistoriker      ;  historik zabývající se uměním
-  kunšaft, kunčaft    ;  Kundschaft           ;  zákazník
-  kundšoft            ;  Kundschaft           ;  zákazník (zast.)
-  kupírovat           ;  kupieren             ;  kupírovat
-  kuplíř              ;  Kuppler              ;  kuplíř
-  kuplířka            ;  Kupplerin            ;  kuplířka
-  kuplířství          ;  Kuppelei             ;  kuplířství
-  kupole, kopule      ;  Kuppel               ;  kupole, kopule
-  kurát               ;  Kurat                ;  vojenský kněz
-  kuratela            ;  Kuratel              ;  opatrovnictví
-  kurfiřt             ;  Kurfürst             ;  držitel říšského arciúřadu
-  kurt                ;  Gurt                 ;  popruh, pás
-  (při)kurtovat se    ;  gürten sich          ;  připoutat se
-  kurýrovat           ;  kurieren             ;  léčit
-  kutloch             ;  Kuttelhof (zast.)    ;  malá nevzhledná místnost, brloh
-  kutna               ;  Kutte                ;  svrchní mnišský oděv
-  kvalt               ;  Gewalt ?             ;  rychlostní stupeň, rychlost; spěch
-  kvargle             ;  Quargel              ;  tvarůžek, syreček
-
-  kvartýr                      ;  Quartier          ;  byt, příbytek
-    -
-  kvelb                        ;  Gewölbe           ;  obchod, krám
-  kvér                         ;  Gewehr            ;  puška, zbraň
-  kverulant                    ;  Querulant         ;  věčný nespokojenec
-  kýbl                         ;  Kübel             ;  kbelík, vědro
-  kýč                          ;  Kitsch            ;  kýč, komerčně zaměřené dílo
-  kychta                       ;  Gicht             ;  sazebna
-  kýl                          ;  Kiel              ;  lodní kýl
-  kysna                        ;  Kiste             ;  bedna
-  kyt                          ;  Kitt              ;  tmel, kyt
-  kytle, kytlice               ;  Kittel            ;  spodní sukně
-  kyz                          ;  Kies              ;  rudný nerost kovového vzhledu
-  lacl                         ;  Lätzchen          ;  náprsní část oděvu, náprsenka
-  lafeta                       ;  Lafette           ;  lafeta, součást děla
-  ládovat                      ;  laden             ;  nabíjet (střelnou zbraň)
-  ládovat se                   ;  laden             ;  cpát se, hltavě pojídat
-  lágr                         ;  Lager             ;  tábor
-  lajntuch                     ;  Leintuch          ;  prostěradlo
-  lajsna                       ;  leiste            ;  lišta, lať
-  lajsnout si                  ;  leisten           ;  dovolit si, dopřát si
-  lajtnant                     ;  Leutnant          ;  poručík
-  óbrlajtnant                  ;  Oberleutnant      ;  nadporučík
-  lak                          ;  Lack              ;  nátěr, lak
-  lák                          ;  Lake              ;  nálev, lák
-  lampa                        ;  Lampe             ;  lampa, svítilna
-  lampasy                      ;  Lampassen         ;  pruhy na švech kalhot u uniformy
-  lán                          ;  Lehne             ;  lán
-  landkrycht                   ;  Landgericht       ;  krajský soud (zast.)
-  lantkrabě, lankrabě          ;  Landgraf          ;  knížecí titul, lankrabě
-  lantkrabství, lankrabství    ;  Landgrafschaft    ;  území spravované lankrabětem
-  lapálie                      ;  Lappalie          ;  maličkost, malichernost
-  lať, laťka                   ;  Latte             ;  lať, laťka, tyčka
-  lauf                         ;  Lauf              ;  hlaveň
-  lautr                        ;  lauter            ;  samý; jenom, pouze
-  lavina                       ;  Lawine            ;  lavina, příval, záplava
-  léga                         ;  Lege              ;  obruba
-  legát                        ;  Legat             ;  židle s vyřezávaným opěradlem
-  leník                        ;  Lehenmann         ;  leník, vazal, man
-  léno                         ;  Lehn, Lehen       ;  léno, feudum
-  líbesbríf                    ;  Liebesbrief       ;  milostný dopis
-  (od)lifrovat                 ;  (ab)liefern       ;  poslat, odeslat; dodávat
-  litkup                       ;  Leitkauf          ;  zapíjení uzavření koupě; odstupné
-  lógr                         ;  Lager             ;  kávová sedlina
-  loch                         ;  Loch              ;  vězení
-
-  lochčit se            ;  lachen                       ;  smát se (brněnský hantec)
-    
-  lochna                ;  Loch                         ;  otvor, díra
-  lokaj                 ;  Lakai                        ;  lokaj, sluha
-  lokál                 ;  Lokal                        ;  hostinec, hostinský podnik
-  lokna                 ;  Locke                        ;  kadeř
-  los                   ;  Los                          ;  los, výherní poukázka; osud
-  losování              ;  Losen                        ;  losování
-  losovat               ;  losen                        ;  losovat, táhnout los
-  loubí                 ;  Laube                        ;  podloubí; besídka
-  loutna                ;  Laute                        ;  loutna, strunný drnkací nástroj
-  ludra                 ;  Luder                        ;  potvora, mrcha
-  luft                  ;  Luft                         ;  vzduch
-  lufťák                ;  Luft                         ;  letní host z města na dovolené
-  lufthaus              ;  Luft = vzduch, Haus = dům    ;  letní byt, chata
-  luftovat              ;  lüften                       ;  větrat
-  lump                  ;  Lump                         ;  darebák, lotr, uličník, ničema
-  lupmačit              ;  lumpen                       ;  dělat neplechy, zlobit
-  lunapark              ;  Lunapark                     ;  lunapark
-  lunt                  ;  Lunte                        ;  doutnák, lunt
-  lusthaus              ;  Lusthaus                     ;  letohrádek
-  lustr                 ;  Luster                       ;  lustr, stropní svítidlo
-  machr                 ;  Macher                       ;  obratný člověk, odborník
-  majlant, majland      ;  Mailand = Milán              ;  velké množství, hojnost
-  majstrštyk            ;  Meisterstück                 ;  mistrovské dílo
-  dát si majzla         ;  Meische                      ;  dát si pozor
-  majzlík               ;  Meissel                      ;  dláto, sekáč
-  majznout              ;  schmeissen                   ;  (u)hodit, třísknout
-  malíř                 ;  Maler                        ;  malíř
-  malování              ;  Malen                        ;  malování
-  malovat               ;  malen                        ;  malovat, kreslit
-  man                   ;  Mann                         ;  leník, vazal, man
-  mandel                ;  Mandel                       ;  stará míra (15 kusů)
-  mandl                 ;  Mangel                       ;  mandl
-  mandlovat             ;  mangeln                      ;  uhlazovat na mandlu, mandlovat
-  mandle                ;  Mandel                       ;  plod mandloně, mandle
-  manšaft, mančaft      ;  Manschaft                    ;  mužstvo, tým
-  mantl                 ;  Mantel                       ;  kabát
-  manýra                ;  Manier                       ;  způsob, chování
-  markrabě, markrabí    ;  Markgraf                     ;  markrabě, knížecí titul
-  markrabství           ;  Markgrafschaft               ;  země spravované markrabětem
-  markytán              ;  Marketender                  ;  prodavač zboží a jídla vojákům
-  markytánka            ;  Marketenderin                ;  prodavačka zboží a jídla vojákům
-  marod                 ;  marod                        ;  marod, nemocný
-  marodit               ;  marodieren                   ;  být nemocný, stonat
-
-  marodka                ;  Marodenzimmer               ;  místnost pro nemocné
-   - 
-  marš!                  ;  marsch!                     ;  v chod!, běž! ven!
-  marš                   ;  der Marsch                  ;  pochod
-  maršál                 ;  Marschall                   ;  maršál, nejvyšší vojenská hodnost
-  maršbatalion           ;  Marschbataillon             ;  pochodový prapor
-  marše                  ;  die Marsch                  ;  náplava
-  marškompanie           ;  Marschkompanie              ;  rota odcházející na frontu
-  maršrúta               ;  Marschroute                 ;  směr pochodu, cesty; cest. příkaz
-  mašina                 ;  Maschine                    ;  stroj; lokomotiva
-  mašinérie              ;  Maschinerie                 ;  složitá soustava
-  mašinfíra              ;  Maschinenführer             ;  strojvedoucí, strojvůdce
-  mašinkvér              ;  Maschinengewehr             ;  kulomet
-  mašírovat              ;  marschieren                 ;  pochodovat
-  mašle                  ;  Masche                      ;  mašle, stuha
-  maštal                 ;  Marstall                    ;  chlév, stáj, konírna
-  matrace, madrace       ;  Matratze                    ;  matrace
-  mazhaus                ;  ?                           ;  svrchní síň (zast.)
-  mečet, mekat           ;  meckern                     ;  mečet
-  mekot                  ;  Meckern                     ;  mečení, mekot
-  meldovat               ;  melden                      ;  hlásit, ohlásit
-  meldunk                ;  Meldung                     ;  hlášení, zpráva
-  (z)merčit, merkovat    ;  merken                      ;  (z)pozorovat, všimnout si
-  metál                  ;  Metall                      ;  vyznamenání, medaile
-  mince                  ;  Münze                       ;  mince
-  mindrák                ;  Minderwertigkeitskomplex    ;  komplex, pocit méněcennosti
-  mišunk, mišuňk         ;  Mischung                    ;  směs, míchanice, zmatek, nepořádek
-  mlok                   ;  Molch                       ;  mlok, salamandr
-  mnich                  ;  Mönch                       ;  mnich, řeholník
-  mord                   ;  Mord                        ;  vražda, zabití
-  mordéř                 ;  Mörder                      ;  vrah, zabiják
-  (za)mordovat           ;  morden                      ;  vraždit, zabíjet
-  mordovat se            ;  morden                      ;  trápit se, lopotit se, pachtit se
-  mošt                   ;  Most                        ;  nevykvašená šťáva z ovoce, mošt
-  moštárna               ;  Mosterei                    ;  moštárna
-  moula                  ;  Maulaffe                    ;  hlupák, pitomec
-  moždíř                 ;  Mörser                      ;  moždíř, hmoždíř
-  mumraj                 ;  Mummerei                    ;  maškarní rej; ruch, shon
-  mundúr                 ;  Montur                      ;  uniforma, stejnokroj
-  mustr                  ;  Muster                      ;  vzor, vzorek
-  mustrovat              ;  mustern                     ;  prohlížet, posuzovat; kárat
-  mušle                  ;  Muschel                     ;  lastura, ulita
-  muzika                 ;  Musik                       ;  hudba; lidová taneční zábava
-  mýto                   ;  Maut                        ;  mýtné, poplatek za použití cesty
-  nášup                  ;  Naschub (zast.)             ;  přídavek
-
-  némlich                ;  nämlich                 ;  právě, zrovna, totiž
-    -
-  numero                 ;  Nummer                  ;  číslo
-  nýmand                 ;  niemand                 ;  nikdo
-  óbršt                  ;  Oberst                  ;  plukovník
-  odkráglovat            ;  abkrageln               ;  odstranit, odpravit, oddělat
-  oficír                 ;  Offizier                ;  důstojník
-  ordnunk                ;  Ordnung                 ;  pořádek
-  ortel                  ;  Urteil                  ;  rozsudek, verdikt
-  pajšl                  ;  Beuschel (rak.kuch.)    ;  hovězí nebo vepřové plíce a žaludek
-  pajzl                  ;  Beisel                  ;  putyka, krčma
-  paket                  ;  Paket                   ;  balík
-  pakáž                  ;  Pack, Bagage            ;  holota, sebranka, banda, lůza
-  pakl                   ;  Packen                  ;  balík
-  (s)pakovat (se)        ;  packen                  ;  (s)balit (se), zabalit
-  paktovné               ;  Pacht                   ;  nájem
-  pancíř                 ;  Panzer                  ;  krunýř, brnění
-  pančovat               ;  pantschen               ;  ředit, bryndat
-  pantofel               ;  Pantoffel               ;  pantofel, trepka
-  papundekl, papndekl    ;  Pappendeckel            ;  lepenka
-  pár                    ;  paar, Paar              ;  několik; dvojice
-  paráda                 ;  Parade                  ;  okázalost, nádhera
-  parkán                 ;  Burggraben              ;  hradební příkop
-  partaj                 ;  Partei                  ;  politická strana; nájemník
-  pasovat                ;  passen                  ;  hodit se, slušet, padnout
-  pauza                  ;  Pause                   ;  přestávka, pomlka
-  pech                   ;  Pech                    ;  smůla, neštěstí, nezdar
-  pechfógl               ;  Pechvogel               ;  smolař
-  pendler                ;  Pendler                 ;  pracovník denně dojíždějící za prací
-  pendlovat              ;  pendeln                 ;  jezdit, chodit sem a tam
-  pergmistr              ;  Bergmeister             ;  důlní dozorce, důlní mistr
-  perón                  ;  Perron                  ;  nástupiště
-  piglovat               ;  bügeln                  ;  žehlit
-  pingl                  ;  Bündel                  ;  vak, ranec, uzel; číšník
-  plac                   ;  Platz                   ;  místo
-  pláňka                 ;  Planke                  ;  laťka, tyčka k postavení plotu
-  platfus                ;  Plattfuss               ;  plochá noha
-  plato                  ;  Platte                  ;  deska, podnos
-  plech                  ;  Blech                   ;  plech
-  plundrovat             ;  plündern                ;  plenit, pustošit, drancovat
-  polír                  ;  Polier                  ;  dílovedoucí, stavbyvedoucí
-  polírovat              ;  polieren                ;  leštit
-  ponk                   ;  Bank                    ;  řemeslnický pracovní stůl
-  post                   ;  Posten                  ;  postavení, funkce; místo
-  pres                   ;  Presse                  ;  lis; tlak, tlačenice
-
-  presovat                 ;  pressen            ;  lisovat
-   - -
-  probíř, probéř           ;  Probierer          ;  zkoušeč jakosti a hmotnosti mincí
-  prúba                    ;  Probe              ;  zkouška
-  prubovat, prubnout       ;  probieren          ;  zkusit, zkoušet
-  pucflek                  ;  Putzfleck          ;  vojenský sluha
-  pucovat                  ;  putzen             ;  čistit; hubovat, nadávat
-  pumpa                    ;  Pumpe              ;  pumpa, čerpadlo
-  pumpnout (někoho)        ;  Geld pumpen        ;  vyloudit peníze, půjčit si peníze
-  pumpovat                 ;  pumpen             ;  čerpat, nabírat, nasávat kapalinu
-  punc                     ;  Punze              ;  razidlo, úřední značka, punc
-  punktum                  ;  punktum            ;  přesně, právě; hotovo, konec
-  puntovat                 ;  Bund machen        ;  spolčovat se
-  purkmistr                ;  Bürgermeister      ;  purkmistr, starosta
-  putna; je mi to putna    ;  ?                  ;  nádoba s popruhy; je mi to lhostejné
-  putra                    ;  Butter             ;  máslo
-  putrovat                 ;  buttern            ;  tlouci máslo
-  putyka                   ;  Butike             ;  hospoda nejnižšího řádu
-  rabovat                  ;  rauben             ;  plenit, drancovat, loupit
-  rada                     ;  Rat                ;  rada
-  rádce                    ;  Rat                ;  rádce
-  radit                    ;  raten              ;  radit
-  rádlo                    ;  Rändelrad          ;  vroubkované kolečko na násadě
-  rádlovat                 ;  rändeln            ;  rýhovat, vyznačovat rádlem
-  radýrka                  ;  Radiergummi        ;  guma (na vymazávání)
-  radýrovat                ;  radieren           ;  gumovat, vymazávat gumou
-  ráfek                    ;  Reifen             ;  obvodová část kola pro pneumatiku
-  rafnout                  ;  raffen             ;  popadnout; kousnout
-  ráhno                    ;  Rahe               ;  trám k zavěšení plachet
-  rajblík                  ;  Reibebrett         ;  zednické nebo betonářské hladítko
-  rajbovat                 ;  reiben             ;  drhnout, dřít, třít
-  rajc                     ;  Reiz               ;  přitažlivost, dráždivost, půvab
-  rajcovat                 ;  reizen             ;  dráždit, vábit, lákat
-  rajcovný                 ;  reizvoll           ;  dráždivý, přitažlivý
-  rajch                    ;  Reich              ;  německá říše
-  rajncenkrecht            ;  reinzenkrecht ?    ;  vůbec, zhola, dočista
-  rajs                     ;  Reis               ;  rýže
-  rajstajbl, rajstajfl     ;  Teufel             ;  divoch, neposeda (o dítěti)
-  rajtky                   ;  Reithose           ;  jezdecké kalhoty
-  rajtovat                 ;  reiten             ;  jet na koni
-  rajz                     ;  Reise              ;  cesta, cestování
-  rajzovat                 ;  reisen             ;  cestovat
-  raketa                   ;  Rakete             ;  létací zařízení; reaktivní střela
-  rám                      ;  Rahmen             ;  obruba obrazu; konstrukce
-  rambajs, rambajz         ;  Rammeisen          ;  rámus, hluk; povyk
-
-  ramlice       ;  Rammler                    ;  samice králíka nebo zajíce
-    
-  ramlík        ;  Rammler                    ;  samec králíka nebo zajíce
-  ramlování     ;  Rammelzeit                 ;  páření se (o králících)
-  randál        ;  Randal                     ;  rámus, hluk
-  ranec         ;  Ranzen                     ;  uzel, za cípy svázaný šátek
-  rank          ;  Rang                       ;  služební postavení, platová skupina
-  rantl         ;  Rand, Randel               ;  okraj, obruba, lem
-  ranžírovat    ;  rangieren                  ;  seřadit, uspořádat, pořádat
-  rap           ;  Rappe                      ;  černý kůň, vraník
-  rapír         ;  Rapier                     ;  stará soubojová zbraň
-  rapl          ;  Rappel                     ;  potrhlost, ztřeštěnost; potrhlý člověk
-  raport        ;  Rapport                    ;  zpráva, hlášení
-  raportovat    ;  rapportieren               ;  hlásit, ohlásit, podat zprávu
-  ras           ;  ?                          ;  pohodný; bezohledný člověk
-  rasovat       ;  ?                          ;  nakládat hrubě, necitelně; týrat
-  rast          ;  Rast                       ;  odpočinek, pohov, zastávka
-  rastr         ;  Raster                     ;  síť, síťka, mřížka
-  rastrovat     ;  rastrieren                 ;  mřížkovat, linkovat, čárkovat
-  rašl          ;  ?                          ;  stroj na výrobu vzorované pleteniny
-  rašple        ;  Raspel                     ;  struhák, pilník; nehezká, stará žena
-  rašplovat     ;  raspeln                    ;  strouhat, pilovat
-  rathaus       ;  Rathaus                    ;  radnice (zast.)
-  ratlík        ;  Rattler                    ;  malý hladkosrstý pinč
-  raubíř        ;  Räuber                     ;  lupič, loupežník; darebák, uličník
-  rauš          ;  Rausch                     ;  (alkoholické) opojení, špička
-  razír         ;  Raseur                     ;  holič
-  rebarbora     ;  Rhabarber                  ;  reveň
-  regál         ;  Regal                      ;  police nebo stojan s přihrádkami
-  regiment      ;  Regiment                   ;  pluk
-  recht         ;  Recht                      ;  být vhod, mít pravdu
-  rej           ;  Reihen                     ;  rychlé víření
-  rejd          ;  Reiten ?                   ;  úhel vychýlení řízení
-  rejdovat      ;  reiten ?                   ;  řídit směr vozidla, zatáčet, řídit
-  rejtar        ;  Reiter                     ;  jízdní voják, jezdec (zast.)
-  rek           ;  Recke                      ;  hrdina, bohatýr
-  rekrut        ;  Rekrut                     ;  odvedenec
-  rekrutovat    ;  rekrutieren                ;  odvádět na vojnu
-  remedura      ;  původně z francouzštiny    ;  oprava, náprava
-  remplovat     ;  rempeln                    ;  vrazit do protihráče
-  rendlík       ;  Reind                      ;  (menší) kastrol
-  rest          ;  Rest                       ;  nedodělek, nedoplatek
-  restovat      ;  rösten                     ;  opékat, dusit na tuku
-  reta, réta    ;  Rettung                    ;  záchrana, pomoc
-  retovat       ;  retten                     ;  chránit, zachránit
-
-  
-  revír                  ;  Revier                            ;  polesí; obvod lovu; uzavřený obvod
-   - 
-  revírník               ;  Revierförster                     ;  lesník spravující revír
-
-  revírovat              ;  Revier                            ;  slídit, lovit v revíru (o psu)
-
-  rif                    ;  Riff                              ;  podmořský útes
-
-  rolák                  ;  Rollkragenpullover                ;  svetr n. tričko s ohrnovacím límcem
-
-  role                   ;  Rolle                             ;  herecká úloha; funkce, postavení
-
-  rolna                  ;  Rolle                             ;  kladka, kolečko, váleček
-
-  (s)rolovat             ;  rollen                            ;  (s)vinout
-
-  rošt                   ;  Rost                              ;  mřížka k opékání masa
-
-  roštování              ;  Rost                              ;  způsob konzervace; zpevnění
-                         ;                                    ; 
-  rota                   ;  Rotte                             ;  roštem
-                                                            ; 
-                                                            ;  rota, oddíl vojska
-
-  rotmistr               ;  Rottmeister                       ;  velitel roty
-
-  roura                  ;  Röhre                             ;  trubice, trouba
-
-  rozinka                ;  Rosine                            ;  sušená bobule vinné révy, hrozinka
-
-  rozšafný               ;  rechtschaffen = poctivý, řádný    ;  prozíravý, uvážlivý, moudrý
-
-  rudl                   ;  ?                                 ;  dvoukolý vozík na přepravu zboží
-
-  ruf                    ;  Ruf                               ;  obecná známost, pověst
-
-  rukovat                ;  zum Wehrdienst einberufen ?       ;  nastupovat vojenskou službu
-
-  ruksak                 ;  Rucksack                          ;  batoh, tlumok
-
-  ruml                   ;  Rummel                            ;  ruch, shon, zmatek, poplach
-
-  rumpál                 ;  rumpeln                           ;  ruční dřevěný naviják
-
-  rumplovat              ;  rumpeln                           ;  lomcovat, tlouct, bouchat, bušit
-
-  rumrejch, rumrajch     ;  Rummel                            ;  vřava, hluk, hřmot, rozruch, shon
-
-  runda                  ;  Runde                             ;  kolo, okruh, stolní společnost
-
-  rustika                ;  rustikal                          ;  písmo protáhlé do výšky
-
-  rybíz                  ;  Ribisel (rak.)                    ;  rybíz
-
-  rýgl, rygl             ;  Riegel                            ;  zástrčka, závora
-
-  (za)ryglovat           ;  Riegel                            ;  zavřít na závoru, zástrčku
-
-  rygol                  ;  Rigole                            ;  stružka, žlábek
-
-  rychna                 ;  riechen                           ;  zápach
-
-  rychta                 ;  Richte                            ;  obydlí, sídlo rychtáře
-
-  rychtář                ;  Richter                           ;  rychtář, starosta
-
-  narychtovat            ;  richten                           ;  nasměrovat, nachystat
-
-  zrychtovat             ;  richten                           ;  srovnat, urovnat, dát do pořádku
-
-  rychtyk, v rychtyku    ;  richtig                           ;  správné, správně, v pořádku
-
-  rýna                   ;  Rinne                             ;  okapní žlab
-
-  rynek, rynk            ;  Ring                              ;  náměstí
-
-  ryps                   ;  Rips                              ;  tkanina s vroubky
-
-  rytíř                  ;  Ritter                            ;  rytíř
-
-  rytmistr               ;  Rittmeister                       ;  setník u jízdy
-
-  ryto, ryt              ;  Ritt                              ;  placená jízda nájemního vozu
-
-  římsa                  ;  Sims                              ;  římsa
-
-  říše, rajch            ;  Reich                             ;  říše
-  
-
-  sajrajt                     ;  Sauerei                      ;  nepořádek, svinčík
-    
-  sak                         ;  Sack                         ;  pytel, vak
-  sál                         ;  Saal                         ;  sál, síň
-  salamandr                   ;  Salamander                   ;  mlok
-  salopní                     ;  salopp                       ;  nepořádný, nedbalý
-  samet                       ;  Samt                         ;  matně lesklá tkanina, samet
-  sanitka                     ;  Sanität                      ;  záchranka, ambulance
-  sanýruňk                    ;  Sanierung (pův. z latiny)    ;  sanování
-  sargdekl                    ;  Sargdeckel                   ;  víko na rakev
-  sekatura                    ;  Sekkatur                     ;  trápení, týrání, sekýrování
-  sejp                        ;  Seife                        ;  rozsyp
-  sekt                        ;  Sekt                         ;  šumivé víno
-  sekutný                     ;  ?                            ;  zlý, svárlivý
-  sekýrovat                   ;  sekkieren                    ;  sužovat, týrat, trápit
-  semlbába, zemlbába          ;  Semmelauflauf                ;  žemlovka
-  senkrubna, sengrubna        ;  Senkgrube                    ;  jáma na odpadky, žumpa
-  servírka                    ;  Serviererin                  ;  zaměstnankyně v restauraci
-  servírovat                  ;  servieren                    ;  podávat (jídlo)
-  servít(ek)                  ;  Serviette                    ;  ubrousek
-  sesle, sesla                ;  Sessel                       ;  židle
-  sígl                        ;  Siegel                       ;  pečeť, razítko
-  sígr                        ;  Sieger = vítěz               ;  darebák, lotr, lump, syčák
-  sichr                       ;  sicher                       ;  jistě, bezpečně, zaručeně; jistý
-  sichrhajska, sichrhajcka    ;  Sicherheitsnadel             ;  zavírací špendlík
-  (po)sichrovat               ;  sichern                      ;  (za)jistit, zabezpečit, pojistit
-  skříň                       ;  Schrein, Schrank             ;  skříň, skříňka
-  sokl                        ;  Sockel                       ;  podstavec, podnož, patka
-  somrák                      ;  Sommer ?                     ;  tulák
-  somrovat                    ;  Sommer ?                     ;  potulovat se, toulat se
-  sorta                       ;  Sorte                        ;  druh, odrůda
-  sos, sós                    ;  Sosse                        ;  omáčka
-  soumar                      ;  Saumtier                     ;  zvíře k nošení břemen
-  spedice                     ;  Spedition                    ;  doprava, zasílatelství
-  speditér, špeditér          ;  Spediteur                    ;  zasílatel, dopravce, stěhovák
-  speditérství                ;  Spedition                    ;  zasílatelství
-  spíž, spíže, spižírna       ;  Speise(kammer)               ;  místnost k uložení potravin
-  sporák, šporák              ;  Sparherd                     ;  sporák, plotna
-  spořit                      ;  sparen                       ;  šetřit
-  spořivý                     ;  sparsam                      ;  šetrný
-  spuntovat, spunktovat       ;  Bund machen                  ;  umluvit, smluvit, zosnovat
-  sténat                      ;  stöhnen                      ;  naříkat, sténat
-  sulc                        ;  Sulze, Sülze                 ;  aspik, rosol, huspenina
-  sulcovat                    ;  sülzen                       ;  rosolovat
-  šablona                     ;  Schablone                    ;  vzor, předloha
-
-  šábovat (se)               ;  scheiden (sich)      ;  dělit se
-  -  
-  šabraka                    ;  Schabracke           ;  čabraka
-  šábrování                  ;  schaben              ;  škrabání
-  šacovat                    ;  schätzen             ;  odhadnout, ocenit; prohledat kapsy
-  šacovník                   ;  Schätzer             ;  odhadce
-  šacunk, šacuňk             ;  Schätzung            ;  odhad; výkupné
-  šafář                      ;  Schaffer             ;  (hospodářský) správce
-  šafářovat                  ;  schaffen             ;  být šafářem; rozkazovat druhým
-  šachta                     ;  Schacht              ;  důl, šachta
-  šajba                      ;  Scheibe              ;  kotouč, řemenice; terč
-  šajn                       ;  Schein               ;  svit, záře
-  (ne)mít o něčem šajn(a)    ;  Schein               ;  (ne)mít o něčem zdání, ponětí
-  šál                        ;  ?                    ;  jeden z velkých svalů kýty
-  šála                       ;  Schal                ;  šála
-  šála                       ;  Schal                ;  těžní klec
-  šálek                      ;  Schale (rak.)        ;  šálek, miska
-  šalina                     ;  elektrische Linie    ;  (brněnská) tramvaj
-  šalíř                      ;  ?                    ;  topič v sklářské huti; středov. přilba
-  šalmaj                     ;  Schalmei             ;  píšťala, zvl. pastýřská
-  šalování                   ;  Schalung             ;  bednění, obložení
-  šalovat                    ;  schalen              ;  bednit, obkládat, pobíjet prkny
-  (vy)šaltovat               ;  schalten             ;  (vy)řadit
-  šaltpáka                   ;  Schalthebel          ;  řadicí páka
-  šaltr                      ;  Schalter             ;  přepážka
-  šalvěj                     ;  Salbei               ;  šalvěj
-  šalvostr                   ;  Goldscheidewasser    ;  lučavka
-  šamot                      ;  Schamotte            ;  žáruvzdorný materiál
-  šamotka                    ;  Schamotte            ;  hliněná dlaždice, cihla
-  šamrle, šamrdle            ;  Schemel              ;  nízká stolička, podnožka
-  šamstr                     ;  ?                    ;  nápadník, milenec
-  šance                      ;  Schanze              ;  hradby, valy, opevnění, násep
-  šancovat                   ;  Schanze              ;  zatahovat svatebnímu průvodu cestu
-  šanovat                    ;  schonen              ;  chránit, šetřit
-  šantročit                  ;  ?                    ;  čachrovat; pokoutně ukrývat
-  šarlach                    ;  Scharlach            ;  jasně červená barva; spála
-  šarlat                     ;  Scharlach            ;  tkanina jasně červené barvy
-  šarnýr                     ;  Scharnier            ;  kloubový závěs, stěžejka
-  šarvátka                   ;  Scharmützel          ;  potyčka, půtka, bitka, srážka
-  šejdíř                     ;  Schindler            ;  podvodník
-  šelma                      ;  Schelm               ;  šelma, dravý savec
-  šéma                       ;  Schema               ;  schéma
-  šenk                       ;  Schenke, Schank      ;  hospoda, výčep, nálevna
-  šenkovat                   ;  schenken             ;  nalévat, čepovat
-  šenkovna                   ;  Schenke, Schank      ;  hospoda, výčep, nálevna
-
-  
-  šenkýř                ;  Schenkwirt                ;  hostinský, výčepní
-    
-  šenkýřka              ;  Schenkwirtin              ;  hostinská
-
-  šerm                  ;  ?                         ;  zápolení bodnou n. sečnou zbraní
-
-  šermovat              ;  ?                         ;  zápolit bodnou n. sečnou zbraní
-
-  šerpa                 ;  Schärpe                   ;  šerpa, široká stuha
-
-  šibík                 ;  Stapel                    ;  slepá chodba
-
-  šibovat, šíbovat      ;  schieben                  ;  posunovat (vlak), odsunovat
-
-  šíbr                  ;  Schieber                  ;  posunovač; logaritmické pravítko
-
-  šíbrovat, šibrovat    ;  schieben                  ;  přesunovat, posouvat; čachrovat
-
-  šíf                   ;  Schiff                    ;  loď
-
-  šifař                 ;  Schiffer                  ;  loďař
-
-  šiferna               ;  Schiffswerft              ;  loděnice
-
-  šichta                ;  Schicht                   ;  směna
-
-  šichtmistr            ;  Schichtmeister            ;  vedoucí směny
-
-  šik                   ;  Schick                    ;  vojenský útvar, šik; dvojřad
-
-  šikovat               ;  schicken                  ;  řadit do šiku; poslat
-
-  šikovný               ;  geschickt                 ;  dovedný, zručný, obratný; vhodný
-
-  šiknout se            ;  schicken sich             ;  hodit se
-
-  šilhat                ;  schielen                  ;  šilhat, pošilhávat
-
-  šilink                ;  Schilling                 ;  bývalé platidlo v Rakousku
-
-  šimfovat              ;  schimpfen                 ;  hubovat
-
-  šiml                  ;  Schimmel                  ;  bělouš, bílý kůň
-
-  úřední šiml           ;  Schimmel                  ;  bezduché, byrokratické úřadování
-
-  šína                  ;  Schiene                   ;  kolejnice
-
-  šinágl                ;  ?                         ;  veslová loďka s plochým dnem
-
-  šindel                ;  Schindel                  ;  šindel, taška
-
-  šindelář              ;  Schindelmacher (zast.)    ;  výrobce šindelů
-
-  širm                  ;  Schirm                    ;  stínidlo lampy
-
-  šišarda               ;  Schie3scharte             ;  střílna
-
-  škapulíř              ;  Skapulier (zast.)         ;  druh amuletu; část mnišského
-                        ;                            ; 
-  škatule               ;  Schatulle                 ;  roucha
-                                                   ; 
-                                                   ;  krabice
-
-  škeble                ;  ?                         ;  sladkovodní mlž; lastura
-
-  škoda                 ;  Schade                    ;  škoda, poškození, újma
-
-  škopek                ;  Schaff                    ;  škopek, dřez
-
-  šláfrok               ;  Schlafrock                ;  župan
-
-  šláftruňk             ;  Schlaftrunk               ;  uspávací nápoj
-
-  šlágr                 ;  Schlager                  ;  hit
-
-  šlajer, šlojíř        ;  Schleier                  ;  závoj, rouška
-
-  šlajf, šlejf          ;  Schleif                   ;  brzda (mechanická)
-
-  šlajfka               ;  Schleife                  ;  kravata, vázanka
-
-  šlajfky               ;  schleifen                 ;  brusle na kličku
-
-  šlajfovat             ;  schleifen                 ;  brzdit
-
-  šlajsna               ;  Schleuse                  ;  propust
-  
-
-  šlak                      ;  Schlag                   ;  mrtvice; ďas, čert
-   - 
-  šlakovat                  ;  schlagen                 ;  jít po stopě, sledovat
-  šlam                      ;  Schlamm                  ;  usazenina uhelného prachu
-  šlamastyka, šlamastika    ;  Schlamassel              ;  nesnáze, trampoty
-  šlank                     ;  schlank                  ;  štíhlý
-  šlaušek, šlauch           ;  Schlauch                 ;  hadička
-  šle                       ;  ?                        ;  tráky, kšandy
-  šlechta                   ;  Geschlecht               ;  šlechta, vládnoucí třída, aristokracie
-  šlechtic                  ;  Geschlecht               ;  příslušník šlechty, aristokrat
-  šlejfírna                 ;  Schleiferei              ;  brusírna
-  šlejfíř                   ;  Schleifer                ;  brusič
-  šlem                      ;  Schleim                  ;  hlen, slizovitá látka, kal
-  šlendrián                 ;  Schlendrian              ;  nepořádek; nepořádný člověk
-  šlengr                    ;  Schlingel                ;  darebák
-  šlep                      ;  Schleppe                 ;  vlečka
-  šlepr, šlépr              ;  Schlepper                ;  tahač, vlek, vlečka
-  šlicovat                  ;  schlitzen                ;  dělat zátinku
-  šlif                      ;  Schliff                  ;  společenská uhlazenost
-  šlichta                   ;  Schlichte                ;  břečka, špatné jídlo
-  šlitáž                    ;  Schlittenfahrt           ;  jízda na saních, sanice
-  šlofík                    ;  Schläfchen               ;  krátký spánek
-  šlohnout                  ;  ?                        ;  ukrást
-  šluk                      ;  Schluck = lok, doušek    ;  polknutí kouře při kouření
-  šlukovat                  ;  schlucken = polykat      ;  polykat kouř při kouření
-  šlundra                   ;  ?                        ;  nepořádná nebo nemravná žena
-  šlupna                    ;  Schlaufe                 ;  smyčka stuhy
-  šlus                      ;  Schluss                  ;  konec
-  šmajchl                   ;  Schmeichelei             ;  lichotka, lichocení, mazlení
-  šmajchlíř                 ;  Schmeichler              ;  lichotník
-  šmajchlovat (se)          ;  schmeicheln              ;  lichotit (se), lísat se, mazlit se
-  šmajznout                 ;  schmeissen               ;  ukrást; uhodit
-  šmak                      ;  Geschmack                ;  chuť, příchuť
-  šmáknout (si)             ;  schmecken                ;  přijít vhod; pochutnat si
-  šmakovat                  ;  schmecken                ;  chutnat
-  šmant, šmont              ;  ?                        ;  uhelný prach; druh briket
-  šmejd                     ;  Schund                   ;  podřadné zboží, brak
-  šmejdit                   ;  Schund                   ;  zvídavě se pohybovat, slídit
-  šmelc                     ;  Schmelz                  ;  staré železo, šrot; barevné trety
-  šmelcíř                   ;  Schmelzer                ;  tavič
-  šmelcovat                 ;  schmelzen                ;  tavit
-  šmelcovna                 ;  Schmelzerei              ;  tavírna
-  šmelina                   ;  Schiebung                ;  černý obchod, lichva
-  šmelinář                  ;  Schieber                 ;  překupník
-  šmigrust, šmerkust        ;  ?                        ;  pomlázka
-
-  šminkovat            ;  schminken               ;  líčit
-  -  
-  šminky               ;  Schminke                ;  líčidla
-  šmír                 ;  Schmiere                ;  mazadlo, kolomaz
-  šmíra                ;  Schmiere                ;  kočující divadelní spol. nižší úrovně
-  šmírák               ;  Schmiere                ;  koncept; nežádoucí pozorovatel
-  šmírbuch             ;  Schmierbuch             ;  pomocná účetní kniha
-  šmírovat             ;  schmieren               ;  mazat šmírem; sledovat, slídit
-  šmirgl               ;  Schmirgel               ;  smirek, brusný papír
-  šmirglovat           ;  schmirgeln              ;  smirkovat, brousit, leštit
-  šmirglpapír          ;  Schmirgelpapier         ;  smirkový papír
-  šmízo                ;  Schmiere                ;  úplatek, výhoda; brak, šmejd
-  šmok                 ;  ?                       ;  prodejný novinář
-  šmolc                ;  schmelzen, Schmolz      ;  přepuštěné máslo
-  šmolka               ;  ?                       ;  modřidlo
-  šmolkovat            ;  ?                       ;  modřit šmolkou
-  šmorn                ;  Kaiserschmarren         ;  trhanec, smaženec
-  šmudla               ;  schmuddeln              ;  špindíra
-  (u)šmudlaný          ;  schmuddlig              ;  ušpiněný
-  šmudlat              ;  schmuddeln              ;  dělat neobratně, nepořádně umývat
-  šmuk                 ;  Schmuck                 ;  šperk, klenot, ozdoba
-  šnaps, šnába         ;  Schnaps                 ;  kořalka, pálenka
-  šnek                 ;  Schnecke                ;  hlemýžď, šnek
-  šněrovací            ;  Schnür-                 ;  šněrovací, stahovaný tkanicí
-  šněrovačka           ;  schnüren                ;  korzet
-  šněrovat             ;  schnüren                ;  spojovat, svazovat, stahovat tkanicí
-  šnorchl              ;  Schnorchel              ;  potápěčská trubice, šnorchl
-  šňořit               ;  verschönern             ;  zdobit, krášlit, fintit
-  šňupací              ;  Schnupf-                ;  určený, sloužící k šňupání
-  šňupák               ;  Schnupftuch             ;  kapesník; čenich
-  šňupat               ;  schnupfen               ;  vtahovat nosem
-  šnuptychl            ;  Schnupftuch             ;  kapesník
-  šňůra                ;  Schnur                  ;  provaz
-  šnurbart             ;  Schnurrbart             ;  knír
-  šnycar               ;  schneiden, Schnitt      ;  truhlářský nebo knihařský nůž
-  šnycl                ;  Schnitzel               ;  řízek
-  šnyt                 ;  Schnitt                 ;  malé pivo; střih (šatů); řez
-  šnytlich, šnytlík    ;  Schnittlauch            ;  pažitka
-  šnytovat             ;  schneiden, schnitten    ;  opracovávat okraje podešve
-  šopa                 ;  Schuppen                ;  kůlna, dřevník
-  šorc                 ;  Schurz                  ;  zástěra
-  šorfšic, šarfšic     ;  Scharfschütze           ;  ostrostřelec
-  šorna                ;  Schornstein = komín     ;  škrabka na saze
-  šos                  ;  Schoss                  ;  cíp kabátu
-  šosácký              ;  Schoss                  ;  příliš konzervativní, zpátečnický
-
-  
-  šosák                 ;  Schoss                            ;  šosatý kabát; zpátečník, omezenec
-   - -
-  šotek                 ;  Schote ?                          ;  domácí skřítek, diblík, rarášek
-
-  šotyš                 ;  Schottische                       ;  název pro skotskou; skotský vzor
-
-  šouf                  ;  Schufen                           ;  naběračka s dlouhým držadlem
-
-  šoupnout              ;  schuppen                          ;  strčit, posunout
-
-  šourat                ;  schüren                           ;  šoupavě něčím pohybovat
-
-  špacír                ;  Spaziergang                       ;  procházka
-
-  špacírka              ;  Spazierstock                      ;  vycházková hůl
-
-  špacírovat            ;  spazieren                         ;  procházet se
-
-  špagát                ;  Spagat                            ;  provaz, motouz
-
-  špachtle              ;  Spachtel                          ;  stěrka, roztěrka
-
-  špajz, špajzka        ;  Speisekammer                      ;  spíže, spižírna
-
-  špalda                ;  Spalte                            ;  druh pšenice, samopše
-
-  špaleta               ;  Spalt, Spalte = trhlina, spára    ;  ostění
-
-  špalír                ;  Spalier                           ;  řada
-
-  špán                  ;  Lichtspan, Kienspan               ;  louč
-
-  špangle               ;  Spange                            ;  druh pout, želízka, okovy
-
-  špargl                ;  Spargel                           ;  chřest
-
-  špárkasa              ;  Sparkasse                         ;  spořitelna
-
-  špárovat              ;  sparen                            ;  šetřit
-
-  špársystém            ;  Sparsystem                        ;  úsporný systém
-
-  špás                  ;  Spass                             ;  legrace, zábava, žert, šprým
-
-  špásovat              ;  spassen                           ;  žertovat, šprýmovat
-
-  špátka                ;  Spaten                            ;  lopatka
-
-  špeceraj              ;  Spezerei                          ;  obchod se smíšeným zbožím
-
-  špeh                  ;  Späher                            ;  vyzvědač, slídil, zvěd, špion
-
-  špehovat              ;  spähen                            ;  slídit, vyzvídat, sledovat
-
-  špehýrka              ;  Späher                            ;  kukátko, malé okénko
-
-  špejchar              ;  Speicher                          ;  sýpka
-
-  špejle                ;  Speiler                           ;  špejle
-
-  špejlovat             ;  speilen                           ;  uzavírat špejlemi, špejlovat
-
-  špek                  ;  Speck                             ;  slanina, špek
-
-  špekáček              ;  Speckwurst                        ;  špekáček
-
-  špekbuřt, špekvuřt    ;  Speckwurst (zast.)                ;  tlačenka
-
-  špekoun               ;  Speck                             ;  tlustý člověk, tlusťoch
-
-  špekové knedlíky      ;  Speckknödel                       ;  špekové knedlíky
-
-  špekulírovat          ;  spekulieren                       ;  spekulovat, uvažovat, přemýšlet
-
-  špeluňka              ;  Spelunke                          ;  malá tmavá místnost;špatná
-                        ;                                    ; 
-  špenát                ;  Spinat                            ;  hospoda
-                                                           ; 
-                                                           ;  špenát
-
-  špendlík              ;  Stecknadel                        ;  špendlík; sorta slívy
-
-  špendlit              ;  zustecken                         ;  špendlíky připevňovat, spojovat
-
-  špendýrovat           ;  spenden                           ;  darovat, věnovat
-
-  šperhák               ;  Sperrhaken                        ;  paklíč
-  
+katr;Gatter ;mřížové dveře; rámová pila
+
+kauf;Kauf ;nákup, koupě
+
+kél ;Kohl ;kapusta
+
+kérovat ;kehren ;navážet se do někoho; tetovat
+
+kibic ;Kiebitz;divák a kritik při hraní karet
+
+kibicovat ;kiebitzen;přihlížet a kritizovat při hraní karet
+
+klandr;Geländer ;zábradlí
+
+klapat, klapnout;klappen;klapat, klapnout; podařit se
+
+klapka;Klappe ;klapka
+
+klasa ;Klasse ;třída; jakost
+
+klášter ;Kloster;klášter
+
+klempíř ;Klempner ;klempíř
+
+klenot;Kleinod;klenot, šperk, skvost
+
+klepat;klopfen;klepat
+
+kletr ;klettern = lézt;horolezecký batoh
+
+klika ;Glück;štěstí
+
+knajpa;Kneipe ;hospoda
+
+knedlík ;Knödel ;knedlík
+
+knecht;Knecht ;prostý voják, dráb 
+
+knejp ;Kneip;obuvnický, ševcovský nůž
+
+knop, knap;knapp;sotva, těsně
+
+komandovat;kommandieren ;poroučet, rozkazovat, velet
+
+komora;Kammer ;komora
+
+kompanie;Kompanie ;rota, setnina
+
+koncentrák;Konzentrationslager;koncentrační tábor
+
+konzum;Konsum ;konzum, spotřeba
+
+kór ;gar;dokonce, docela, teprv, zvlášť
+
+koštér;Koster ;koštér, ochutnávač
+
+(o)koštovat ;kosten ;(o)chutnat
+
+koštovat;kosten ;mít cenu, stát
+
+koukat se ;kucken ;dívat se
+
+krachovat, krachnout;krachen;(z)krachovat, udělat úpadek
+
+krajsamt;Kreisamt ;okresní, krajský úřad
+
+krajzl, krejzl, krejzlík;Kragen ;široký límec, límeček
+
+krám;Kram ;obchod, stánek; harampádí
+
+kramář;Krämer ;drobný obchodník
+
+kramářka;Krämerin ;drobná obchodnice
+
+kramflek; být silný v k.;?;podpatek; být si jistý
+
+kramle; vzít kramle ;Klammer, Krampe;tesařská skoba; utéct
+
+krámovat;kramen ;hrabat se, přehrabovat se
+
+kravál;Krawall;hluk, rámus, lomoz, povyk
+
+krčma ;Kretschmer ;hospoda
+
+krčmář;Kretschmer ;hospodský
+
+kredenc ;Kredenz;příborník, kredenc
+
+krejcar, grejcar;Kreuzer;krejcar, malý peníz
+
+krchov;Kirchhof ;hřbitov
+
+kriminál;Kriminal ;vězení, věznice
+
+krusta;Kruste ;kůra, povlak, strup, krusta
+
+krýgsman;Kriegsman;voják 
+
+krypl ;Krüppel;chromý člověk, mrzák
+
+křtalt;Gestalt;forma, tvar, ozdoba 
+
+křtaltovaný ;gestaltet;tvarovaný, utvářený
+
+křtaltovat;gestalten;tvarovat, utvářet
+
+ksicht;Gesicht;obličej
+
+ksichtit se ;Gesicht;tvářit se
+
+ksindl;Gesindel ;sebranka, lůza, chátra, banda
+
+kšaft ;Geschäft ? ;poslední vůle, závěť, testament
+
+kšeft ;Geschäft ;obchod; výnosná práce
+
+kšeftovat ;Geschäft ;obchodovat
+
+kšilt ;Schild ;štítek čepice
+
+kšír, kšíry ;schirren ;postroj, popruhy
+
+(o)kšírovat ;schirren ;dát postroj, zapřahat
+
+kufr;Koffer ;kufr
+
+kuchtík ;Küchenjunge;kuchtík
+
+kuchtit ;kochen ;vařit
+
+kuchyně ;Küche;kuchyně
+
+kumbál;?;malá temná místnost
+
+kumpán;Kumpan ;druh, společník
+
+kumšt ;Kunst;umění, dovednost, zručnost
+
+kumštýř ;Künstler ;umělec, obratný člověk
+
+kunsthistorik ;Kunsthistoriker;historik zabývající se uměním
+
+kunšaft, kunčaft;Kundschaft ;zákazník
+
+kundšoft;Kundschaft ;zákazník 
+
+kupírovat ;kupieren ;kupírovat
+
+kuplíř;Kuppler;kuplíř
+
+kuplířka;Kupplerin;kuplířka
+
+kuplířství;Kuppelei ;kuplířství
+
+kupole, kopule;Kuppel ;kupole, kopule
+
+kurát ;Kurat;vojenský kněz
+
+kuratela;Kuratel;opatrovnictví
+
+kurfiřt ;Kurfürst ;držitel říšského arciúřadu
+
+kurt;Gurt ;popruh, pás
+
+(při)kurtovat se;gürten sich;připoutat se
+
+kurýrovat ;kurieren ;léčit
+
+kutloch ;Kuttelhof ;malá nevzhledná místnost, brloh
+
+kutna ;Kutte;svrchní mnišský oděv
+
+kvalt ;Gewalt ? ;rychlostní stupeň, rychlost; spěch
+
+kvargle ;Quargel;tvarůžek, syreček
+
+kvartýr;Quartier;byt, příbytek
+
+kvelb;Gewölbe ;obchod, krám
+
+kvér ;Gewehr;puška, zbraň
+
+kverulant;Querulant ;věčný nespokojenec
+
+kýbl ;Kübel ;kbelík, vědro
+
+kýč;Kitsch;kýč, komerčně zaměřené dílo
+
+kychta ;Gicht ;sazebna
+
+kýl;Kiel;lodní kýl
+
+kysna;Kiste ;bedna
+
+kyt;Kitt;tmel, kyt
+
+kytle, kytlice ;Kittel;spodní sukně
+
+kyz;Kies;rudný nerost kovového vzhledu
+
+lacl ;Lätzchen;náprsní část oděvu, náprsenka
+
+lafeta ;Lafette ;lafeta, součást děla
+
+ládovat;laden ;nabíjet (střelnou zbraň)
+
+ládovat se ;laden ;cpát se, hltavě pojídat
+
+lágr ;Lager ;tábor
+
+lajntuch ;Leintuch;prostěradlo
+
+lajsna ;leiste;lišta, lať
+
+lajsnout si;leisten ;dovolit si, dopřát si
+
+lajtnant ;Leutnant;poručík
+
+óbrlajtnant;Oberleutnant;nadporučík
+
+lak;Lack;nátěr, lak
+
+lák;Lake;nálev, lák
+
+lampa;Lampe ;lampa, svítilna
+
+lampasy;Lampassen ;pruhy na švech kalhot u uniformy
+
+lán;Lehne ;lán
+
+landkrycht ;Landgericht ;krajský soud 
+
+lantkrabě, lankrabě;Landgraf;knížecí titul, lankrabě
+
+lantkrabství, lankrabství;Landgrafschaft;území spravované lankrabětem
+
+lapálie;Lappalie;maličkost, malichernost
+
+lať, laťka ;Latte ;lať, laťka, tyčka
+
+lauf ;Lauf;hlaveň
+
+lautr;lauter;samý; jenom, pouze
+
+lavina ;Lawine;lavina, příval, záplava
+
+léga ;Lege;obruba
+
+legát;Legat ;židle s vyřezávaným opěradlem
+
+leník;Lehenmann ;leník, vazal, man
+
+léno ;Lehn, Lehen ;léno, feudum
+
+líbesbríf;Liebesbrief ;milostný dopis
+
+(od)lifrovat ;(ab)liefern ;poslat, odeslat; dodávat
+
+litkup ;Leitkauf;zapíjení uzavření koupě; odstupné
+
+lógr ;Lager ;kávová sedlina
+
+loch ;Loch;vězení
+
+lochčit se;lachen ;smát se (brněnský hantec)
+
+lochna;Loch ;otvor, díra
+
+lokaj ;Lakai;lokaj, sluha
+
+lokál ;Lokal;hostinec, hostinský podnik
+
+lokna ;Locke;kadeř
+
+los ;Los;los, výherní poukázka; osud
+
+losování;Losen;losování
+
+losovat ;losen;losovat, táhnout los
+
+loubí ;Laube;podloubí; besídka
+
+loutna;Laute;loutna, strunný drnkací nástroj
+
+ludra ;Luder;potvora, mrcha
+
+luft;Luft ;vzduch
+
+lufťák;Luft ;letní host z města na dovolené
+
+lufthaus;Luft = vzduch, Haus = dům;letní byt, chata
+
+luftovat;lüften ;větrat
+
+lump;Lump ;darebák, lotr, uličník, ničema
+
+lupmačit;lumpen ;dělat neplechy, zlobit
+
+lunapark;Lunapark ;lunapark
+
+lunt;Lunte;doutnák, lunt
+
+lusthaus;Lusthaus ;letohrádek
+
+lustr ;Luster ;lustr, stropní svítidlo
+
+machr ;Macher ;obratný člověk, odborník
+
+majlant, majland;Mailand = Milán;velké množství, hojnost
+
+majstrštyk;Meisterstück ;mistrovské dílo
+
+dát si majzla ;Meische;dát si pozor
+
+majzlík ;Meissel;dláto, sekáč
+
+majznout;schmeissen ;(u)hodit, třísknout
+
+malíř ;Maler;malíř
+
+malování;Malen;malování
+
+malovat ;malen;malovat, kreslit
+
+man ;Mann ;leník, vazal, man
+
+mandel;Mandel ;stará míra (15 kusů)
+
+mandl ;Mangel ;mandl
+
+mandlovat ;mangeln;uhlazovat na mandlu, mandlovat
+
+mandle;Mandel ;plod mandloně, mandle
+
+manšaft, mančaft;Manschaft;mužstvo, tým
+
+mantl ;Mantel ;kabát
+
+manýra;Manier ;způsob, chování
+
+markrabě, markrabí;Markgraf ;markrabě, knížecí titul
+
+markrabství ;Markgrafschaft ;země spravované markrabětem
+
+markytán;Marketender;prodavač zboží a jídla vojákům
+
+markytánka;Marketenderin;prodavačka zboží a jídla vojákům
+
+marod ;marod;marod, nemocný
+
+marodit ;marodieren ;být nemocný, stonat
+
+marodka;Marodenzimmer ;místnost pro nemocné
+
+marš!;marsch! ;v chod!, běž! ven!
+
+marš ;der Marsch;pochod
+
+maršál ;Marschall ;maršál, nejvyšší vojenská hodnost
+
+maršbatalion ;Marschbataillon ;pochodový prapor
+
+marše;die Marsch;náplava
+
+marškompanie ;Marschkompanie;rota odcházející na frontu
+
+maršrúta ;Marschroute ;směr pochodu, cesty; cest. příkaz
+
+mašina ;Maschine;stroj; lokomotiva
+
+mašinérie;Maschinerie ;složitá soustava
+
+mašinfíra;Maschinenführer ;strojvedoucí, strojvůdce
+
+mašinkvér;Maschinengewehr ;kulomet
+
+mašírovat;marschieren ;pochodovat
+
+mašle;Masche;mašle, stuha
+
+maštal ;Marstall;chlév, stáj, konírna
+
+matrace, madrace ;Matratze;matrace
+
+mazhaus;? ;svrchní síň 
+
+mečet, mekat ;meckern ;mečet
+
+mekot;Meckern ;mečení, mekot
+
+meldovat ;melden;hlásit, ohlásit
+
+meldunk;Meldung ;hlášení, zpráva
+
+(z)merčit, merkovat;merken;(z)pozorovat, všimnout si
+
+metál;Metall;vyznamenání, medaile
+
+mince;Münze ;mince
+
+mindrák;Minderwertigkeitskomplex;komplex, pocit méněcennosti
+
+mišunk, mišuňk ;Mischung;směs, míchanice, zmatek, nepořádek
+
+mlok ;Molch ;mlok, salamandr
+
+mnich;Mönch ;mnich, řeholník
+
+mord ;Mord;vražda, zabití
+
+mordéř ;Mörder;vrah, zabiják
+
+(za)mordovat ;morden;vraždit, zabíjet
+
+mordovat se;morden;trápit se, lopotit se, pachtit se
+
+mošt ;Most;nevykvašená šťáva z ovoce, mošt
+
+moštárna ;Mosterei;moštárna
+
+moula;Maulaffe;hlupák, pitomec
+
+moždíř ;Mörser;moždíř, hmoždíř
+
+mumraj ;Mummerei;maškarní rej; ruch, shon
+
+mundúr ;Montur;uniforma, stejnokroj
+
+mustr;Muster;vzor, vzorek
+
+mustrovat;mustern ;prohlížet, posuzovat; kárat
+
+mušle;Muschel ;lastura, ulita
+
+muzika ;Musik ;hudba; lidová taneční zábava
+
+mýto ;Maut;mýtné, poplatek za použití cesty
+
+nášup;Naschub  ;přídavek
+
+némlich;nämlich ;právě, zrovna, totiž
+
+numero ;Nummer;číslo
+
+nýmand ;niemand ;nikdo
+
+óbršt;Oberst;plukovník
+
+odkráglovat;abkrageln ;odstranit, odpravit, oddělat
+
+oficír ;Offizier;důstojník
+
+ordnunk;Ordnung ;pořádek
+
+ortel;Urteil;rozsudek, verdikt
+
+pajšl;Beuschel (rak.kuch.);hovězí nebo vepřové plíce a žaludek
+
+pajzl;Beisel;putyka, krčma
+
+paket;Paket ;balík
+
+pakáž;Pack, Bagage;holota, sebranka, banda, lůza
+
+pakl ;Packen;balík
+
+pakovat (se);packen;(s)balit (se), zabalit
+
+paktovné ;Pacht ;nájem
+
+pancíř ;Panzer;krunýř, brnění
+
+pančovat ;pantschen ;ředit, bryndat
+
+pantofel ;Pantoffel ;pantofel, trepka
+
+papundekl, papndekl;Pappendeckel;lepenka
+
+pár;paar, Paar;několik; dvojice
+
+paráda ;Parade;okázalost, nádhera
+
+parkán ;Burggraben;hradební příkop
+
+partaj ;Partei;politická strana; nájemník
+
+pasovat;passen;hodit se, slušet, padnout
+
+pauza;Pause ;přestávka, pomlka
+
+pech ;Pech;smůla, neštěstí, nezdar
+
+pechfógl ;Pechvogel ;smolař
+
+pendler;Pendler ;pracovník denně dojíždějící za prací
+
+pendlovat;pendeln ;jezdit, chodit sem a tam
+
+
+pergmistr;Bergmeister ;důlní dozorce, důlní mistr
+
+perón;Perron;nástupiště
+
+piglovat ;bügeln;žehlit
+
+
+pingl;Bündel;vak, ranec, uzel; číšník
+
+plac ;Platz ;místo
+
+pláňka ;Planke;laťka, tyčka k postavení plotu
+
+platfus;Plattfuss ;plochá noha
+
+plato;Platte;deska, podnos
+
+plech;Blech ;plech
+
+plundrovat ;plündern;plenit, pustošit, drancovat
+
+polír;Polier;dílovedoucí, stavbyvedoucí
+
+polírovat;polieren;leštit
+
+ponk ;Bank;řemeslnický pracovní stůl
+
+post ;Posten;postavení, funkce; místo
+
+pres ;Presse;lis; tlak, tlačenice
+
+presovat ;pressen;lisovat
+
+probíř, probéř ;Probierer;zkoušeč jakosti a hmotnosti mincí
+prúba;Probe;zkouška
+
+prubovat, prubnout ;probieren;zkusit, zkoušet
+
+pucflek;Putzfleck;vojenský sluha
+
+pucovat;putzen ;čistit; hubovat, nadávat
+
+pumpa;Pumpe;pumpa, čerpadlo
+
+pumpnout (někoho);Geld pumpen;vyloudit peníze, půjčit si peníze
+
+pumpovat ;pumpen ;čerpat, nabírat, nasávat kapalinu
+
+punc ;Punze;razidlo, úřední značka, punc
+
+punktum;punktum;přesně, právě; hotovo, konec
+
+puntovat ;Bund machen;spolčovat se
+
+purkmistr;Bürgermeister;purkmistr, starosta
+
+putna; je mi to putna;?;nádoba s popruhy; je mi to lhostejné
+
+putra;Butter ;máslo
+
+putrovat ;buttern;tlouci máslo
+
+putyka ;Butike ;hospoda nejnižšího řádu
+
+rabovat;rauben ;plenit, drancovat, loupit
+
+rada ;Rat;rada
+
+rádce;Rat;rádce
+
+radit;raten;radit
+
+rádlo;Rändelrad;vroubkované kolečko na násadě
+
+rádlovat ;rändeln;rýhovat, vyznačovat rádlem
+
+radýrka;Radiergummi;guma (na vymazávání)
+
+radýrovat;radieren ;gumovat, vymazávat gumou
+
+ráfek;Reifen ;obvodová část kola pro pneumatiku
+
+rafnout;raffen ;popadnout; kousnout
+
+ráhno;Rahe ;trám k zavěšení plachet
+
+rajblík;Reibebrett ;zednické nebo betonářské hladítko
+
+rajbovat ;reiben ;drhnout, dřít, třít
+
+rajc ;Reiz ;přitažlivost, dráždivost, půvab
+
+rajcovat ;reizen ;dráždit, vábit, lákat
+
+rajcovný ;reizvoll ;dráždivý, přitažlivý
+
+rajch;Reich;německá říše
+
+rajncenkrecht;reinzenkrecht ?;vůbec, zhola, dočista
+
+rajs ;Reis ;rýže
+
+rajstajbl, rajstajfl ;Teufel ;divoch, neposeda (o dítěti)
+
+rajtky ;Reithose ;jezdecké kalhoty
+
+rajtovat ;reiten ;jet na koni
+
+rajz ;Reise;cesta, cestování
+
+rajzovat ;reisen ;cestovat
+
+raketa ;Rakete ;létací zařízení; reaktivní střela
+
+rám;Rahmen ;obruba obrazu; konstrukce
+
+rambajs, rambajz ;Rammeisen;rámus, hluk; povyk
+
+ramlice ;Rammler;samice králíka nebo zajíce
+
+ramlík;Rammler;samec králíka nebo zajíce
+
+ramlování ;Rammelzeit ;páření se (o králících)
+
+randál;Randal ;rámus, hluk
+
+ranec ;Ranzen ;uzel, za cípy svázaný šátek
+
+rank;Rang ;služební postavení, platová skupina
+
+rantl ;Rand, Randel ;okraj, obruba, lem
+
+ranžírovat;rangieren;seřadit, uspořádat, pořádat
+
+rap ;Rappe;černý kůň, vraník
+
+rapír ;Rapier ;stará soubojová zbraň
+
+rapl;Rappel ;potrhlost, ztřeštěnost; potrhlý člověk
+
+raport;Rapport;zpráva, hlášení
+
+raportovat;rapportieren ;hlásit, ohlásit, podat zprávu
+
+ras ;?;pohodný; bezohledný člověk
+
+rasovat ;?;nakládat hrubě, necitelně; týrat
+
+rast;Rast ;odpočinek, pohov, zastávka
+
+rastr ;Raster ;síť, síťka, mřížka
+
+rastrovat ;rastrieren ;mřížkovat, linkovat, čárkovat
+
+rašl;?;stroj na výrobu vzorované pleteniny
+
+rašple;Raspel ;struhák, pilník; nehezká, stará žena
+
+rašplovat ;raspeln;strouhat, pilovat
+
+rathaus ;Rathaus;radnice 
+
+ratlík;Rattler;malý hladkosrstý pinč
+
+raubíř;Räuber ;lupič, loupežník; darebák, uličník
+
+rauš;Rausch ;(alkoholické) opojení, špička
+
+razír ;Raseur ;holič
+
+rebarbora ;Rhabarber;reveň
+
+regál ;Regal;police nebo stojan s přihrádkami
+
+regiment;Regiment ;pluk
+
+recht ;Recht;být vhod, mít pravdu
+
+rej ;Reihen ;rychlé víření
+
+rejd;Reiten ? ;úhel vychýlení řízení
+
+rejdovat;reiten ? ;řídit směr vozidla, zatáčet, řídit
+
+rejtar;Reiter ;jízdní voják, jezdec 
+
+rek ;Recke;hrdina, bohatýr
+
+rekrut;Rekrut ;odvedenec
+
+rekrutovat;rekrutieren;odvádět na vojnu
+
+remedura;původně z francouzštiny;oprava, náprava
+
+remplovat ;rempeln;vrazit do protihráče
+
+rendlík ;Reind;(menší) kastrol
+
+rest;Rest ;nedodělek, nedoplatek
+
+restovat;rösten ;opékat, dusit na tuku
+
+reta, réta;Rettung;záchrana, pomoc
+
+retovat ;retten ;chránit, zachránit
+
+revír;Revier;polesí; obvod lovu; uzavřený obvod
+ - 
+revírník ;Revierförster ;lesník spravující revír
+
+revírovat;Revier;slídit, lovit v revíru (o psu)
+
+rif;Riff;podmořský útes
+
+rolák;Rollkragenpullover;svetr n. tričko s ohrnovacím límcem
+
+role ;Rolle ;herecká úloha; funkce, postavení
+
+rolna;Rolle ;kladka, kolečko, váleček
+
+(s)rolovat ;rollen;(s)vinout
+
+rošt ;Rost;mřížka k opékání masa
+
+roštování;Rost;způsob konzervace; zpevnění
+ ;; 
+rota ;Rotte ;roštem
+; 
+;rota, oddíl vojska
+
+rotmistr ;Rottmeister ;velitel roty
+
+roura;Röhre ;trubice, trouba
+
+rozinka;Rosine;sušená bobule vinné révy, hrozinka
+
+rozšafný ;rechtschaffen = poctivý, řádný;prozíravý, uvážlivý, moudrý
+
+rudl ;? ;dvoukolý vozík na přepravu zboží
+
+ruf;Ruf ;obecná známost, pověst
+
+rukovat;zum Wehrdienst einberufen ? ;nastupovat vojenskou službu
+
+ruksak ;Rucksack;batoh, tlumok
+
+ruml ;Rummel;ruch, shon, zmatek, poplach
+
+rumpál ;rumpeln ;ruční dřevěný naviják
+
+rumplovat;rumpeln ;lomcovat, tlouct, bouchat, bušit
+
+rumrejch, rumrajch ;Rummel;vřava, hluk, hřmot, rozruch, shon
+
+runda;Runde ;kolo, okruh, stolní společnost
+
+rustika;rustikal;písmo protáhlé do výšky
+
+rybíz;Ribisel (rak.);rybíz
+
+rýgl, rygl ;Riegel;zástrčka, závora
+
+(za)ryglovat ;Riegel;zavřít na závoru, zástrčku
+
+rygol;Rigole;stružka, žlábek
+
+rychna ;riechen ;zápach
+
+rychta ;Richte;obydlí, sídlo rychtáře
+
+rychtář;Richter ;rychtář, starosta
+
+narychtovat;richten ;nasměrovat, nachystat
+
+zrychtovat ;richten ;srovnat, urovnat, dát do pořádku
+
+rychtyk, v rychtyku;richtig ;správné, správně, v pořádku
+
+rýna ;Rinne ;okapní žlab
+
+rynek, rynk;Ring;náměstí
+
+ryps ;Rips;tkanina s vroubky
+
+rytíř;Ritter;rytíř
+
+rytmistr ;Rittmeister ;setník u jízdy
+
+ryto, ryt;Ritt;placená jízda nájemního vozu
+
+římsa;Sims;římsa
+
+říše, rajch;Reich ;říše
+
+sajrajt ;Sauerei;nepořádek, svinčík
+
+sak ;Sack ;pytel, vak
+
+sál ;Saal ;sál, síň
+
+salamandr ;Salamander ;mlok
+
+
+salopní ;salopp ;nepořádný, nedbalý
+
+samet ;Samt ;matně lesklá tkanina, samet
+
+sanitka ;Sanität;záchranka, ambulance
+
+sanýruňk;Sanierung (pův. z latiny);sanování
+
+sargdekl;Sargdeckel ;víko na rakev
+
+sekatura;Sekkatur ;trápení, týrání, sekýrování
+
+sejp;Seife;rozsyp
+
+sekt;Sekt ;šumivé víno
+
+sekutný ;?;zlý, svárlivý
+
+sekýrovat ;sekkieren;sužovat, týrat, trápit
+
+semlbába, zemlbába;Semmelauflauf;žemlovka
+
+senkrubna, sengrubna;Senkgrube;jáma na odpadky, žumpa
+
+servírka;Serviererin;zaměstnankyně v restauraci
+
+servírovat;servieren;podávat (jídlo)
+
+servít(ek);Serviette;ubrousek
+
+sesle, sesla;Sessel ;židle
+
+sígl;Siegel ;pečeť, razítko
+
+sígr;Sieger = vítěz ;darebák, lotr, lump, syčák
+
+sichr ;sicher ;jistě, bezpečně, zaručeně; jistý
+
+sichrhajska, sichrhajcka;Sicherheitsnadel ;zavírací špendlík
+
+(po)sichrovat ;sichern;(za)jistit, zabezpečit, pojistit
+
+skříň ;Schrein, Schrank ;skříň, skříňka
+
+sokl;Sockel ;podstavec, podnož, patka
+
+somrák;Sommer ? ;tulák
+
+somrovat;Sommer ? ;potulovat se, toulat se
+
+sorta ;Sorte;druh, odrůda
+
+sos, sós;Sosse;omáčka
+
+soumar;Saumtier ;zvíře k nošení břemen
+
+spedice ;Spedition;doprava, zasílatelství
+
+speditér, špeditér;Spediteur;zasílatel, dopravce, stěhovák
+
+speditérství;Spedition;zasílatelství
+
+spíž, spíže, spižírna ;Speise(kammer) ;místnost k uložení potravin
+
+sporák, šporák;Sparherd ;sporák, plotna
+
+spořit;sparen ;šetřit
+
+spořivý ;sparsam;šetrný
+
+spuntovat, spunktovat ;Bund machen;umluvit, smluvit, zosnovat
+
+sténat;stöhnen;naříkat, sténat
+
+sulc;Sulze, Sülze ;aspik, rosol, huspenina
+
+sulcovat;sülzen ;rosolovat
+
+šablona ;Schablone;vzor, předloha
+
+šábovat (se) ;scheiden (sich);dělit se
+
+šabraka;Schabracke ;čabraka
+
+šábrování;schaben;škrabání
+
+šacovat;schätzen ;odhadnout, ocenit; prohledat kapsy
+
+šacovník ;Schätzer ;odhadce
+
+šacunk, šacuňk ;Schätzung;odhad; výkupné
+
+šafář;Schaffer ;(hospodářský) správce
+
+šafářovat;schaffen ;být šafářem; rozkazovat druhým
+
+šachta ;Schacht;důl, šachta
+
+šajba;Scheibe;kotouč, řemenice; terč
+
+šajn ;Schein ;svit, záře
+
+(ne)mít o něčem šajn(a);Schein ;(ne)mít o něčem zdání, ponětí
+
+šál;?;jeden z velkých svalů kýty
+
+šála ;Schal;šála
+
+šála ;Schal;těžní klec
+
+šálek;Schale (rak.);šálek, miska
+
+šalina ;elektrische Linie;(brněnská) tramvaj
+
+šalíř;?;topič v sklářské huti; středov. přilba
+
+šalmaj ;Schalmei ;píšťala, zvl. pastýřská
+
+šalování ;Schalung ;bednění, obložení
+
+šalovat;schalen;bednit, obkládat, pobíjet prkny
+
+(vy)šaltovat ;schalten ;(vy)řadit
+
+šaltpáka ;Schalthebel;řadicí páka
+
+šaltr;Schalter ;přepážka
+
+šalvěj ;Salbei ;šalvěj
+
+šalvostr ;Goldscheidewasser;lučavka
+
+šamot;Schamotte;žáruvzdorný materiál
+
+šamotka;Schamotte;hliněná dlaždice, cihla
+
+šamrle, šamrdle;Schemel;nízká stolička, podnožka
+
+šamstr ;?;nápadník, milenec
+
+šance;Schanze;hradby, valy, opevnění, násep
+
+šancovat ;Schanze;zatahovat svatebnímu průvodu cestu
+
+šanovat;schonen;chránit, šetřit
+
+šantročit;?;čachrovat; pokoutně ukrývat
+
+šarlach;Scharlach;jasně červená barva; spála
+
+šarlat ;Scharlach;tkanina jasně červené barvy
+
+šarnýr ;Scharnier;kloubový závěs, stěžejka
+
+šarvátka ;Scharmützel;potyčka, půtka, bitka, srážka
+
+šejdíř ;Schindler;podvodník
+
+šelma;Schelm ;šelma, dravý savec
+
+šéma ;Schema ;schéma
+
+šenk ;Schenke, Schank;hospoda, výčep, nálevna
+
+šenkovat ;schenken ;nalévat, čepovat
+
+šenkovna ;Schenke, Schank;hospoda, výčep, nálevna
+
+šenkýř;Schenkwirt;hostinský, výčepní
+
+šenkýřka;Schenkwirtin;hostinská
+
+šerm;? ;zápolení bodnou n. sečnou zbraní
+
+šermovat;? ;zápolit bodnou n. sečnou zbraní
+
+šerpa ;Schärpe ;šerpa, široká stuha
+
+šibík ;Stapel;slepá chodba
+
+šibovat, šíbovat;schieben;posunovat (vlak), odsunovat
+
+šíbr;Schieber;posunovač; logaritmické pravítko
+
+šíbrovat, šibrovat;schieben;přesunovat, posouvat; čachrovat
+
+šíf ;Schiff;loď
+
+šifař ;Schiffer;loďař
+
+šiferna ;Schiffswerft;loděnice
+
+šichta;Schicht ;směna
+
+šichtmistr;Schichtmeister;vedoucí směny
+
+šik ;Schick;vojenský útvar, šik; dvojřad
+
+šikovat ;schicken;řadit do šiku; poslat
+
+šikovný ;geschickt ;dovedný, zručný, obratný; vhodný
+
+šiknout se;schicken sich ;hodit se
+
+šilhat;schielen;šilhat, pošilhávat
+
+šilink;Schilling ;bývalé platidlo v Rakousku
+
+šimfovat;schimpfen ;hubovat
+
+šiml;Schimmel;bělouš, bílý kůň
+
+úřední šiml ;Schimmel;bezduché, byrokratické úřadování
+
+šína;Schiene ;kolejnice
+
+šinágl;? ;veslová loďka s plochým dnem
+
+šindel;Schindel;šindel, taška
+
+šindelář;Schindelmacher ;výrobce šindelů
+
+širm;Schirm;stínidlo lampy
+
+šišarda ;Schie3scharte ;střílna
+
+škapulíř;Skapulier  ;druh amuletu; část mnišského
+
+škatule ;Schatulle ;roucha, krabice
+
+škeble;? ;sladkovodní mlž; lastura
+
+škoda ;Schade;škoda, poškození, újma
+
+škopek;Schaff;škopek, dřez
+
+šláfrok ;Schlafrock;župan
+
+šláftruňk ;Schlaftrunk ;uspávací nápoj
+
+šlágr ;Schlager;hit
+
+šlajer, šlojíř;Schleier;závoj, rouška
+
+šlajf, šlejf;Schleif ;brzda (mechanická)
+
+šlajfka ;Schleife;kravata, vázanka
+
+šlajfky ;schleifen ;brusle na kličku
+
+šlajfovat ;schleifen ;brzdit
+
+šlajsna ;Schleuse;propust
+
+
+šlak;Schlag ;mrtvice; ďas, čert
+
+šlakovat;schlagen ;jít po stopě, sledovat
+šlam;Schlamm;usazenina uhelného prachu
+šlamastyka, šlamastika;Schlamassel;nesnáze, trampoty
+šlank ;schlank;štíhlý
+šlaušek, šlauch ;Schlauch ;hadička
+šle ;?;tráky, kšandy
+šlechta ;Geschlecht ;šlechta, vládnoucí třída, aristokracie
+šlechtic;Geschlecht ;příslušník šlechty, aristokrat
+šlejfírna ;Schleiferei;brusírna
+šlejfíř ;Schleifer;brusič
+šlem;Schleim;hlen, slizovitá látka, kal
+šlendrián ;Schlendrian;nepořádek; nepořádný člověk
+šlengr;Schlingel;darebák
+šlep;Schleppe ;vlečka
+šlepr, šlépr;Schlepper;tahač, vlek, vlečka
+šlicovat;schlitzen;dělat zátinku
+šlif;Schliff;společenská uhlazenost
+šlichta ;Schlichte;břečka, špatné jídlo
+šlitáž;Schlittenfahrt ;jízda na saních, sanice
+šlofík;Schläfchen ;krátký spánek
+šlohnout;?;ukrást
+šluk;Schluck = lok, doušek;polknutí kouře při kouření
+šlukovat;schlucken = polykat;polykat kouř při kouření
+šlundra ;?;nepořádná nebo nemravná žena
+šlupna;Schlaufe ;smyčka stuhy
+šlus;Schluss;konec
+šmajchl ;Schmeichelei ;lichotka, lichocení, mazlení
+šmajchlíř ;Schmeichler;lichotník
+šmajchlovat (se);schmeicheln;lichotit (se), lísat se, mazlit se
+šmajznout ;schmeissen ;ukrást; uhodit
+šmak;Geschmack;chuť, příchuť
+šmáknout (si) ;schmecken;přijít vhod; pochutnat si
+šmakovat;schmecken;chutnat
+šmant, šmont;?;uhelný prach; druh briket
+šmejd ;Schund ;podřadné zboží, brak
+šmejdit ;Schund ;zvídavě se pohybovat, slídit
+šmelc ;Schmelz;staré železo, šrot; barevné trety
+šmelcíř ;Schmelzer;tavič
+šmelcovat ;schmelzen;tavit
+šmelcovna ;Schmelzerei;tavírna
+šmelina ;Schiebung;černý obchod, lichva
+šmelinář;Schieber ;překupník
+šmigrust, šmerkust;?;pomlázka
+
+šminkovat;schminken ;líčit
+-
+šminky ;Schminke;líčidla
+šmír ;Schmiere;mazadlo, kolomaz
+šmíra;Schmiere;kočující divadelní spol. nižší úrovně
+šmírák ;Schmiere;koncept; nežádoucí pozorovatel
+šmírbuch ;Schmierbuch ;pomocná účetní kniha
+šmírovat ;schmieren ;mazat šmírem; sledovat, slídit
+šmirgl ;Schmirgel ;smirek, brusný papír
+šmirglovat ;schmirgeln;smirkovat, brousit, leštit
+šmirglpapír;Schmirgelpapier ;smirkový papír
+šmízo;Schmiere;úplatek, výhoda; brak, šmejd
+šmok ;? ;prodejný novinář
+šmolc;schmelzen, Schmolz;přepuštěné máslo
+šmolka ;? ;modřidlo
+šmolkovat;? ;modřit šmolkou
+šmorn;Kaiserschmarren ;trhanec, smaženec
+šmudla ;schmuddeln;špindíra
+(u)šmudlaný;schmuddlig;ušpiněný
+šmudlat;schmuddeln;dělat neobratně, nepořádně umývat
+šmuk ;Schmuck ;šperk, klenot, ozdoba
+šnaps, šnába ;Schnaps ;kořalka, pálenka
+šnek ;Schnecke;hlemýžď, šnek
+šněrovací;Schnür- ;šněrovací, stahovaný tkanicí
+šněrovačka ;schnüren;korzet
+šněrovat ;schnüren;spojovat, svazovat, stahovat tkanicí
+šnorchl;Schnorchel;potápěčská trubice, šnorchl
+šňořit ;verschönern ;zdobit, krášlit, fintit
+šňupací;Schnupf-;určený, sloužící k šňupání
+šňupák ;Schnupftuch ;kapesník; čenich
+šňupat ;schnupfen ;vtahovat nosem
+šnuptychl;Schnupftuch ;kapesník
+šňůra;Schnur;provaz
+šnurbart ;Schnurrbart ;knír
+šnycar ;schneiden, Schnitt;truhlářský nebo knihařský nůž
+šnycl;Schnitzel ;řízek
+šnyt ;Schnitt ;malé pivo; střih (šatů); řez
+šnytlich, šnytlík;Schnittlauch;pažitka
+šnytovat ;schneiden, schnitten;opracovávat okraje podešve
+šopa ;Schuppen;kůlna, dřevník
+šorc ;Schurz;zástěra
+šorfšic, šarfšic ;Scharfschütze ;ostrostřelec
+šorna;Schornstein = komín ;škrabka na saze
+šos;Schoss;cíp kabátu
+šosácký;Schoss;příliš konzervativní, zpátečnický
+
+šosák ;Schoss;šosatý kabát; zpátečník, omezenec
+
+šotek ;Schote ?;domácí skřítek, diblík, rarášek
+
+šotyš ;Schottische ;název pro skotskou; skotský vzor
+
+šouf;Schufen ;naběračka s dlouhým držadlem
+
+šoupnout;schuppen;strčit, posunout
+
+šourat;schüren ;šoupavě něčím pohybovat
+
+špacír;Spaziergang ;procházka
+
+špacírka;Spazierstock;vycházková hůl
+
+špacírovat;spazieren ;procházet se
+
+špagát;Spagat;provaz, motouz
+
+špachtle;Spachtel;stěrka, roztěrka
+
+špajz, špajzka;Speisekammer;spíže, spižírna
+
+špalda;Spalte;druh pšenice, samopše
+
+špaleta ;Spalt, Spalte = trhlina, spára;ostění
+
+špalír;Spalier ;řada
+
+špán;Lichtspan, Kienspan ;louč
+
+špangle ;Spange;druh pout, želízka, okovy
+
+špargl;Spargel ;chřest
+
+špárkasa;Sparkasse ;spořitelna
+
+špárovat;sparen;šetřit
+
+špársystém;Sparsystem;úsporný systém
+
+špás;Spass ;legrace, zábava, žert, šprým
+
+špásovat;spassen ;žertovat, šprýmovat
+
+špátka;Spaten;lopatka
+
+špeceraj;Spezerei;obchod se smíšeným zbožím
+
+špeh;Späher;vyzvědač, slídil, zvěd, špion
+
+špehovat;spähen;slídit, vyzvídat, sledovat
+
+špehýrka;Späher;kukátko, malé okénko
+
+špejchar;Speicher;sýpka
+
+špejle;Speiler ;špejle
+
+špejlovat ;speilen ;uzavírat špejlemi, špejlovat
+
+špek;Speck ;slanina, špek
+
+špekáček;Speckwurst;špekáček
+
+špekbuřt, špekvuřt;Speckwurst ;tlačenka
+
+špekoun ;Speck ;tlustý člověk, tlusťoch
+
+špekové knedlíky;Speckknödel ;špekové knedlíky
+
+špekulírovat;spekulieren ;spekulovat, uvažovat, přemýšlet
+
+špeluňka;Spelunke;malá tmavá místnost;špatná
+
+špenát;Spinat;hospoda
+
+špendlík;Stecknadel;špendlík; sorta slívy
+
+špendlit;zustecken ;špendlíky připevňovat, spojovat
+
+špendýrovat ;spenden ;darovat, věnovat
+
+šperhák ;Sperrhaken;paklíč
+
 
 šperk ? klenot, skvost, cenný předmět
 
@@ -3779,7 +4512,7 @@ Spitzen- mimořádný, vrcholný, vynikající
 špíže, špížka, špižírna Speise(kammer) místnost k uložení potravin špona
 Span tříska, hoblina
 
-(na)šponovat spannen napínat, napnout, natahovat
+šponovat spannen napínat, napnout, natahovat
 
 šponovky spannen dlouhé přiléhavé kalhoty
 
@@ -3791,7 +4524,7 @@ Span tříska, hoblina
 
 šprajc Spriesse vzpěra, podpěra
 
-(za)šprajcovat, šprajcnout
+šprajcovat, šprajcnout
 
 (ver)spreizen vzepřít; podepřít
 
@@ -3829,51 +4562,51 @@ Span tříska, hoblina
 
 šrafovat schraffen, schraffieren vyplňovat šrafami, čárkovat
 
-  šrajbr, šrajbka         ;  Schreiber, Schreiberin    ;  písař, písařka (na stroji)
-  -  
-  šrajbmašina             ;  Schreibmaschine           ;  psací stroj
-  šrajtofle               ;  ?                         ;  peněženka
-  šrák                    ;  (Hosen)träger             ;  popruh, šle; věšák, stojan, police
-  šrám                    ;  Schramme                  ;  jizva, škrábnutí, rána
-  šraml                   ;  Schrammel                 ;  lidový soubor o několika hráčích
-  šrank                   ;  Schrank                   ;  skříň
-  šraňky                  ;  Schranken                 ;  závory
-  šrapnel                 ;  Schrapnell                ;  dělostřelecká střela, šrapnel
-  šrek, šrekou            ;  schräg                    ;  šikmo, napříč
-  šrift                   ;  Schrift                   ;  písmo
-  šrot                    ;  Schrot                    ;  krmivo, drť
-  šrot                    ;  Schrott                   ;  odpad, staré železo
-  šrotovat                ;  schroten                  ;  šrotovat, drtit (obilí)
-  šrotovat                ;  schrotten                 ;  šrotovat, drtit (staré železo)
-  šrotovník               ;  Schrotmühle               ;  zařízení sloužící k výrobě šrotu
-  šroub                   ;  Schraube                  ;  šroub
-  šroubovací              ;  Schraub-                  ;  zařízený na šroubování
-  šroubovák, šraubncír    ;  Schraubenzieher           ;  šroubovák
-  šroubovat               ;  schrauben                 ;  šroubovat
-  štáb                    ;  Stab                      ;  štáb, sbor
-  štábní                  ;  Stabs-                    ;  týkající se štábu; dř. voj. hodnost
-  štace                   ;  Station                   ;  stanice, zastávka; působiště
-  štafírovat              ;  ?                         ;  upravovat, krášlit, zdobit; obšívat
-  štafle                  ;  Staffel                   ;  dvojitý žebřík; malířský stojan
-  štajf                   ;  steif                     ;  strnulý, nehybný
-  štajfovat se            ;  steifen                   ;  naparovat se, kasat se
-  štajgr                  ;  Steiger                   ;  důlní dozorce
-  štajgrovat              ;  steigern                  ;  stupňovat, zvyšovat
-  štajryš                 ;  ?                         ;  český lid. tanec třídobého rytmu
-  štalmistr               ;  Stallmeister              ;  podkoní;jeden z dvorských úředníků
-  štambuch                ;  Stammbuch                 ;  památník, album
-  štamgast                ;  Stammgast                 ;  stálý host
-  štamprle                ;  Schnapsglas               ;  kalíšek, stopka
-  štangle                 ;  Stange                    ;  tyč, tyčka
-  štekl                   ;  Stöpsel                   ;  západka, kolík
-  štekle                  ;  Stöckelabsätze            ;  vysoké podpatky
-  štelář, šteláž          ;  Gestell                   ;  police, regál
-  štelovat                ;  stellen                   ;  seřizovat, upravovat
-  štelunk                 ;  Stellung                  ;  pozice, zákopy, postavení
-  štempl                  ;  Stempel                   ;  razítko, pečeť
-  štemplovat              ;  stempeln                  ;  razítkovat
-  štendr                  ;  Ständer                   ;  stojka
-  štep                    ;  stopfen                   ;  strojový steh; zalátané místo
+šrajbr, šrajbka ;Schreiber, Schreiberin;písař, písařka (na stroji)
+
+šrajbmašina ;Schreibmaschine ;psací stroj
+šrajtofle ;? ;peněženka
+šrák;(Hosen)träger ;popruh, šle; věšák, stojan, police
+šrám;Schramme;jizva, škrábnutí, rána
+šraml ;Schrammel ;lidový soubor o několika hráčích
+šrank ;Schrank ;skříň
+šraňky;Schranken ;závory
+šrapnel ;Schrapnell;dělostřelecká střela, šrapnel
+šrek, šrekou;schräg;šikmo, napříč
+šrift ;Schrift ;písmo
+šrot;Schrot;krmivo, drť
+šrot;Schrott ;odpad, staré železo
+šrotovat;schroten;šrotovat, drtit (obilí)
+šrotovat;schrotten ;šrotovat, drtit (staré železo)
+šrotovník ;Schrotmühle ;zařízení sloužící k výrobě šrotu
+šroub ;Schraube;šroub
+šroubovací;Schraub-;zařízený na šroubování
+šroubovák, šraubncír;Schraubenzieher ;šroubovák
+šroubovat ;schrauben ;šroubovat
+štáb;Stab;štáb, sbor
+štábní;Stabs-;týkající se štábu; dř. voj. hodnost
+štace ;Station ;stanice, zastávka; působiště
+štafírovat;? ;upravovat, krášlit, zdobit; obšívat
+štafle;Staffel ;dvojitý žebřík; malířský stojan
+štajf ;steif ;strnulý, nehybný
+štajfovat se;steifen ;naparovat se, kasat se
+štajgr;Steiger ;důlní dozorce
+štajgrovat;steigern;stupňovat, zvyšovat
+štajryš ;? ;český lid. tanec třídobého rytmu
+štalmistr ;Stallmeister;podkoní;jeden z dvorských úředníků
+štambuch;Stammbuch ;památník, album
+štamgast;Stammgast ;stálý host
+štamprle;Schnapsglas ;kalíšek, stopka
+štangle ;Stange;tyč, tyčka
+štekl ;Stöpsel ;západka, kolík
+štekle;Stöckelabsätze;vysoké podpatky
+štelář, šteláž;Gestell ;police, regál
+štelovat;stellen ;seřizovat, upravovat
+štelunk ;Stellung;pozice, zákopy, postavení
+štempl;Stempel ;razítko, pečeť
+štemplovat;stempeln;razítkovat
+štendr;Ständer ;stojka
+štep;stopfen ;strojový steh; zalátané místo
 
 štibra Splitter odštěpek, úlomek
 
@@ -3915,7 +4648,7 @@ na štorc Sturz ? obráceně, napříč
 
 štráchy Streich ? okolky, drahoty, cavyky
 
- ;  štrajch Zapfenstreich večerka;soubor smyčcových nástrojů
+ ;štrajch Zapfenstreich večerka;soubor smyčcových nástrojů
 
 štrajchpudlík ? dítě pomáhající v tiskárně kartounů
 
@@ -3961,108 +4694,108 @@ strapazieren (sich) namáhat, obtěžovat (se)
 
 štrymfle Strümpfe punčochy
 
-  štucl, štucel              ;  stutzen                          ;  rukávník
-  -  
-  štucovat                   ;  stutzen                          ;  zkracovat, zastřihovat
-  študent, študák            ;  Student                          ;  student
-  študie                     ;  Studium                          ;  studium
-  študovat                   ;  studieren                        ;  studovat
-  štukatér                   ;  Stukkateur, Stuckkünstler        ;  odborník v štukových pracích
-  štulpa, štulpna            ;  stulpen                          ;  vysoká bota se zahrnutým okrajem
-  štupovačka                 ;  Stopfgarn                        ;  látací bavlnka
-  štupovat, štepovat         ;  stopfen                          ;  zašívat, látat
-  šturc                      ;  Sturz                            ;  ochranný poklop; slepá kolej
-  šturm                      ;  Sturm                            ;  útok, zteč; nápor; poplach
-  šturmhut                   ;  Sturmhut                         ;  vojenská přilba ve tvaru klobouku
-  šturmovat                  ;  stürmen                          ;  brát útokem; naléhat; řítit se, pádit
-  štyft, šteft               ;  Stift                            ;  kolík, nýt, šroub
-  štych; nechat ve štychu    ;  Stich                            ;  steh; nechat na holičkách
-  štychpróba                 ;  Stichprobe                       ;  předběžná zkouška, kontrola
-  štymovat, štemovat         ;  stimmen                          ;  souhlasit, ladit
-  šufánek, žufánek           ;  Schufen, Schöpfpfanne (zast.)    ;  naběračka, sběračka
-  šumař                      ;  schummeln                        ;  potulný hudebník; špatný hudebník
-  šunka                      ;  Schinken                         ;  šunka
-  šunkofleky, šunkafleky     ;  Schinkenfleckerl                 ;  šunkové flíčky
-  šunt                       ;  Schund                           ;  brak, šmejd, bezcenná věc
-  šupák                      ;  ?                                ;  sešlý, nedbalý, darebný člověk
-  šupina                     ;  Schuppe                          ;  šupina; lupy
-  šuple, šuplík, šufle       ;  Schublade                        ;  zásuvka
-  šuplera, šupléra           ;  Schublehre                       ;  posuvné měřítko, posuvka
-  šurf                       ;  Schurf                           ;  průzkumná šachtice
-  šus, šús                   ;  Schuss                           ;  prudký přímý sjezd; odpal, odstřel
-  šús                        ;  Schuss                           ;  zbrklý, potrhlý člověk
-  šutr                       ;  Schotter                         ;  kámen; štěrk
-  šutrovat                   ;  schottern                        ;  štěrkovat
-  šváb                       ;  Schabe                           ;  šváb
-  švagr                      ;  Schwager                         ;  švagr
-  švagrová                   ;  Schwägerin                       ;  švagrová
-  švajneraj                  ;  Schweinerei                      ;  špína, nečistota, nepořádek, svinstvo
-  švencovat                  ;  schwenzen                        ;  ulejvat se
-  švenk                      ;  schwenken = mávat, natočit       ;  pohyb kamerou (film.)
-  švenkovat                  ;  schwenken                        ;  pohybovat, zabírat (kamerou)
-  švígra, ségra              ;  Schwester                        ;  sestra
-  švígrfotr                  ;  Schwiegervater                   ;  tchán
-  švígrmutr                  ;  Schwiegermutter                  ;  tchýně
-  švindl                     ;  Schwindel                        ;  lest, úskok, klam, podvod
-  švindlíř, švindléř         ;  Schwindler                       ;  podvodník, šejdíř
-  švindlovat                 ;  schwindeln                       ;  podvádět
+štucl, štucel;stutzen;rukávník
 
-  být švorc               ;  schwarz ?               ;  být bez peněz
-  -  
-  švorcák                 ;  schwarz ?               ;  člověk bez peněz
-  švunk, švuňk            ;  Schwung                 ;  rychlost, švih, rozmach, vzlet
-  talíř                   ;  Teller                  ;  talíř
-  tancovat                ;  tanzen                  ;  tančit, tancovat
-  tanec                   ;  Tanz                    ;  tanec
-  tapeta                  ;  Tapete                  ;  tapeta
-  taška                   ;  Tasche = kapsa          ;  taška, brašna
-  tepich                  ;  Teppich                 ;  koberec
-  tráky                   ;  Hosenträger             ;  šle, kšandy
-  trefa                   ;  Treffen                 ;  zásah
-  (s)trefit (se)          ;  treffen                 ;  zasáhnout; vystihnout; najít cestu
-  trepky                  ;  ?                       ;  domácí obuv
-  tringelt                ;  Trinkgeld               ;  spropitné
-  troštovat               ;  trösten                 ;  těšit, utěšovat
-  trotl                   ;  Trottel                 ;  hlupák, blbec
-  truc                    ;  Trotz                   ;  vzdor
-  trucovat                ;  trotzen                 ;  vzdorovat
-  truhla                  ;  Truhe, Trugel           ;  truhla, rakev
-  trumf                   ;  Trumf                   ;  pádný důvod, námitka, důkaz
-  trumfnout, trumfovat    ;  trumpfen                ;  překonat, předstihnout
-  truněk                  ;  Trunk, Trank            ;  alkoholický nápoj
-  trychtýř                ;  Trichter                ;  nálevka, trychtýř
-  tuml                    ;  Tummel                  ;  spěch, chvat, shon
-  tumlovat (se)           ;  tummeln (sich)          ;  spěchat, pospíchat, rychle pracovat
-  tuplák                  ;  Doppelmass              ;  dvoulitrová nádoba
-  tuš                     ;  Tusch                   ;  tuš
-  tušovat                 ;  tuschen                 ;  zakrývat, zastírat, tutlat
-  vana                    ;  Wanne                   ;  vana
-  vandr                   ;  Wanderung               ;  putování
-  vandrovat               ;  wandern                 ;  putovat, toulat se
-  vandrovník, vandrák     ;  Wanderer                ;  poutník, pocestný, tulák
-  vanglovat               ;  wanken                  ;  vrávorat, potácet se
-  vantroky                ;  Trog                    ;  žlab vedoucí vodu na mlýnské kolo
-  varta                   ;  Wart                    ;  stráž
-  vartovat                ;  warten                  ;  hlídat, strážit
-  vata                    ;  Watte                   ;  vata
-  veksl                   ;  Wechsel                 ;  výhybka na dráze
-  vekslák                 ;  Wechsler = směnárník    ;  nelegální obchodník s valutami
-  vekslovat               ;  wechseln = (s)měnit     ;  nelegálně obchodovat s valutami
-  verbovat                ;  werben                  ;  najímat
-  vercajk                 ;  Werkzeug                ;  nářadí
-  verpánek                ;  Werkbank                ;  pracovní stolička
-  verkpaňky               ;  Werkbank                ;  stolička pro ševce (zast.)
+štucovat ;stutzen;zkracovat, zastřihovat
+študent, študák;Student;student
+študie ;Studium;studium
+študovat ;studieren;studovat
+štukatér ;Stukkateur, Stuckkünstler;odborník v štukových pracích
+štulpa, štulpna;stulpen;vysoká bota se zahrnutým okrajem
+štupovačka ;Stopfgarn;látací bavlnka
+štupovat, štepovat ;stopfen;zašívat, látat
+šturc;Sturz;ochranný poklop; slepá kolej
+šturm;Sturm;útok, zteč; nápor; poplach
+šturmhut ;Sturmhut ;vojenská přilba ve tvaru klobouku
+šturmovat;stürmen;brát útokem; naléhat; řítit se, pádit
+štyft, šteft ;Stift;kolík, nýt, šroub
+štych; nechat ve štychu;Stich;steh; nechat na holičkách
+štychpróba ;Stichprobe ;předběžná zkouška, kontrola
+štymovat, štemovat ;stimmen;souhlasit, ladit
+šufánek, žufánek ;Schufen, Schöpfpfanne ;naběračka, sběračka
+šumař;schummeln;potulný hudebník; špatný hudebník
+šunka;Schinken ;šunka
+šunkofleky, šunkafleky ;Schinkenfleckerl ;šunkové flíčky
+šunt ;Schund ;brak, šmejd, bezcenná věc
+šupák;?;sešlý, nedbalý, darebný člověk
+šupina ;Schuppe;šupina; lupy
+šuple, šuplík, šufle ;Schublade;zásuvka
+šuplera, šupléra ;Schublehre ;posuvné měřítko, posuvka
+šurf ;Schurf ;průzkumná šachtice
+šus, šús ;Schuss ;prudký přímý sjezd; odpal, odstřel
+šús;Schuss ;zbrklý, potrhlý člověk
+šutr ;Schotter ;kámen; štěrk
+šutrovat ;schottern;štěrkovat
+šváb ;Schabe ;šváb
+švagr;Schwager ;švagr
+švagrová ;Schwägerin ;švagrová
+švajneraj;Schweinerei;špína, nečistota, nepořádek, svinstvo
+švencovat;schwenzen;ulejvat se
+švenk;schwenken = mávat, natočit ;pohyb kamerou (film.)
+švenkovat;schwenken;pohybovat, zabírat (kamerou)
+švígra, ségra;Schwester;sestra
+švígrfotr;Schwiegervater ;tchán
+švígrmutr;Schwiegermutter;tchýně
+švindl ;Schwindel;lest, úskok, klam, podvod
+švindlíř, švindléř ;Schwindler ;podvodník, šejdíř
+švindlovat ;schwindeln ;podvádět
 
-  verš            ;  Vers                 ;  verš
-    
-  veršovat        ;  Vers                 ;  skládat básně
-  verštat         ;  Werkstatt            ;  dílna
-  vingl, vinkl    ;  Winkel               ;  úhel
-  vinš            ;  Wunsch               ;  blahopřání
-  vinšovat        ;  wünschen             ;  blahopřát
-  vošajslich      ;  scheissen = kálet    ;  velice nepříjemné
-  vurst           ;  Wurst                ;  salám
-  vuřt            ;  Wurst                ;  vuřt, buřt
-  žalm            ;  Psalm                ;  žalm
+švorc ;schwarz ? ;být bez peněz
+
+švorcák ;schwarz ? ;člověk bez peněz
+švunk, švuňk;Schwung ;rychlost, švih, rozmach, vzlet
+talíř ;Teller;talíř
+tancovat;tanzen;tančit, tancovat
+tanec ;Tanz;tanec
+tapeta;Tapete;tapeta
+taška ;Tasche = kapsa;taška, brašna
+tepich;Teppich ;koberec
+tráky ;Hosenträger ;šle, kšandy
+trefa ;Treffen ;zásah
+(s)trefit (se);treffen ;zasáhnout; vystihnout; najít cestu
+trepky;? ;domácí obuv
+tringelt;Trinkgeld ;spropitné
+troštovat ;trösten ;těšit, utěšovat
+trotl ;Trottel ;hlupák, blbec
+truc;Trotz ;vzdor
+trucovat;trotzen ;vzdorovat
+truhla;Truhe, Trugel ;truhla, rakev
+trumf ;Trumf ;pádný důvod, námitka, důkaz
+trumfnout, trumfovat;trumpfen;překonat, předstihnout
+truněk;Trunk, Trank;alkoholický nápoj
+trychtýř;Trichter;nálevka, trychtýř
+tuml;Tummel;spěch, chvat, shon
+tumlovat (se) ;tummeln (sich);spěchat, pospíchat, rychle pracovat
+tuplák;Doppelmass;dvoulitrová nádoba
+tuš ;Tusch ;tuš
+tušovat ;tuschen ;zakrývat, zastírat, tutlat
+vana;Wanne ;vana
+vandr ;Wanderung ;putování
+vandrovat ;wandern ;putovat, toulat se
+vandrovník, vandrák ;Wanderer;poutník, pocestný, tulák
+vanglovat ;wanken;vrávorat, potácet se
+vantroky;Trog;žlab vedoucí vodu na mlýnské kolo
+varta ;Wart;stráž
+vartovat;warten;hlídat, strážit
+vata;Watte ;vata
+veksl ;Wechsel ;výhybka na dráze
+vekslák ;Wechsler = směnárník;nelegální obchodník s valutami
+vekslovat ;wechseln = (s)měnit ;nelegálně obchodovat s valutami
+verbovat;werben;najímat
+vercajk ;Werkzeug;nářadí
+verpánek;Werkbank;pracovní stolička
+verkpaňky ;Werkbank;stolička pro ševce 
+
+verš;Vers ;verš
+
+veršovat;Vers ;skládat básně
+verštat ;Werkstatt;dílna
+vingl, vinkl;Winkel ;úhel
+vinš;Wunsch ;blahopřání
+vinšovat;wünschen ;blahopřát
+vošajslich;scheissen = kálet;velice nepříjemné
+vurst ;Wurst;salám
+vuřt;Wurst;vuřt, buřt
+žalm;Psalm;žalm
 
 
