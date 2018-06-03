@@ -89,7 +89,7 @@
 šenkýř;hostinský, výčepní 
 
 šenkýřka;hostinská
-;
+
 šerm;zápolení bodnou n. sečnou zbraní
 
 šermovat;zápolit bodnou n. sečnou zbraní 
@@ -113,7 +113,7 @@
 šichta;směna
 
 šichtmistr;vedoucí směny
-;
+
 šik ;vojenský útvar, šik; dvojřad
 
 šikovat ;řadit do šiku; poslat
@@ -181,7 +181,7 @@
 šlamastyka, šlamastika;nesnáze, trampoty 
 
 šlank ;štíhlý
-; 
+ 
 šlaušek, šlauch ;hadička
 
 šle ;tráky, kšandy
@@ -634,7 +634,7 @@ ob. štola podzemní chodba, štola horn.
 
 štrajch; večerka;soubor smyčcových nástrojů 
 
-štrajchpudlík; dítě pomáhající v tiskárně kartounů dř.
+štrajchpudlík; dítě pomáhající v tiskárně unů dř.
 
 štrajk; stávka zast.ob.
 
@@ -1306,7 +1306,6 @@ rytmistr;Rittmeister;setník u jízdy
 
 šturmovat; stürmen; brát útokem; naléhat; řítit se,
 
-
 bastlení;Basteln;vyrábění svépomocí
 
 bastlíř ;Bastler;kutil
@@ -1398,7 +1397,6 @@ knejp;Kneip;obuvnický, ševcovský nůž
 kramle ;Klammer, Krampe;tesařská skoba
 
 kyt;Kitt ;tmel, kyt
-
 
 lak;Lack ;nátěr, lak
 
@@ -1694,8 +1692,7 @@ cukrovat, cukřit ;zuckern ;cukrovat, sladit
 
 dort ;Torte ;dort
 
-dynstovat;dünsten ;dusit ()
-
+dynstovat;dünsten ;dusit 
 
 erteple ;Erdäpfel;brambory
 
@@ -1725,13 +1722,13 @@ knedlík ;Knödel;knedlík
 
 koštér;Koster;koštér, ochutnávač
 
-(o)koštovat ;kosten;(o)chutnat
+koštovat ;kosten;(o)chutnat
 
-ík ;Küchenjunge ;ík
+Kuchtík ;Küchenjunge ;ík
 
-it ;kochen;vařit
+kuchtit ;kochen;vařit
 
-ně ;Küche ;ně
+Kuchyň ;Küche 
 
 ládovat se;laden ;cpát se, hltavě pojídat
 
@@ -1746,10 +1743,8 @@ moštárna;Mosterei;moštárna
 nášup ;Naschub  ;přídavek
 
 pajšl ;Beuschel (rak.);hovězí nebo vepřové plíce a
-;; 
-putra ;Butter;žaludek
- ; 
- ;máslo
+
+putra ;Butter;žaludek, máslo
 
 putrovat;buttern ;tlouci máslo
 
@@ -1785,344 +1780,527 @@ sulc;Sulze, Sülze;aspik, rosol, huspenina
 
 šálek ;Schale (rak.) ;šálek, miska
 
-
 šlichta ;Schlichte;břečka, špatné jídlo
- - -
+
 šmak;Geschmack;chuť, příchuť
+
 šmáknout (si) ;schmecken;pochutnat si; přijít vhod
+
 šmakovat;schmecken;chutnat
+
 šmolc ;schmelzen, Schmolz ;přepuštěné máslo
+
 šnycl ;Schnitzel;řízek
+
 šnytlich, šnytlík ;Schnittlauch ;pažitka
+
 šouf;Schufen;naběračka s dlouhým držadlem
+
 špejle;Speiler;špejle
+
 špejlovat ;speilen;uzavírat špejlemi, špejlovat
+
 špek;Speck;slanina, špek
+
 špekáček;Speckwurst ;špekáček
+
 špekbuřt, špekvuřt;Speckwurst  ;tlačenka
+
 špekové knedlíky;Speckknödel;špekové knedlíky
+
 špenát;Spinat ;špenát
+
 špikovat;spicken;protahovat slaninou; prokládat
+
 šporhert, špolhert;Sparherd ;sporák
+
 špunt ;Spund;zátka
-(za)špuntovat ;spunden;(za)zátkovat
+
+špuntovat ;spunden;zátkovat
+
 štola ;Stolle, Stollen;vánočka, houska
+
 štrúdl;Strudel;závin
+
 štrycle, štrycla;Striezel ;podlouhlý chléb, veka, šiška
+
 šufánek, žufánek;Schufen, Schöpfpfanne;naběračka, sběračka
+
 šunka ;Schinken ;šunka
+
 šunkofleky, šunkafleky;Schinkenfleckerl ;šunkové flíčky
+
 talíř ;Teller ;talíř
+
 vurst ;Wurst;salám
+
 vuřt;Wurst;vuřt, buřt
 
- ;Textilní výroba
- ; 
- ;Do této skupiny patří výrazy, které mají něco společného s textilním
- ;průmyslem a obuvnictvím.
-
-Germanismus;Německý výraz;Český odpovídající výraz
---
 cajk ;Zeug ;látka (podřadná)
+
 celta;Zelt ;plachta
+
 cícha;Zieche ;povlak na peřinu
 
-(na)cvikovat (an)zwicken nastřihnout okraj látky při
-
- ;tvarování
+cvikovat (an)zwicken nastřihnout okraj látky při tvarování
 
 cvikl Zwickel klín, nástřih
 
 cvišn ;zwischen = mezi;krejčovská vložka
--
+
 cvok, cvoček;Zwecke ;cvok, cvoček
+
 deka;Decke;deka, pokrývka
+
 entlovat, endlovat;endeln ;obnitkovávat
+
 fald, falt;Falte;záhyb, náběra, řasa
+
 fěrtuch, fěrtoch;Fürtuch;zástěra
+
 filc;Filz ;plsť, filc
+
 firhaněk;Vorhang;záclona
+
 fišpán, fišbajn ;Fischbein;kostice
+
 flauš ;Flausch, Flaus ;flauš
+
 flek;Fleck;záplata; skvrna
+
 flikovat;flicken;přištipkovat, záplatovat, látat
+
 flitr ;Flitter;flitr, cetka
+
 frak;Frack;frak
+
 fusakle, fusekle;Fu3socke, Fu3söckel;ponožka
+
 futro ;Futter ;podšívka
+
 futrovat;füttern;podšívat
+
 galoše;Galosche ;galoše, přezůvka
+
 grádl ;Gradel ;hustá lněná nebo bavlněná látka
+
 hadr, hadra; hadry;Hader;hadr; šaty
+
 hantuch ;Handtuch ;ručník
+
 hašple;Haspel ;vana s vijákem pro barvení tkanin
-(na)heftovat;(an)heften ;nastehovat
+
+heftovat;(an)heften ;nastehovat
+
 hózny ;Hose ;kalhoty
+
 jupka ;Joppe;ženský kabátek, kazajka
+
 kamaše;Gamasche ;kamaše
+
 kapuce;Kaputze;kapuce
+
 krajzl, krejzl, krejzlík;Kragen ;široký límec, límeček
+
 kšilt ;Schild ;štítek čepice
+
 kytle, kytlice;Kittel ;spodní sukně
+
 lacl;Lätzchen ;náprsní část oděvu, náprsenka
+
 lajntuch;Leintuch ;prostěradlo
+
 léga;Lege ;obruba
+
 mandl ;Mangel ;mandl
+
 mantl ;Mantel ;kabát
+
 mašle ;Masche ;mašle, stuha
+
 mustr ;Muster ;vzor, vzorek
+
 pantofel;Pantoffel;pantofel, trepka
+
 piglovat;bügeln ;žehlit
+
 rantl ;Rand, Randel ;okraj, obruba, lem
 
- ;rašl ? stroj na výrobu vzorované pleteniny
- ; 
- ;rolák Rollkragenpullover svetr n. tričko s ohrnovacím límcem
+rašl ? stroj na výrobu vzorované pleteniny
+
+rolák Rollkragenpullover svetr n. tričko s ohrnovacím límcem
 
 ryps;Rips;tkanina s vroubky
 
 samet ;Samt;matně lesklá tkanina, samet
+
 sichrhajska, sichrhajcka;Sicherheitsnadel;zavírací špendlík
+
 šablona ;Schablone ;vzor, předloha
+
 šarlat;Scharlach ;tkanina jasně červené barvy
+
 šláfrok ;Schlafrock;župan
+
 šlajer, šlojíř;Schleier;závoj, rouška
+
 šlajfka ;Schleife;kravata, vázanka
+
 šle ;? ;tráky, kšandy
+
 šněrovačka;schnüren;korzet
+
 šnuptychl ;Schnupftuch ;kapesník
+
 šnyt;Schnitt ;střih (šatů); řez
+
 šnytovat;schneiden, schnitten;opracovávat okraje podešve
+
 šorc;Schurz;zástěra
+
 šos ;Schoss;cíp kabátu
+
 šotyš ;Schottische ;skotský vzor
+
 špendlík;Stecknadel;špendlík
+
 špendlit;zustecken ;špendlíky připevňovat, spojovat
+
 šponovky;spannen ;dlouhé přiléhavé kalhoty
+
 štafírovat;? ;obšívat; upravovat, krášlit, zdobit
+
 štekle;Stöckelabsätze;vysoké podpatky
+
 štep;stopfen ;strojový steh; zalátané místo
+
 štikování ;Stickerei ;vyšívání
+
 štikovat;sticken ;vyšívat
+
 štof;Stoff ;vlněná látka, tkanina
+
 štrikování;Stricken;pletení
+
 štrikovat ;stricken;plést
+
 štrymfle;Strümpfe;punčochy
+
 štucl, štucel ;stutzen ;rukávník
+
 štucovat;stutzen ;zkracovat, zastřihovat
+
 štulpa, štulpna ;stulpen ;vysoká bota se zahrnutým okrajem
+
 štupovačka;Stopfgarn ;látací bavlnka
+
 štupovat, štepovat;stopfen ;zašívat, látat
+
 štych ;Stich ;steh
+
 štychpróba;Stichprobe;předběžná zkouška
+
 tráky ;Hosenträger ;šle, kšandy
+
 trepky;? ;domácí obuv
 
- ;Vybavení domu a statku
- ; 
- ;Do této skupiny jsem zařadila výrazy, které označují vybavení a
- ;zařízení domu nebo statku a vše, co se toho týká.
-
-Germanismus;Německý výraz;Český odpovídající výraz
-
 ajnclík;Einzelzimmer ;jednolůžkový pokoj
+
 cimra;Zimmer ;pokoj
+
 fajrovat ;feuern ;hodně topit; prudce hořet
+
 fůra, fůrka;Fuhre;povoz, fůra
+
 futra;Futter ;zárubeň (u dveří)
+
 grunt;Grund;selský statek
+
 gruntovat;grundieren ;důkladně, od základu uklízet
+
 hajcovat ;heizen ;topit, hřát
+
 hauzknecht ;Hausknecht ;pacholek, čeledín
+
 hicovat;hitzen ;topit, silně hřát
+
 hunškop ;Kopf = hlava ;koňský náhlavek, ohlávka
+
 kamrlík;Kämmerlein ;komůrka, malá místnost
+
 kanape ;Kanapee;pohovka
+
 kára ;Karre, Karren;vozík, trakař, kolečko, kárka
+
 klandr ;Geländer ;zábradlí
+
 komora ;Kammer ;komora
+
 kredenc;Kredenz;příborník, kredenc
+
 kšír, kšíry;schirren ;postroj, popruhy
-(o)kšírovat;schirren ;dát postroj, zapřahat
-ně;Küche;ně
+
+kšírovat;schirren ;dát postroj, zapřahat
+
+Kuchyně;Küche
+
 kumbál ;?;malá temná místnost
+
 kutloch;Kuttelhof ;malá nevzhledná místnost, brloh
+
 kvartýr;Quartier ;byt, příbytek
+
 kýbl ;Kübel;kbelík, vědro
+
 lampa;Lampe;lampa, svítilna
+
 legát;Legat;židle s vyřezávaným opěradlem
+
 lustr;Luster ;lustr, stropní svítidlo
+
 maštal ;Marstall ;chlév, stáj, konírna
+
 matrace, madrace ;Matratze ;matrace
+
 rýgl, rygl ;Riegel ;zástrčka, závora
-(za)ryglovat ;Riegel ;zavřít na závoru, zástrčku
+
+ryglovat ;Riegel ;zavřít na závoru, zástrčku
+
 rýna ;Rinne;okapní žlab
+
 sesle, sesla ;Sessel ;židle
+
 skříň;Schrein, Schrank ;skříň, skříňka
+
 spíž, spíže, spižírna;Speise(kammer) ;místnost k uložení potravin
+
 šafář;Schaffer ;(hospodářský) správce
+
 šafářovat;schaffen ;být šafářem; rozkazovat druhým
+
 šamrle, šamrdle;Schemel;nízká stolička, podnožka
+
 širm ;Schirm ;stínidlo lampy
+
 škopek ;Schaff ;škopek, dřez
+
 šopa ;Schuppen ;kůlna, dřevník
+
 špajz, špajzka ;Speisekammer ;spíže, spižírna
 
 špalda ;Spalte;druh pšenice, samopše
--
+
 špejchar ;Speicher;sýpka
+
 špeluňka ;Spelunke;malá tmavá místnost
+
 špígl;Spiegel ;zrcadlo, zrcátko
+
 špíže, špížka, špižírna;Speise(kammer);místnost k uložení potravin
+
 šrank;Schrank ;skříň
+
 šrot ;Schrot;krmivo, drť
+
 šrotovat ;schroten;šrotovat, drtit (obilí)
+
 šrotovník;Schrotmühle ;zařízení sloužící k výrobě šrotu
+
 štok ;Stock ;poschodí, patro
 štokrle, štokrlík;Stockerl;ňská sedačka bez opěradla
+
 štoudev;? ;větší dřevěná nádoba, menší káď
+
 štrozok;Strohsack ;slamník
+
 šuple, šuplík, šufle ;Schublade ;zásuvka
+
 tapeta ;Tapete;tapeta
+
 tepich ;Teppich ;koberec
+
 vana ;Wanne ;vana
 
- ;Zoologie a botanika
- ; 
- ;Do této skupiny patří výrazy přejaté z němčiny z oblasti zoologie a
- ;botaniky.
-
-Germanismus;Německý výraz;Český odpovídající výraz
--
 blekotat ;blöken ;blekotat; bečet, bučet
+
 datle;Dattel ;datle
 erteple;Erdäpfel ;brambory
+
 fakrle ;Ferkel ;sele, podsvinče
+
 filcka ;Filzlaus ;druh vši, muňka
+
 flígr;Flügel ;křídlo
+
 hajtra ;Heupferd ;špatný, sešlý kůň
+
 herinek, herink;Hering ;sleď
+
 humr ;Hummer ;humr, mořský rak
+
 kamilky;Kamille;heřmánek
+
 karfiol;Karfiol;květák
+
 kél;Kohl ;kapusta
+
 kupírovat;kupieren ;kupírovat
+
 mandle ;Mandel ;mandle
+
 mečet, mekat ;meckern;mečet
+
 mekot;Meckern;mečení, mekot
+
 mlok ;Molch;mlok, salamandr
+
 mušle;Muschel;lastura, ulita
 
 rajs ;Reis;rýže
---
-ramlice;Rammler ;samice králíka nebo zajíce
+--ramlice;Rammler ;samice králíka nebo zajíce
+
 ramlík ;Rammler ;samec králíka nebo zajíce
+
 ramlování;Rammelzeit;páření se (o králících)
+
 rap;Rappe ;černý kůň, vraník
+
 ratlík ;Rattler ;malý hladkosrstý pinč
+
 rebarbora;Rhabarber ;reveň
+
 rozinka;Rosine;rozinka, hrozinka
+
 rybíz;Ribisel (rak.);rybíz
+
 salamandr;Salamander;mlok
+
 šalvěj ;Salbei;šalvěj
+
 šelma;Schelm;šelma, dravý savec
+
 šiml ;Schimmel;bělouš, bílý kůň
+
 škeble ;? ;sladkovodní mlž; lastura
+
 šnek ;Schnecke;hlemýžď, šnek
+
 šnytlich, šnytlík;Schnittlauch;pažitka
+
 špargl ;Spargel ;chřest
+
 špenát ;Spinat;špenát
+
 špendlík ;Stecknadel;sorta slívy
+
 špic ;Spitz(hund) ;plemeno psů
+
 šprot, šprota;Sprotte ;mořská rybka příbuzná sledi
+
 štokfiš;Stockfisch;treska
 šváb ;Schabe;šváb
 
- ;Pohostinství
- ; 
- ;Do této skupiny jsem zařadila výrazy, které mají něco společného s
- ;pohostinstvím a jeho označením.
-
-Germanismus;Německý výraz;Český odpovídající výraz
---
 knajpa ;Kneipe ;hospoda
+
 krčma;Kretschmer ;hospodský
+
 krčmář ;Kretschmer ;hospodský
+
 lokál;Lokal;hostinec, hostinský podnik
+
 pajzl;Beisel ;putyka, krčma
+
 pingl;Bündel ;číšník
+
 putyka ;Butike ;hospoda nejnižšího řádu
+
 rauš ;Rausch ;(alkoholické) opojení, špička
+
 runda;Runde;kolo, okruh, stolní společnost
+
 sekt ;Sekt ;šumivé víno
+
 servírka ;Serviererin;zaměstnankyně v restauraci
 
 servírovat;servieren ;podávat (jídlo)
 
 servít(ek);Serviette ;ubrousek
+
 šenk;Schenke, Schank ;hospoda, výčep, nálevna
+
 šenkovat;schenken;nalévat, čepovat
+
 šenkovna;Schenke, Schank ;hospoda, výčep, nálevna
+
 šenkýř;Schenkwirt;hostinský, výčepní
+
 šenkýřka;Schenkwirtin;hostinská
+
 šláftruňk ;Schlaftrunk ;uspávací nápoj
+
 šnaps, šnába;Schnaps ;kořalka, pálenka
+
 špeluňka;Spelunke;malá hospoda nejhoršího řádu
+
 špiritus;Spirit;líh, alkohol
+
 špric ;Gespritzte, Spritzer;vinný střik
+
 štamgast;Stammgast ;stálý host
+
 štamprle;Schnapsglas ;kalíšek, stopka
+
 tringelt;Trinkgeld ;spropitné
+
 truněk;Trunk, Trank;alkoholický nápoj
+
 tuplák;Doppelmass;dvoulitrová nádoba
 
- ;Feudalismus
- ; 
- ;Do této skupiny jsem zařadila výrazy z období feudalismu, především
- ;různé tituly šlechty a označení služebnictva.
-
-Germanismus;Německý výraz ;Český odpovídající výraz
-
 forman, furman ;Fuhrmann;vozka, kočí
+
 gráf, gróf ;Graf;hrabě
+
 hauzknecht ;Hausknecht;pacholek, čeledín
+
 heršaft, heršoft ;Herrschaft;panstvo, vrchnost
+
 hofmistr ;Hofmeister;hofmistr; vychovatel
+
 hrabě;Graf;hrabě, příslušník vyšší šlechty
+
 kamerdíner ;Kammerdiener;komorník 
+
 kurfiřt;Kurfürst;držitel říšského arciúřadu
+
 lantkrabě, lankrabě;Landgraf;knížecí titul, lankrabě
+
 lantkrabství, lankrabství;Landgrafschaft;území spravované lankrabětem
+
 leník;Lehenmann ;leník, vazal, man
+
 léno ;Lehn, Lehen ;léno, feudum
+
 lokaj;Lakai ;lokaj, sluha
+
 markrabě, markrabí ;Markgraf;markrabě, knížecí titul
+
 markrabství;Markgrafschaft;země spravované markrabětem
+
 purkmistr;Bürgermeister ;purkmistr, starosta
+
 rychta ;Richte;obydlí, sídlo rychtáře
 
-
 rychtář ;Richter ;rychtář, starosta
---
+
 rytíř ;Ritter;rytíř
 
 šlechta ;Geschlecht;šlechta, vládnoucí třída,
-;; 
-šlechtic;Geschlecht;aristokracie
- ; 
- ;příslušník šlechty, aristokrat
 
+šlechtic;Geschlecht;aristokracie,příslušník šlechty, aristokrat
 
- ;štalmistr Stallmeister podkoní; jeden z dvorských úředníků
+štalmistr Stallmeister podkoní; jeden z dvorských úředníků
 
 štolba Stallmeister podkoní, správce konírny
-
- ;Stavebnictví
- ; 
- ;Do této skupiny patří výrazy z oblasti stavebnictví a stavitelství
- ;včetně označení staveb.
-
-Germanismus Německý výraz Český odpovídající výraz
 
 bagr Bagger bagr, rypadlo
 
@@ -2142,7 +2320,7 @@ lusthaus Lusthaus letohrádek
 
 polír Polier dílovedoucí, stavbyvedoucí
 
- ;rajblík Reibebrett zednické nebo betonářské hladítko
+rajblík Reibebrett zednické nebo betonářské hladítko
 
 římsa Sims římsa
 
@@ -2154,75 +2332,77 @@ sokl Sockel podstavec, podnož, patka
 
 šindelář Schindelmacher  výrobce šindelů
 
- ;špaleta Spalt, Spalte= trhlina, spára
-
-ostění
+špaleta Spalt, Spalte= trhlina, spára ostění
 
 šutrovat schottern štěrkovat
 
 štukatér Stukkateur, Stuckkünstler odborník v štukových pracích
 
- ;Hornictví a hutnictví
- ; 
- ;Do této skupiny patří výrazy přejaté z němčiny z oblasti hornictví a
- ;hutnictví.
-
-Germanismus ;Německý výraz;Český odpovídající výraz
--
 fárat ;einfahren;sjíždět do dolu, fárat
+
 fedrovat;fördern;těžit, dolovat
+
 havíř ;Hauer;havíř, horník
+
 huť ;Hütte;huť
+
 pergmistr ;Bergmeister;důlní dozorce, důlní mistr
+
 šachta;Schacht;důl, šachta
+
 šála;Schal;těžní klec
+
 šalíř ;?;topič v sklářské huti
+
 šibík ;Stapel ;slepá chodba (horn.)
+
 šlam;Schlamm;usazenina uhelného prachu
+
 šlicovat;schlitzen;dělat zátinku
+
 šmant, šmont;?;uhelný prach; druh briket
+
 šmelc ;Schmelz;staré železo, šrot
+
 šmelcíř ;Schmelzer;tavič
+
 šmelcovat ;schmelzen;tavit
+
 šmelcovna ;Schmelzerei;tavírna
+
 šrot;Schrott;odpad, staré železo
-šrotovat;schrotten;šrotovat, drtit (staré železo)
+
+šrotovat;schrotten;šrotovat, drtit 
+
 štajgr;Steiger;důlní dozorce
-štendr;Ständer;stojka (horn.)
+
+štendr;Ständer;stojka 
+
 štola ;Stollen;podzemní chodba, štola
+
 šurf;Schurf ;průzkumná šachta
+
 šus, šús;Schuss ;odpal, odstřel
+
 šutr;Schotter ;kámen; štěrk
 
- ;Administrativa a poštovnictví
- ; 
- ;Do této skupiny jsem zařadila výrazy úřední, administrativní a z
- ;oblasti poštovnictví a soudnictví.
-
--
-Germanismus;Německý výraz;Český odpovídající výraz
--
 amt;Amt;úřad
 
 bichle ;Büchel ;kniha, knížka
 
 byró, byro ;Büro ;kancelář; vedoucí výkonný
- ; ; 
-kancelář ;Kanzlei;orgán
- ; 
- ;kancelář
 
-kartotéka;Kartothek;kartotéka
--
+kancelář ;Kanzlei;orgán,kancelář
 
- ;kastl, kastlík Kasten skříň, skříňka, schránka, bednička
+téka;thek;téka
+
+kastl, kastlík Kasten skříň, skříňka, schránka, bednička
 
 krajsamt Kreisamt okresní, krajský úřad
 
-
 landkrycht ;Landgericht ;krajský soud 
 
-(od)lifrovat ;(ab)liefern ;dodávat; poslat, odeslat
+lifrovat ;(ab)liefern ;dodávat; poslat, odeslat
 
 ortel;Urteil;rozsudek, verdikt
 
@@ -2241,10 +2421,8 @@ radýrovat;radieren;gumovat, vymazávat gumou
 rustika;rustikal;písmo protáhlé do výšky
 
 úřední šiml;Schimmel;bezduché, byrokratické
- ;; 
-šmírák ;Schmiere;úřadování
-; 
-;koncept
+
+šmírák ;Schmiere;úřadování, koncept
 
 šmírbuch ;Schmierbuch ;pomocná účetní kniha
 
@@ -2256,62 +2434,71 @@ rustika;rustikal;písmo protáhlé do výšky
 
 štemplovat ;stempeln;razítkovat
 
-
- ;Školství
- ; 
- ;Do této skupiny patří výrazy z oblasti školství a studentské slangové
- ;výrazy.
-
-Germanismus ;Německý výraz;Český odpovídající výraz
--
 biflovat;büffeln;učit se nazpaměť
+
 bichle;Büchel ;kniha, knížka
+
 děkan ;Dekan;děkan
+
 děkanát ;Dekanat;děkanát
+
 jár ;(Studien)jahr;rok, ročník
+
 karcer;Karzer ;školní vězení 
+
 radýrka ;Radiergummi;guma (na vymazávání)
+
 radýrovat ;radieren ;gumovat, vymazávat gumou
+
 šíbr;Schieber ;logaritmické pravítko
+
 šprechtit ;sprechen ;mluvit (německy)
+
 šrafa ;Schraffe ;čára, křivka
+
 šrafování ;Schraffierung;čárkování, šrafování
+
 šrafovat;schraffen, schraffieren;vyplňovat šrafami, čárkovat
+
 študent, študák ;Student;student
+
 študie;Studium;studium
+
 študovat;studieren;studovat
+
 šuplera, šupléra;Schublehre ;posuvné měřítko, posuvka
 
- ;Církev
- ; 
- ;Do této skupiny patří církevní výrazy.
-
-Germanismus;Německý výraz;Český odpovídající výraz
--
 biskup ;Bischof;biskup
+
 fara ;Pfarre ;farní úřad
+
 farář;Pfarrer;farář, duchovní
+
 farník ;Pfarrkind;farník
+
 farnost;Pfarrei;farnost
+
 fortna ;Pforte ;brána u kláštera
+
 kacíř;Ketzer ;kacíř, heretik
+
 kacířství;Ketzerei ;kacířství, hereze
+
 kaplan ;Kaplan ;kaplan
+
 kaple, kaplička;Kapelle;kaple
+
 klášter;Kloster;klášter
+
 kutna;Kutte;svrchní mnišský oděv
+
 mnich;Mönch;mnich, řeholník
+
 mše;Messe;mše, bohoslužba
+
 škapulíř ;Skapulier ;část mnišského roucha
 
- ;štóla Stola pruh látky, kt. nosí katolický kněz
- ; 
- ;Železniční obor
- ; 
- ;Do této skupiny jsem zařadila převážně slangové výrazy, které
- ;používají zejména železničáři.
-
-Germanismus Německý výraz Český odpovídající výraz
+štóla Stola pruh látky, kt. nosí katolický kněz
 
 abtajlunk Abteilung oddíl, kupé
 
@@ -2320,16 +2507,10 @@ ajznboňák Eisenbahner železničář
 hytlák Hüttelwagen krytý nákladní vagón; služební
 
 štreka;Strecke;cesta, dráha, trať
--
+
 šturc ;Sturz;slepá kolej
+
 veksl ;Wechsel;výhybka na dráze
-
- ;Motorismus
- ; 
- ;Do této skupiny patří motoristické výrazy.
-
-
-Germanismus ;Německý výraz;Český odpovídající výraz
 
 blinkr, blikač;Blinker;směrovka, blinkr
 
@@ -2338,14 +2519,12 @@ blikat, bliknout;blinkern ;blikat, bliknout
 kvalt ;Gewalt ? ;rychlostní stupeň, rychlost
 
 ráfek ;Reifen ;obvodová část kola pro
-; ; 
-rejd;Reiten ? ;pneumatiku
-; 
-;úhel vychýlení řízení
+
+rejd;Reiten ? ;pneumatiku, úhel vychýlení řízení
 
 rejdovat;reiten ? ;řídit směr vozidla, zatáčet, řídit
 
-(vy)šaltovat;schalten ;(vy)řadit
+šaltovat;schalten ;(vy)řadit
 
 šaltpáka;Schalthebel;řadicí páka
 
@@ -2355,29 +2534,15 @@ rejdovat;reiten ? ;řídit směr vozidla, zatáčet, řídit
 
 špígl ;Spiegel;zrcadlo, zrcátko
 
+fuj!;pfui!;fuj! ()
 
- ;Nadávky a zaklení
- ; 
- ;Do této malé skupiny jsem zařadila výrazy přejaté z němčiny, které
- ;vyjadřují citoslovce, zaklení a zvolání.
+fujtajbl!, fujtajfl!;pfui Teufel! ;fujtajbl!, fujtajfl! 
 
-Germanismus ;Německý výraz;Český odpovídající výraz
---
-fuj!;pfui!;fuj! (citoslovce)
-fujtajbl!, fujtajfl!;pfui Teufel! ;fujtajbl!, fujtajfl! (citoslovce)
-hergot! ;Herrgott!;hergot!, pane Bože! (zaklení)
-heršoft!;Herrschaft!;heršoft! (zaklení)
+hergot! ;Herrgott!;hergot!, pane Bože! 
 
-himlhergot! Himmelherrgott! Bože na nebesích! (zaklení,
+heršoft!;Herrschaft!;heršoft!; pravidlo
 
- ;zvolání)
- ; 
- ;Ustálená slovní spojení
- ; 
- ;Zvláštní skupinu tvoří ustálená slovní spojení přejatá z němčiny nebo
- ;utvořená ze slov přejatých z němčiny.
-
-Germanismus Německý výraz Český odpovídající výraz
+himlhergot! Himmelherrgott! Bože na nebesích! (,
 
 nemít ani ánunk Ahnung nemít ani tušení, ponětí
 
@@ -3112,9 +3277,9 @@ helma, helmice Helm přilba, helma
 
 herberk Herberge cechovní hospoda; špatná noclehárna
 
-herc Herz srdce, červená (kart.)
+herc Herz srdce, červená ()
 
-hergot! Herrgott! hergot!, pane Bože! (zaklení)
+hergot! Herrgott! hergot!, pane Bože! ()
 
 hermelín Hermelin zímní bílá kožešina z hranostaje
 
@@ -3122,7 +3287,7 @@ herold Herold dvorský obřadník vyhlašující zprávy
 
 heršaft, heršoft Herrschaft panstvo, vrchnost
 
-heršoft! Herrschaft! heršoft! (zaklení)
+heršoft! Herrschaft! heršoft! ()
 
 herynek, herynk;Hering ;nasolený sleď, slaneček
 
@@ -3132,7 +3297,7 @@ hic;Hitze;horko, teplo, žár
 
 hicovat;heizen ;topit; silně hřát, pálit, sálat
 
-himlhergot!;Himmelherrgott!;Bože na nebesích! (zaklení, zvolání)
+himlhergot!;Himmelherrgott!;Bože na nebesích! (, zvolání)
 
 hin, hín ;hin;zničený, vyčerpaný; pryč
 
@@ -3286,7 +3451,7 @@ karcer Karzer školní vězení
 
 karfiol Karfiol květák
 
-kartotéka Kartothek kartotéka
+téka thek téka
 
 kasa Kasse pokladna
 
@@ -4830,7 +4995,7 @@ na štorc Sturz ? obráceně, napříč
 
 štrajch Zapfenstreich večerka;soubor smyčcových nástrojů
 
-štrajchpudlík ? dítě pomáhající v tiskárně kartounů
+štrajchpudlík ? dítě pomáhající v tiskárně unů
 
 štrajk Streik stávka
 
