@@ -1,6 +1,4 @@
-:withsubpages
 
-<meta charset="UTF-8"> 
 
 **Germanisiert=poněmčený**
 
